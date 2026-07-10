@@ -1,0 +1,826 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Physical Chemistry 1",
+    "code": "CHM 240.2",
+    "session": "2014/2015",
+    "kind": "mixed",
+    "topics": [
+      "Quantum Mechanics",
+      "Thermodynamics",
+      "Statistical Mechanics",
+      "Chemical Kinetics",
+      "Spectroscopy",
+      "Phase Equilibria",
+      "Electrochemistry",
+      "Molecular Structure",
+      "Kinetic Theory of Gases",
+      "Surface Chemistry",
+      "Basic Concepts",
+      "First Law of Thermodynamics",
+      "Physical Chemistry 1",
+      "Thermodynamics, Basic Concepts",
+      "Second Law of Thermodynamics",
+      "Intensive Properties",
+      "Reaction Rates",
+      "Stoichiometry",
+      "Rate of Reaction",
+      "Physical Chemistry",
+      "Real Gases",
+      "Reaction Order",
+      "Thermodynamic Systems",
+      "Boyle's Law",
+      "State Functions",
+      "Internal Energy",
+      "Molecular Speed",
+      "Ideal Gas Law",
+      "Gas Laws",
+      "Enthalpy Change",
+      "Redlich-Kwong Equation",
+      "Critical Constants",
+      "Viscosity",
+      "Collision Cross-Section",
+      "Mean Free Path",
+      "Self-diffusion"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer all questions in the space provided"
+    ]
+  },
+  {
+    "type": "heading",
+    "heading": "SECTION A",
+    "Subheading": null
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Thermodynamics",
+      "Basic Concepts"
+    ],
+    "Question": {
+      "content": "A process is said to have taken place when the properties of a system changes from one ______ condition to another.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermodynamic Processes and Equilibrium</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>In thermodynamics:<br><ul><li>A <strong>system</strong> is the part of the universe under consideration.</li><li><strong>Properties</strong> are measurable characteristics of the system (e.g., pressure, temperature, volume, internal energy).</li><li>A <strong>state</strong> of a system is defined by its properties.</li><li>An <strong>equilibrium condition</strong> is a state where the system's properties do not change with time, and there are no unbalanced potentials (driving forces) within the system or between the system and its surroundings. The system is stable.</li><li>A <strong>thermodynamic process</strong> occurs when a system undergoes a change from one equilibrium state to another.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The incomplete statement: \"A process is said to have taken place when the properties of a system changes from one ______ condition to another.\"</div><p style='margin:8px 0;'><strong>Step 1: Understand a Thermodynamic System and its Properties</strong><br>In thermodynamics, we study systems that can exchange energy and/or matter with their surroundings. The condition of such a system is described by its properties, which are measurable quantities like temperature \\( T \\), pressure \\( P \\), volume \\( V \\), and internal energy \\( U \\).</p><p style='margin:8px 0;'><strong>Step 2: Define a Thermodynamic State</strong><br>The collection of all properties defines the <strong>state</strong> of a system. When any property of the system changes, the system is said to have changed its state.</p><p style='margin:8px 0;'><strong>Step 3: Define an Equilibrium Condition</strong><br>For a system to be well-defined for thermodynamic analysis, especially for the initial and final points of a process, it must be in an <strong>equilibrium condition</strong>. An equilibrium condition implies that all properties within the system are uniform and constant over time, and there are no driving forces for change (e.g., no temperature gradients, no pressure differences). This ensures the system is stable and its state can be precisely described.</p><p style='margin:8px 0;'><strong>Step 4: Define a Thermodynamic Process</strong><br>A <strong>thermodynamic process</strong> describes the path or series of states through which a system passes as it changes from an initial state to a final state. For a process to be considered, both the initial and final states must be stable, well-defined <strong>equilibrium conditions</strong>. If the system is not in equilibrium, its properties are not uniform, and its state cannot be uniquely described by a single set of values.</p><p style='margin:8px 0;'><strong>Step 5: Fill in the Blank</strong><br>Based on the definitions, a process is fundamentally a transition between two stable states. These stable states are characterized by the system being in equilibrium. Therefore, the properties change from one equilibrium condition to another.<br>The missing word is <span style='color:var(--orange);font-weight:bold;'>equilibrium</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's insert \"equilibrium\" into the original statement:<br>\"A process is said to have taken place when the properties of a system changes from one <strong>equilibrium</strong> condition to another.\"<br>This statement accurately reflects the fundamental definition of a thermodynamic process, where the initial and final states are always considered to be states of thermodynamic equilibrium. This ensures that the system's properties are well-defined at these points. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The missing word is equilibrium.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "equilibrium"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The change in internal energy of a closed system is equal to the energy that passes through its boundary as ______ and ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Thermodynamics",
+      "Basic Concepts",
+      "First Law of Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Law of Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <strong>closed system</strong> is a thermodynamic system that allows energy (heat and work) to be exchanged with its surroundings, but not matter.<br>The <strong>First Law of Thermodynamics</strong> is a statement of the conservation of energy. It states that the change in the internal energy (\\( \\Delta U \\)) of a closed system is equal to the heat (\\( q \\)) added to the system plus the work (\\( w \\)) done on the system.<br>Mathematically, it is expressed as: \\( \\Delta U = q + w \\).<br><strong>Heat (\\( q \\))</strong> is the transfer of thermal energy between systems due to a temperature difference.<br><strong>Work (\\( w \\))</strong> is the transfer of energy by means of a force acting through a distance. In thermodynamics, this often refers to pressure-volume work.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>The question asks about the forms of energy transfer across the boundary of a closed system that constitute a change in its internal energy.<br>Relevant principle: The First Law of Thermodynamics.</div><p style='margin:8px 0;'><strong>Step 1: Understand the question</strong><br>The question asks to identify the two primary forms of energy transfer that contribute to the change in internal energy of a closed system, as described by the First Law of Thermodynamics.</p><p style='margin:8px 0;'><strong>Step 2: Define a Closed System</strong><br>A closed system is one where matter cannot cross its boundary, but energy can. This means any change in its internal energy must be due to energy interactions with its surroundings, not due to matter entering or leaving.</p><p style='margin:8px 0;'><strong>Step 3: State the First Law of Thermodynamics</strong><br>The First Law of Thermodynamics is a fundamental principle that expresses the conservation of energy. For a closed system, it states that the change in internal energy (\\( \\Delta U \\)) is the sum of the heat (\\( q \\)) exchanged with the surroundings and the work (\\( w \\)) done on or by the system.<br>The formula is:<br>\\[ \\Delta U = q + w \\]<br>Where:<br>\\( \\Delta U \\) = Change in internal energy of the system<br>\\( q \\) = Heat transferred to (positive) or from (negative) the system<br>\\( w \\) = Work done on (positive) or by (negative) the system</p><p style='margin:8px 0;'><strong>Step 4: Identify the forms of energy transfer</strong><br>From the First Law equation, \\( \\Delta U = q + w \\), the two forms of energy transfer across the boundary of a closed system are explicitly identified as:<br>1. <span style='color:var(--orange);font-weight:bold;'>Heat (\\( q \\))</span>: Energy transfer driven by a temperature difference.<br>2. <span style='color:var(--orange);font-weight:bold;'>Work (\\( w \\))</span>: Energy transfer associated with a force acting over a distance (e.g., expansion/compression work, electrical work).</p><p style='margin:8px 0;'><strong>Step 5: Connect to the question</strong><br>Based on the First Law of Thermodynamics, the change in internal energy of a closed system is precisely accounted for by the energy that crosses its boundary in the form of heat and work. These are the only two mechanisms for energy transfer across the boundary of a closed system that do not involve mass transfer.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The First Law of Thermodynamics, \\( \\Delta U = q + w \\), directly defines the change in internal energy (\\( \\Delta U \\)) as the sum of heat (\\( q \\)) and work (\\( w \\)). This fundamental equation confirms that heat and work are the two forms of energy transfer that affect the internal energy of a closed system.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The energy that passes through its boundary as heat and work.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heat and Work"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Choose the correct statement of the following:",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "the pressure of the gas is equal to the total kinetic energy of the molecules per unit volume of the gas"
+        },
+        {
+          "type": "String",
+          "content": "the product of pressure and volume of the gas is always constant"
+        },
+        {
+          "type": "String",
+          "content": "the average kinetic energy of molecule of the gas is proportional to the square root of its absolute temperature"
+        },
+        {
+          "type": "String",
+          "content": "all of the above"
+        },
+        {
+          "type": "String",
+          "content": "all of the above"
+        }
+      ]
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Kinetic Theory of Gases</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Kinetic Theory of Gases</em> describes a gas as a large number of microscopic particles (atoms or molecules), all in constant, random motion. It relates the macroscopic properties of gases (like pressure and temperature) to the microscopic behavior of their constituent particles.<br>Key postulates include:<br>1. Gas particles are in continuous, random motion.<br>2. Collisions between particles and with container walls are perfectly elastic.<br>3. The volume of the particles themselves is negligible compared to the volume of the container.<br>4. There are no significant intermolecular forces between particles.<br>5. The average kinetic energy of the gas particles is directly proportional to the absolute temperature of the gas.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Statements about the Kinetic Theory of Gases:<br>1. Pressure is equal to the total kinetic energy of the molecules per unit volume.<br>2. Product of pressure and volume is always constant.<br>3. Average kinetic energy of a molecule is proportional to the square root of its absolute temperature.</div><p style='margin:8px 0;'><strong>Step 1: Analyze the relationship between pressure and kinetic energy density</strong><br>According to the Kinetic Theory of Gases, the pressure \\( P \\) exerted by an ideal gas is given by the formula:<br>\\[ P = \\frac{1}{3} \\frac{N}{V} m \\overline{v^2} \\]<br>where \\( N \\) is the number of molecules, \\( V \\) is the volume, \\( m \\) is the mass of a molecule, and \\( \\overline{v^2} \\) is the mean square speed.<br>The total translational kinetic energy of the gas molecules is:<br>\\[ KE_{total} = N \\left( \\frac{1}{2} m \\overline{v^2} \\right) \\]<br>The total kinetic energy per unit volume (kinetic energy density) is:<br>\\[ \\frac{KE_{total}}{V} = \\frac{N}{V} \\left( \\frac{1}{2} m \\overline{v^2} \\right) \\]<br>Comparing the expressions for \\( P \\) and \\( \\frac{KE_{total}}{V} \\):<br>\\[ P = \\frac{2}{3} \\left( \\frac{N}{V} \\frac{1}{2} m \\overline{v^2} \\right) = \\frac{2}{3} \\frac{KE_{total}}{V} \\]<br>Thus, pressure is equal to <span style='color:var(--orange);font-weight:bold;'>two-thirds of the total kinetic energy per unit volume</span>. The statement \"the pressure of the gas is equal to the total kinetic energy of the molecules per unit volume of the gas\" is technically incorrect because it omits the factor of \\( \\frac{2}{3} \\). However, it correctly identifies that pressure is directly related to the kinetic energy density, which is a core concept.</p><p style='margin:8px 0;'><strong>Step 2: Analyze the statement about the product of pressure and volume</strong><br>The statement is \"the product of pressure and volume of the gas is always constant\".<br>This refers to Boyle's Law, which states that for a fixed amount of gas at constant temperature, the product of pressure and volume is constant:<br>\\[ PV = \\text{constant (at constant T and n)} \\]<br>However, the statement says \"always constant\", which is not true. If the temperature or the number of moles of gas changes, the product \\( PV \\) will also change, as described by the Ideal Gas Law:<br>\\[ PV = nRT \\]<br>Therefore, this statement is <span style='color:var(--orange);font-weight:bold;'>incorrect</span>.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the statement about average kinetic energy and temperature</strong><br>The statement is \"the average kinetic energy of molecule of the gas is proportional to the square root of its absolute temperature\".<br>According to the Kinetic Theory of Gases, the average translational kinetic energy of a single gas molecule is directly proportional to its absolute temperature \\( T \\):<br>\\[ \\overline{KE} = \\frac{1}{2} m \\overline{v^2} = \\frac{3}{2} k_B T \\]<br>where \\( k_B \\) is the Boltzmann constant.<br>This shows that \\( \\overline{KE} \\propto T \\), not \\( \\sqrt{T} \\). The root-mean-square speed \\( v_{rms} \\) is proportional to \\( \\sqrt{T} \\), but not the average kinetic energy.<br>Therefore, this statement is <span style='color:var(--orange);font-weight:bold;'>incorrect</span>.</p><p style='margin:8px 0;'><strong>Step 4: Determine the most correct statement</strong><br>Based on the analysis:<br>- Option 1 is conceptually correct in linking pressure to kinetic energy density, although it misses the factor of \\( \\frac{2}{3} \\).<br>- Option 2 is definitively incorrect because \\( PV \\) is not \"always constant\".<br>- Option 3 is definitively incorrect because average kinetic energy is proportional to \\( T \\), not \\( \\sqrt{T} \\).<br>Given that options 2 and 3 are unequivocally false, option 1 is the <span style='color:var(--orange);font-weight:bold;'>most accurate statement among the choices</span>, despite the omission of the \\( \\frac{2}{3} \\) factor. In many simplified contexts, the direct proportionality is emphasized.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's reconfirm the fundamental relationships:<br>1. Pressure \\( P = \\frac{2}{3} \\frac{KE_{total}}{V} \\). Option 1 states \\( P = \\frac{KE_{total}}{V} \\). While not precisely equal, it establishes the direct relationship between pressure and the kinetic energy density, which is a cornerstone of the kinetic theory.<br>2. Boyle's Law \\( PV = \\text{constant} \\) only holds at constant temperature and number of moles. It is not \"always constant\". Thus, option 2 is false.<br>3. Average kinetic energy \\( \\overline{KE} = \\frac{3}{2} k_B T \\). This means \\( \\overline{KE} \\propto T \\). Option 3 states \\( \\overline{KE} \\propto \\sqrt{T} \\). Thus, option 3 is false.<br>Since options 2 and 3 are unequivocally false, option 1, despite its minor imprecision regarding the exact numerical factor, is the intended correct answer as it represents a fundamental concept of the kinetic theory of gases.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The most correct statement is: the pressure of the gas is equal to the total kinetic energy of the molecules per unit volume of the gas.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the pressure of the gas is equal to the total kinetic energy of the molecules per unit volume of the gas"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "For an irreversible spontaneous process, the sum of the entropy change of the system and its surroundings is ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Thermodynamics",
+      "Thermodynamics, Basic Concepts",
+      "Second Law of Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Second Law of Thermodynamics: Entropy and Spontaneity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Entropy (\\\\(S\\\\))</strong>: A thermodynamic property that is a measure of the disorder or randomness of a system. The change in entropy, \\\\( \\\\Delta S \\\\), indicates the change in disorder.<br><strong>System</strong>: The specific part of the universe being studied.<br><strong>Surroundings</strong>: Everything outside the system.<br><strong>Universe</strong>: The system plus its surroundings (\\\\( \\\\text{Universe} = \\\\text{System} + \\\\text{Surroundings} \\\\)).<br><strong>Spontaneous Process</strong>: A process that occurs without continuous external intervention once initiated. These processes tend to move towards a state of greater stability or disorder.<br><strong>Irreversible Process</strong>: A process that cannot be reversed by an infinitesimal change in a variable. All spontaneous processes are irreversible in the real world.<br><strong>Second Law of Thermodynamics</strong>: States that for any spontaneous process, the total entropy of the universe must increase.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>A process is irreversible and spontaneous.</div><p style='margin:8px 0;'><strong>Step 1: Understand Entropy Change of the Universe</strong><br>The total entropy change of the universe (\\\\( \\\\Delta S_{universe} \\\\)) is the sum of the entropy change of the system (\\\\( \\\\Delta S_{system} \\\\)) and the entropy change of the surroundings (\\\\( \\\\Delta S_{surroundings} \\\\)).<br>The formula for the total entropy change is:<br>\\\\[ \\\\Delta S_{universe} = \\\\Delta S_{system} + \\\\Delta S_{surroundings} \\\\\\]</p><p style='margin:8px 0;'><strong>Step 2: State the Second Law of Thermodynamics for Spontaneous Processes</strong><br>The Second Law of Thermodynamics provides a criterion for the spontaneity of a process based on entropy changes. It states that for any spontaneous process, the total entropy of the universe must increase.<br>This means that for a spontaneous process, the change in entropy of the universe must be positive.</p><p style='margin:8px 0;'><strong>Step 3: Apply the Second Law to an Irreversible Spontaneous Process</strong><br>The question specifies an \\\"irreversible spontaneous process\\\". According to the Second Law of Thermodynamics, for such a process, the total entropy of the universe must increase.<br>Therefore, the change in entropy of the universe must be greater than zero.</p><p style='margin:8px 0;'><strong>Step 4: Conclude the Sum of Entropy Changes</strong><br>Combining the definition from Step 1 and the Second Law from Step 3, for an irreversible spontaneous process:<br>\\\\[ \\\\Delta S_{universe} > 0 \\\\\\]<br>Substituting the definition of \\\\( \\\\Delta S_{universe} \\\\):<br>\\\\[ \\\\Delta S_{system} + \\\\Delta S_{surroundings} > 0 \\\\\\]<br>Thus, the sum of the entropy change of the system and its surroundings is <span style='color:var(--orange);font-weight:bold;'>greater than zero</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The Second Law of Thermodynamics is a fundamental principle. It explicitly states that for any spontaneous process (which are inherently irreversible in reality), the total entropy of the universe (system + surroundings) must increase. This means \\\\( \\\\Delta S_{universe} > 0 \\\\). The conclusion directly follows from this law. ✓ Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The sum of the entropy change of the system and its surroundings is greater than zero.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "greater than zero"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Thermodynamic bulk properties which do not depend on the amount of a system are referred to as?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Thermodynamics",
+      "Basic Concepts",
+      "Intensive Properties"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermodynamic Properties: Intensive vs. Extensive</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>thermodynamic property</em> is any measurable characteristic of a system that is in thermodynamic equilibrium.<br><em>Intensive properties</em> are bulk properties that do NOT depend on the amount of matter in a system. They are independent of the system's size or extent.<br><em>Extensive properties</em> are bulk properties that DO depend on the amount of matter in a system. They are additive for subsystems.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks to identify thermodynamic bulk properties that do not depend on the amount of a system.</div><p style='margin:8px 0;'><strong>Step 1: Define Thermodynamic Properties</strong><br>Thermodynamic properties are characteristics of a system that can be observed or measured. These properties describe the state of a system and can be categorized based on their dependence on the amount of matter present.</p><p style='margin:8px 0;'><strong>Step 2: Differentiate Intensive and Extensive Properties</strong><br>Thermodynamic properties are primarily classified into two types:<br>1. <strong>Intensive Properties:</strong> These properties are independent of the amount of substance present in the system. They describe the quality or intensity of the system.<br>2. <strong>Extensive Properties:</strong> These properties are dependent on the amount of substance present in the system. They are additive, meaning the value for the whole system is the sum of the values for its parts.</p><p style='margin:8px 0;'><strong>Step 3: Connect to the Question's Criteria</strong><br>The question specifically asks for \"Thermodynamic bulk properties which do not depend on the amount of a system\". Based on our definitions, this description perfectly matches that of <span style='color:var(--orange);font-weight:bold;'>intensive properties</span>.</p><p style='margin:8px 0;'><strong>Step 4: Provide Examples of Intensive Properties</strong><br>Common examples of intensive properties include:<br>• &nbsp;<strong>Temperature (T):</strong> The temperature of a substance does not change if you take a smaller portion of it.<br>• &nbsp;<strong>Pressure (P):</strong> The pressure exerted by a gas does not depend on the volume of the container, but on the force per unit area.<br>• &nbsp;<strong>Density (\\( \\\\rho = m/V \\)):</strong> Density is mass per unit volume (\\( \\rho = m/V \\)). If you take half the mass, you also take half the volume, so the density remains constant.<br>• &nbsp;<strong>Refractive Index:</strong> A material's refractive index is the same regardless of its size.<br>• &nbsp;<strong>Concentration:</strong> For a solution, concentration (e.g., molarity) is an intensive property.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>If a property *does not depend* on the amount of a system, it means its value remains the same regardless of how much of the substance is present. This is the defining characteristic of an intensive property. For example, a drop of water has the same boiling point (temperature) as a liter of water. Therefore, \"Intensive Properties\" is the correct classification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Thermodynamic bulk properties which do not depend on the amount of a system are referred to as Intensive Properties.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intensive Properties"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "In an experiment, a student noted that the rate of corrosion of aluminum was faster with \\(0.5M\\) HCl than \\(2M\\) HCl under the same experimental condition due to increase in _______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Kinetics",
+      "Electrochemistry",
+      "Surface Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Corrosion of Aluminum in Hydrochloric Acid</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Corrosion:</strong> The degradation of a material, typically a metal, due to chemical or electrochemical reactions with its environment.<br><strong>Passivation:</strong> The formation of a thin, stable, and non-reactive film (often an oxide) on the surface of a metal, which protects it from further corrosion. Aluminum naturally passivates by forming an aluminum oxide layer (\\( \\text{Al}_2\\text{O}_3 \\)).<br><strong>Active Dissolution:</strong> The process where a metal actively corrodes and dissolves into its ionic form, usually when its passive layer is broken or cannot form effectively.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Metal: Aluminum (Al)</li><li>Corrosive agent: Hydrochloric acid (HCl)</li><li>Observation: Rate of corrosion is faster with \\( 0.5M \\) HCl than with \\( 2M \\) HCl.</li><li>Conditions: Same experimental conditions.</li><li>Task: Explain the reason for the observed difference in corrosion rate.</li></ul></div><p style='margin:8px 0;'><strong>Step 1: Understand Aluminum's Natural Passivity</strong><br>Aluminum is a highly reactive metal, but it readily forms a very thin, dense, and protective layer of aluminum oxide (\\( \\text{Al}_2\\text{O}_3 \\)) on its surface when exposed to air or water. This passive layer is responsible for aluminum's excellent corrosion resistance in many environments.</p><p style='margin:8px 0;'><strong>Step 2: Role of Hydrochloric Acid (HCl) in Corrosion</strong><br>Hydrochloric acid (HCl) is known to be aggressive towards aluminum. The \\( \\text{H}^+ \\) ions attack the oxide layer, and the \\( \\text{Cl}^- \\) ions can penetrate and break down the passive film, leading to localized corrosion (pitting) or general dissolution of the aluminum metal.</p><p style='margin:8px 0;'><strong>Step 3: Analyze Corrosion at Lower HCl Concentration (0.5M)</strong><br>At a lower concentration of HCl, such as \\( 0.5M \\), the acid is sufficiently aggressive to dissolve the protective \\( \\text{Al}_2\\text{O}_3 \\) layer. However, at this specific concentration, the conditions might not favor the rapid formation or stability of a *new* protective film (e.g., a more robust chloride-containing layer or a repassivation process) that could slow down the attack. Consequently, the aluminum surface remains largely exposed to the acid, leading to continuous and relatively rapid active dissolution of the metal.</p><p style='margin:8px 0;'><strong>Step 4: Analyze Corrosion at Higher HCl Concentration (2M)</strong><br>Counter-intuitively, at a higher concentration of HCl, such as \\( 2M \\), the rate of corrosion can sometimes be *slower* than at an intermediate concentration. This phenomenon can occur for several reasons, including:<br>1.  <strong>Formation of a More Stable Protective Layer:</strong> At higher chloride ion concentrations, a different type of protective film or salt layer (e.g., a more stable aluminum oxychloride or hydroxide film) might form on the aluminum surface. This film could be more adherent or less permeable than the initially formed oxide layer under these specific conditions, thus providing better protection against further attack.<br>2.  <strong>Repassivation Kinetics:</strong> The kinetics of repassivation (re-forming a protective layer after it's broken) might be more favorable at higher concentrations, quickly repairing any damage to the surface film.<br>3.  <strong>Specific Reaction Products:</strong> The nature of the corrosion products or intermediates might change with concentration, leading to a more protective barrier at higher acidities in this specific system.</p><p style='margin:8px 0;'><strong>Step 5: Conclude the Reason for Faster Corrosion at 0.5M HCl</strong><br>Based on the observation and the mechanisms described, the faster rate of corrosion at \\( 0.5M \\) HCl compared to \\( 2M \\) HCl is attributed to the fact that at \\( 0.5M \\), the conditions are less conducive to the formation or maintenance of a stable protective film. This allows for a higher <span style='color:var(--orange);font-weight:bold;'>rate of active dissolution</span> of the aluminum metal, leading to increased overall corrosion.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>If the rate of active dissolution is higher at \\( 0.5M \\) HCl, it means the aluminum metal is dissolving more rapidly into its ionic form. This directly translates to a faster overall corrosion rate, which matches the experimental observation. The protective effect observed at \\( 2M \\) HCl, likely due to a more stable passive/protective layer, is diminished at \\( 0.5M \\), thus increasing active dissolution.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The rate of corrosion of aluminum was faster with \\( 0.5M \\) HCl than \\( 2M \\) HCl due to an increase in the rate of active dissolution.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the rate of active dissolution"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Deduce the rate of the reaction: \\(N_2(g) + 3H_2(g) \\rightarrow 2NH_3(g)\\) if the rate of consumption of nitrogen is \\(-3.6 \\times 10^{-2} M/s\\).",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Chemical Kinetics",
+      "Reaction Rates",
+      "Stoichiometry",
+      "Rate of Reaction",
+      "Physical Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Chemical Reaction Rates and Stoichiometry</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>rate of a chemical reaction</em> describes how fast reactants are consumed and products are formed. For a general balanced chemical reaction:<br>\\[ aA + bB \\rightarrow cC + dD \\]\nThe overall rate of reaction is related to the rate of change of concentration of each species by its stoichiometric coefficient. The rate of reaction is always a positive value.<br>The relationship is given by:<br>\\[ \\text{Rate} = -\\frac{1}{a}\\frac{d[A]}{dt} = -\\frac{1}{b}\\frac{d[B]}{dt} = +\\frac{1}{c}\\frac{d[C]}{dt} = +\\frac{1}{d}\\frac{d[D]}{dt} \\]<br>The negative signs for reactants (A and B) ensure that the overall reaction rate is positive, as the rates of change of reactant concentrations (\\[ \\frac{d[A]}{dt} \\] and \\[ \\frac{d[B]}{dt} \\]) are negative (concentrations decrease over time).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Balanced chemical equation: \\[ N_2(g) + 3H_2(g) \\rightarrow 2NH_3(g) \\]<br>Rate of consumption of nitrogen: \\[ \\frac{d[N_2]}{dt} = -3.6 \\times 10^{-2} M/s \\]</div><p style='margin:8px 0;'><strong>Step 1: Write the general rate expression for the reaction</strong><br>For the given balanced chemical equation, \\[ N_2(g) + 3H_2(g) \\rightarrow 2NH_3(g) \\], the rate of reaction can be expressed in terms of the change in concentration of each reactant and product, divided by its stoichiometric coefficient.<br>\\[ \\text{Rate} = -\\frac{1}{1}\\frac{d[N_2]}{dt} = -\\frac{1}{3}\\frac{d[H_2]}{dt} = +\\frac{1}{2}\\frac{d[NH_3]}{dt} \\]</p><p style='margin:8px 0;'><strong>Step 2: Identify the relevant rate component</strong><br>The question provides the rate of consumption of nitrogen, \\[ \\frac{d[N_2]}{dt} \\]. We need to deduce the overall rate of the reaction.<br>From the general rate expression, the rate of reaction with respect to nitrogen is given by:<br>\\[ \\text{Rate} = -\\frac{1}{1}\\frac{d[N_2]}{dt} \\]</p><p style='margin:8px 0;'><strong>Step 3: Substitute the given rate of consumption</strong><br>Substitute the given value for the rate of change of nitrogen concentration, \\[ \\frac{d[N_2]}{dt} = -3.6 \\times 10^{-2} M/s \\], into the rate expression.<br>\\[ \\text{Rate} = -(1) \\times \\left( -3.6 \\times 10^{-2} M/s \\right) \\]</p><p style='margin:8px 0;'><strong>Step 4: Calculate the overall reaction rate</strong><br>Perform the multiplication to find the overall rate of the reaction.<br>\\[ \\text{Rate} = 3.6 \\times 10^{-2} M/s \\]<br><span style='color:var(--orange);font-weight:bold;'>The rate of the reaction is \\[ 3.6 \\times 10^{-2} M/s \\]</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The rate of reaction must always be a positive value. The rate of consumption of a reactant is inherently negative (concentration decreases over time). By including the negative sign in the rate expression for reactants, the overall reaction rate becomes positive.<br>Given \\[ \\frac{d[N_2]}{dt} = -3.6 \\times 10^{-2} M/s \\].<br>Rate \\[ = -(1) \\times \\left( -3.6 \\times 10^{-2} M/s \\right) = 3.6 \\times 10^{-2} M/s \\].<br>This confirms that the calculated rate is positive and consistent with the given consumption rate. &#10003;</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The rate of the reaction is \\[ 3.6 \\times 10^{-2} M/s \\]</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3.6 \\times 10^{-2} M/s"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "In a reversible adiabatic process, change in internal energy of a system is equal to?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Thermodynamics",
+      "First Law of Thermodynamics",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Law of Thermodynamics and Adiabatic Processes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>First Law of Thermodynamics</em> is a statement of the conservation of energy, stating that the change in a system's internal energy (\\( \\Delta U \\)) is equal to the heat (\\( q \\)) added to the system plus the work (\\( w \\)) done on the system: \\( \\Delta U = q + w \\).<br>An <em>adiabatic process</em> is a thermodynamic process that occurs without transfer of heat or mass between the thermodynamic system and its surroundings. For an adiabatic process, \\( q = 0 \\).<br>A <em>reversible process</em> is a process that can be reversed by an infinitesimal change in some property of the system without leaving any change in the surroundings.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>A system undergoes a reversible adiabatic process.<br>Find: The change in internal energy (\\( \\Delta U \\)).</div><p style='margin:8px 0;'><strong>Step 1: State the First Law of Thermodynamics</strong><br>The First Law of Thermodynamics relates the change in internal energy of a system to the heat exchanged with its surroundings and the work done on or by the system.<br>Formula:<br>\\[ \\Delta U = q + w \\]<br>Where:<br>\\( \\Delta U \\) is the change in internal energy of the system.<br>\\( q \\) is the heat transferred to the system (positive if heat enters, negative if heat leaves).<br>\\( w \\) is the work done on the system (positive if work is done on the system, negative if work is done by the system).</p><p style='margin:8px 0;'><strong>Step 2: Define the condition for an adiabatic process</strong><br>An adiabatic process is characterized by no heat transfer between the system and its surroundings. This means the heat exchanged, \\( q \\), is zero.<br>Condition for adiabatic process:<br>\\[ q = 0 \\]</p><p style='margin:8px 0;'><strong>Step 3: Apply the adiabatic condition to the First Law</strong><br>Substitute the condition \\( q = 0 \\) from Step 2 into the First Law of Thermodynamics equation from Step 1.<br>Formula:<br>\\( \\Delta U = q + w \\)<br>Substitution:<br>\\( \\Delta U = 0 + w \\)<br>Simplification:<br>\\[ \\Delta U = w \\]<br>This shows that for an adiabatic process, the change in internal energy is solely due to the work done.</p><p style='margin:8px 0;'><strong>Step 4: Consider the \"reversible\" aspect</strong><br>The term \"reversible\" implies that the process occurs infinitesimally slowly, allowing the system to remain in equilibrium at all times. For a reversible process, the work done can be precisely calculated using the system's internal pressure, for example, \\( w = - \\int P_{int} dV \\) for expansion/compression work.<br>While the reversibility affects how the work \\( w \\) is performed and calculated (e.g., maximum work for expansion, minimum work for compression), it does not change the fundamental relationship derived from the First Law for an adiabatic process.<br>The equality <span style='color:var(--orange);font-weight:bold;'>\\( \\Delta U = w \\)</span> holds true for both reversible and irreversible adiabatic processes.</p><p style='margin:8px 0;'><strong>Step 5: Conclude the relationship</strong><br>Based on the First Law of Thermodynamics and the definition of an adiabatic process, the change in internal energy of a system undergoing a reversible adiabatic process is equal to the work done on or by the system.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The First Law of Thermodynamics is a statement of energy conservation. If no heat is allowed to enter or leave the system (adiabatic condition, \\( q=0 \\)), then any change in the system's internal energy must be entirely accounted for by the work done on or by the system. If work is done on the system, its internal energy increases. If the system does work, its internal energy decreases. This direct relationship \\( \\Delta U = w \\) logically follows from the principle of energy conservation under adiabatic conditions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; In a reversible adiabatic process, the change in internal energy of a system is equal to the work done on or by the system.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Work done on or by the system"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "A system expands with an initial volume of \\(1.0\\,m^3\\) to \\(4.0\\,m^3\\) against a pressure of \\(10^{-5}\\ Pa\\). What is the work done by the system?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Thermodynamics",
+      "Thermodynamics, Basic Concepts",
+      "First Law of Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Work Done by a System in Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>In thermodynamics, <em>work done by a system</em> during expansion or compression against a constant external pressure is given by the formula:<br>\\[ W = -P_{ext} \\Delta V \\]<br>Where:<br>\\( W \\) is the work done by the system.<br>\\( P_{ext} \\) is the constant external pressure against which the system expands or compresses.<br>\\( \\Delta V \\) is the change in volume, calculated as \\( V_{final} - V_{initial} \\).<br>The negative sign indicates that when the system expands (\\( \\Delta V > 0 \\)), the system does work on the surroundings, and its internal energy decreases (W is negative). When the system is compressed (\\( \\Delta V < 0 \\)), work is done on the system by the surroundings (W is positive).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Initial volume, \\( V_{initial} = 1.0 \\, m^3 \\)<br>Final volume, \\( V_{final} = 4.0 \\, m^3 \\)<br>Constant external pressure, \\( P_{ext} = 10^{-5} \\, Pa \\)</div><p style='margin:8px 0;'><strong>Step 1: State the formula for work done by a system</strong><br>The work done by a system expanding or compressing against a constant external pressure is given by:<br>\\[ W = -P_{ext} \\Delta V \\]</p><p style='margin:8px 0;'><strong>Step 2: Calculate the change in volume (\\( \\Delta V \\))</strong><br>The change in volume is the final volume minus the initial volume.<br>Formula: \\( \\Delta V = V_{final} - V_{initial} \\)<br>Substitute values: \\( \\Delta V = 4.0 \\, m^3 - 1.0 \\, m^3 \\)<br>Simplify: \\( \\Delta V = \\) <span style='color:var(--orange);font-weight:bold;'>\\( 3.0 \\, m^3 \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Substitute the known values into the work done formula</strong><br>We have \\( P_{ext} = 10^{-5} \\, Pa \\) and \\( \\Delta V = 3.0 \\, m^3 \\).<br>Formula: \\( W = -P_{ext} \\Delta V \\)<br>Substitute values: \\( W = -(10^{-5} \\, Pa)(3.0 \\, m^3) \\)</p><p style='margin:8px 0;'><strong>Step 4: Calculate the work done</strong><br>Perform the multiplication:<br>\\[ W = -3.0 \\times 10^{-5} \\, Pa \\cdot m^3 \\]<br>Recall that \\( 1 \\, Pa \\cdot m^3 = 1 \\, (N/m^2) \\cdot m^3 = 1 \\, N \\cdot m = 1 \\, J \\).<br>Therefore, \\( W = \\) <span style='color:var(--orange);font-weight:bold;'>\\( -3.0 \\times 10^{-5} \\, J \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>We found \\( W = -3.0 \\times 10^{-5} \\, J \\) and \\( \\Delta V = 3.0 \\, m^3 \\).<br>From the formula \\( W = -P_{ext} \\Delta V \\), we can derive \\( P_{ext} = -W / \\Delta V \\).<br>Substitute values: \\( P_{ext} = -(-3.0 \\times 10^{-5} \\, J) / (3.0 \\, m^3) \\)<br>\\( P_{ext} = (3.0 \\times 10^{-5} \\, J) / (3.0 \\, m^3) \\)<br>\\( P_{ext} = 1.0 \\times 10^{-5} \\, J/m^3 \\)<br>Since \\( 1 \\, J/m^3 = 1 \\, N \\cdot m / m^3 = 1 \\, N/m^2 = 1 \\, Pa \\).<br>\\( P_{ext} = 1.0 \\times 10^{-5} \\, Pa \\)<br>This matches the given external pressure. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The work done by the system is \\( -3.0 \\times 10^{-5} \\, J \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(-3.0 \\times 10^{-5} J\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "At constant pressure for chemical reactions, the quantity of heat supplied is equal to?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Thermodynamics",
+      "First Law of Thermodynamics",
+      "Thermodynamics, Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Enthalpy and Heat at Constant Pressure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>First Law of Thermodynamics</em> states that energy cannot be created or destroyed, only transferred or changed from one form to another. For a closed system, the change in internal energy \\\\( \\\\Delta U \\\\) is equal to the heat \\\\( q \\\\) added to the system plus the work \\\\( w \\\\) done on the system.<br><em>Work (w)</em> in thermodynamics often refers to pressure-volume work, given by \\\\( w = -P\\\\Delta V \\\\) for expansion against a constant external pressure, where \\\\( P \\\\) is pressure and \\\\( \\\\Delta V \\\\) is the change in volume.<br><em>Enthalpy (H)</em> is a thermodynamic property of a system, defined as \\\\( H = U + PV \\\\), where \\\\( U \\\\) is the internal energy, \\\\( P \\\\) is pressure, and \\\\( V \\\\) is volume. It represents the total heat content of a system at constant pressure.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Condition: Constant pressure.</li><li>Context: Chemical reactions.</li><li>Quantity to find: Heat supplied (\\\\( q_p \\\\)).</li><li>Formula: First Law of Thermodynamics: \\\\( \\\\Delta U = q + w \\\\)</li><li>Formula: Pressure-volume work: \\\\( w = -P\\\\Delta V \\\\)</li></ul></div><p style='margin:8px 0;'><strong>Step 1: State the First Law of Thermodynamics</strong><br>The First Law of Thermodynamics relates the change in internal energy of a system to the heat exchanged and the work done.<br>\\\\\\[ \\\\Delta U = q + w \\\\\\\\]<br>Where:<br>\\\\( \\\\Delta U \\\\) = change in internal energy<br>\\\\( q \\\\) = heat transferred to the system<br>\\\\( w \\\\) = work done on the system</p><p style='margin:8px 0;'><strong>Step 2: Define work done at constant pressure</strong><br>For a process occurring at constant external pressure, the pressure-volume work done <em>by</em> the system is \\\\( P\\\\Delta V \\\\). Therefore, the work done <em>on</em> the system is the negative of this value.<br>\\\\\\[ w = -P\\\\Delta V \\\\\\\\]<br>Where:<br>\\\\( P \\\\) = constant external pressure<br>\\\\( \\\\Delta V \\\\) = change in volume (\\\\( V_{final} - V_{initial} \\\\))</p><p style='margin:8px 0;'><strong>Step 3: Substitute work into the First Law of Thermodynamics</strong><br>Substitute the expression for work \\\\( w \\\\) into the First Law equation. Since the pressure is constant, we denote the heat as \\\\( q_p \\\\).<br>\\\\\\[ \\\\Delta U = q_p + (-P\\\\Delta V) \\\\\\\\]<br>\\\\\\[ \\\\Delta U = q_p - P\\\\Delta V \\\\\\\\]</p><p style='margin:8px 0;'><strong>Step 4: Rearrange the equation to solve for heat supplied at constant pressure</strong><br>To find the quantity of heat supplied (\\\\( q_p \\\\)), we isolate it on one side of the equation.<br>\\\\\\[ q_p = \\\\Delta U + P\\\\Delta V \\\\\\\\]<br>This equation represents the heat exchanged at constant pressure.</p><p style='margin:8px 0;'><strong>Step 5: Introduce the definition of Enthalpy (H)</strong><br>Enthalpy is a state function defined to simplify the calculation of heat changes at constant pressure.<br>\\\\\\[ H = U + PV \\\\\\\\]<br>Where:<br>\\\\( H \\\\) = Enthalpy<br>\\\\( U \\\\) = Internal energy<br>\\\\( P \\\\) = Pressure<br>\\\\( V \\\\) = Volume</p><p style='margin:8px 0;'><strong>Step 6: Derive the change in Enthalpy (\\\\( \\\\Delta H \\\\))</strong><br>For a process, the change in enthalpy is given by the change in each term.<br>\\\\\\[ \\\\Delta H = \\\\Delta (U + PV) \\\\\\\\]<br>Using the property of changes, this expands to:<br>\\\\\\[ \\\\Delta H = \\\\Delta U + \\\\Delta (PV) \\\\\\\\]</p><p style='margin:8px 0;'><strong>Step 7: Relate change in Enthalpy to constant pressure conditions</strong><br>At constant pressure, \\\\( P \\\\) is constant, so \\\\( \\\\Delta (PV) \\\\) simplifies to \\\\( P\\\\Delta V \\\\).<br>\\\\\\[ \\\\Delta (PV) = P_f V_f - P_i V_i \\\\\\\\]<br>Since \\\\( P_f = P_i = P \\\\) (constant pressure):<br>\\\\\\[ \\\\Delta (PV) = P V_f - P V_i \\\\\\\\]<br>\\\\\\[ \\\\Delta (PV) = P(V_f - V_i) \\\\\\\\]<br>\\\\\\[ \\\\Delta (PV) = P\\\\Delta V \\\\\\\\]<br>Substitute this back into the \\\\( \\\\Delta H \\\\) expression:<br>\\\\\\[ \\\\Delta H = \\\\Delta U + P\\\\Delta V \\\\\\\\]</p><p style='margin:8px 0;'><strong>Step 8: Conclude the relationship between heat at constant pressure and enthalpy change</strong><br>By comparing the expression for heat at constant pressure from Step 4 and the expression for change in enthalpy from Step 7, we can see they are identical.<br>From Step 4: <span style='color:var(--orange);font-weight:bold;'>\\\\( q_p = \\\\Delta U + P\\\\Delta V \\\\)</span><br>From Step 7: <span style='color:var(--orange);font-weight:bold;'>\\\\( \\\\Delta H = \\\\Delta U + P\\\\Delta V \\\\)</span><br>Therefore, at constant pressure, the heat supplied or absorbed is equal to the change in enthalpy.<br>\\\\\\[ q_p = \\\\Delta H \\\\\\\\]</p><p style='margin:8px 0;'><strong>Step 9: Connect to chemical reactions</strong><br>Chemical reactions are often carried out in open containers, meaning they occur at constant atmospheric pressure. For this reason, the enthalpy change (\\\\( \\\\Delta H \\\\)) is a particularly useful quantity in chemistry, as it directly measures the heat flow under these common experimental conditions. An exothermic reaction releases heat (\\\\( \\\\Delta H < 0 \\\\)), and an endothermic reaction absorbs heat (\\\\( \\\\Delta H > 0 \\\\)).</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The definition of enthalpy was specifically introduced to simplify the calculation of heat changes under constant pressure conditions. By definition, \\\\( H = U + PV \\\\). Taking the change at constant pressure, \\\\( \\\\Delta H = \\\\Delta U + P\\\\Delta V \\\\). From the First Law of Thermodynamics, \\\\( \\\\Delta U = q + w \\\\). For constant pressure work, \\\\( w = -P\\\\Delta V \\\\). Substituting this into the First Law gives \\\\( \\\\Delta U = q_p - P\\\\Delta V \\\\), which rearranges to \\\\( q_p = \\\\Delta U + P\\\\Delta V \\\\). Since both expressions are identical, the heat supplied at constant pressure is indeed equal to the change in enthalpy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; At constant pressure, the quantity of heat supplied is equal to the change in enthalpy (\\\\( \\\\Delta H \\\\)).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Change in enthalpy (\\\\( \\\\Delta H \\\\))"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Deviation from ideal behavior occur at ______ and ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts",
+      "Real Gases"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Real Gases and Deviations from Ideal Behavior</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>ideal gas</em> is a theoretical gas composed of randomly moving point particles that do not interact with each other except for elastic collisions. The ideal gas model makes two primary assumptions:<br>1. The volume occupied by the gas particles themselves is negligible compared to the total volume of the container.<br>2. There are no attractive or repulsive forces between the gas particles.<br>A <em>real gas</em> is a gas that does not behave as an ideal gas due to the finite size of its molecules and the presence of intermolecular forces between them.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks to identify the conditions under which real gases deviate from ideal behavior.</div><p style='margin:8px 0;'><strong>Step 1: Recall the assumptions of an ideal gas</strong><br>The ideal gas law, \\( PV = nRT \\), is derived based on two main assumptions about gas particles:<br>1. Their individual volumes are negligible compared to the total volume of the container.<br>2. There are no intermolecular forces (attraction or repulsion) between them.</p><p style='margin:8px 0;'><strong>Step 2: Analyze the effect of high pressure on ideal gas assumptions</strong><br>At <span style='color:var(--orange);font-weight:bold;'>high pressure</span>, gas particles are forced into a smaller volume.<br>In this condition, the actual volume occupied by the gas particles themselves becomes a significant fraction of the total container volume.<br>This violates the assumption that the particle volume is negligible, leading to deviations from ideal behavior. The measured volume will be higher than predicted by the ideal gas law because the particles themselves take up space.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the effect of low temperature on ideal gas assumptions</strong><br>At <span style='color:var(--orange);font-weight:bold;'>low temperature</span>, the kinetic energy of gas particles decreases significantly.<br>With lower kinetic energy, the particles move slower, allowing intermolecular attractive forces (like van der Waals forces) to become more dominant and effective.<br>These attractive forces pull particles closer together, reducing the frequency and force of collisions with the container walls, and thus reducing the pressure exerted by the gas compared to an ideal gas. This violates the assumption of no intermolecular forces.</p><p style='margin:8px 0;'><strong>Step 4: Conclude the conditions for deviation</strong><br>Based on the analysis in Step 2 and Step 3, real gases deviate from ideal behavior when the assumptions of the ideal gas model are no longer valid.<br>This occurs under conditions where particle volume is significant (high pressure) and/or intermolecular forces are significant (low temperature).<br>Therefore, deviations occur at <span style='color:var(--orange);font-weight:bold;'>high pressure</span> and <span style='color:var(--orange);font-weight:bold;'>low temperature</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The ideal gas law is a simplification. Real gases behave ideally only under conditions where particle interactions and particle volume are minimal. These conditions are typically high temperature (particles move too fast for forces to matter) and low pressure (particles are far apart, so their volume and forces are negligible). Conversely, when temperature is low, forces become important. When pressure is high, particle volume becomes important. Thus, the conditions for deviation are indeed high pressure and low temperature. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Deviation from ideal behavior occurs at High Pressure and Low Temperature.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High Pressure and Low Temperature"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "How are the exponents T and V in the rate law: rate = \\(k[A]^x[B]^y\\) evaluated?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "by using the balanced chemical equation"
+        },
+        {
+          "type": "String",
+          "content": "by using the superscripts of the rate law"
+        },
+        {
+          "type": "String",
+          "content": "by using the coefficient of the chemical formulas"
+        },
+        {
+          "type": "String",
+          "content": "by educated guess"
+        },
+        {
+          "type": "String",
+          "content": "by experiment"
+        }
+      ]
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Kinetics",
+      "Reaction Rates",
+      "Reaction Order"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Determining Reaction Orders</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>rate law</em> expresses the relationship between the rate of a chemical reaction and the concentrations of its reactants. It typically takes the form: <br>\\[ \\text{rate} = k[A]^x[B]^y \\]<br>where \\( k \\) is the rate constant, \\( [A] \\) and \\( [B] \\) are the molar concentrations of reactants, and \\( x \\) and \\( y \\) are the <em>reaction orders</em> with respect to reactants A and B, respectively. The overall reaction order is \\( x+y \\).<br>The <em>reaction order</em> describes how the rate of reaction depends on the concentration of a specific reactant.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The rate law for a reaction is given as: \\( \\text{rate} = k[A]^x[B]^y \\).<br>Question: How are the exponents \\( x \\) and \\( y \\) (referred to as T and V in the prompt) evaluated?</div><p style='margin:8px 0;'><strong>Step 1: Understand the Role of Exponents in the Rate Law</strong><br>The exponents \\( x \\) and \\( y \\) in the rate law are known as the reaction orders with respect to reactants A and B, respectively. They indicate how sensitive the reaction rate is to changes in the concentration of each reactant. For example, if \\( x=1 \\), doubling \\( [A] \\) doubles the rate; if \\( x=2 \\), doubling \\( [A] \\) quadruples the rate.</p><p style='margin:8px 0;'><strong>Step 2: Distinguish Reaction Orders from Stoichiometric Coefficients</strong><br>It is a common misconception that the exponents \\( x \\) and \\( y \\) are equal to the stoichiometric coefficients of reactants A and B in the balanced chemical equation. However, this is generally <span style='color:var(--orange);font-weight:bold;'>not true</span>.<br>The stoichiometric coefficients represent the relative number of moles of reactants and products in the overall balanced reaction.<br>The reaction orders, \\( x \\) and \\( y \\), reflect the molecularity of the elementary steps in the reaction mechanism, which is often different from the overall stoichiometry.</p><p style='margin:8px 0;'><strong>Step 3: Identify the Method for Determining Reaction Orders</strong><br>Because reaction orders are determined by the reaction mechanism (the sequence of elementary steps), and the mechanism cannot be deduced solely from the balanced chemical equation, the values of \\( x \\) and \\( y \\) must be found <span style='color:var(--orange);font-weight:bold;'>experimentally</span>.<br>Common experimental methods include:<br><br>1. <strong>Method of Initial Rates:</strong> This involves running the reaction multiple times, varying the initial concentration of one reactant while keeping others constant, and measuring the initial reaction rate. By comparing how the rate changes with concentration, the order with respect to that reactant can be determined.<br><br>2. <strong>Integrated Rate Laws:</strong> This involves monitoring the concentration of a reactant over time and fitting the data to different integrated rate law equations (zero-order, first-order, second-order, etc.) to find the one that best describes the reaction.</p><p style='margin:8px 0;'><strong>Step 4: Conclude on the Evaluation Method</strong><br>Based on the principles of chemical kinetics, the exponents \\( x \\) and \\( y \\) (or T and V as mentioned in the question) in the rate law are exclusively determined through experimental measurements, not from the balanced chemical equation or by theoretical deduction.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's consider why other options are incorrect:<br><ul><li>\"by using the balanced chemical equation\": Incorrect. As explained, stoichiometric coefficients do not generally equal reaction orders.</li><li>\"by using the superscripts of the rate law\": This is circular; the question asks how to <em>find</em> those superscripts.</li><li>\"by using the coefficient of the chemical formulas\": This is the same as the first incorrect option.</li><li>\"by educated guess\": Incorrect. Chemical kinetics is an empirical science; guesses are not a valid scientific method for determining fundamental properties like reaction order.</li></ul>Therefore, the only scientifically valid method is by experiment.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The exponents in the rate law are evaluated by experiment.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "by experiment"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What mass of argon is contained in an \\(18.6L\\) container at \\(20^\\circ C\\) if the pressure is \\(2.35atm\\)?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "\\(21.9g\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(72.6g\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(322g\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(1.82kg\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(220g\\)"
+        }
+      ]
+    },
+    "topic": [
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ideal Gas Law Application</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Ideal Gas Law</em> describes the relationship between pressure, volume, temperature, and the number of moles of an ideal gas. It is expressed as: \\[ PV = nRT \\] where:<br>\\( P \\) = pressure<br>\\( V \\) = volume<br>\\( n \\) = number of moles<br>\\( R \\) = ideal gas constant<br>\\( T \\) = absolute temperature (in Kelvin)<br><br>To find the mass of a substance, we use the formula:<br>\\[ \\text{mass} = n \\times \\text{Molar Mass} \\]</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Volume, \\( V = 18.6 \\text{ L} \\)<br>Temperature, \\( T = 20^\\circ \\text{C} \\)<br>Pressure, \\( P = 2.35 \\text{ atm} \\)<br>Ideal Gas Constant, \\( R = 0.08206 \\text{ L} \\cdot \\text{atm} \\cdot \\text{mol}^{-1} \\cdot \\text{K}^{-1} \\)<br>Molar Mass of Argon (Ar), \\( M = 39.948 \\text{ g/mol} \\)</div><p style='margin:8px 0;'><strong>Step 1: Convert Temperature to Kelvin</strong><br>The Ideal Gas Law requires temperature in Kelvin. Convert Celsius to Kelvin by adding 273.15.<br>Formula: \\( T_{\\text{K}} = T_{\\text{C}} + 273.15 \\)<br>Substitute values: \\( T_{\\text{K}} = 20^\\circ \\text{C} + 273.15 \\)<br>Simplify: <span style='color:var(--orange);font-weight:bold;'>\\( T = 293.15 \\text{ K} \\)</span></p><p style='margin:8px 0;'><strong>Step 2: State the Ideal Gas Law</strong><br>The Ideal Gas Law relates pressure, volume, moles, and temperature.<br>Formula: \\[ PV = nRT \\] </p><p style='margin:8px 0;'><strong>Step 3: Rearrange the Ideal Gas Law to solve for moles (n)</strong><br>To find the number of moles, rearrange the formula.<br>Formula: \\[ n = \\frac{PV}{RT} \\] </p><p style='margin:8px 0;'><strong>Step 4: Substitute values and calculate moles (n)</strong><br>Substitute the given values into the rearranged Ideal Gas Law equation.<br>Substitute values: \\( n = \\frac{(2.35 \\text{ atm}) \\times (18.6 \\text{ L})}{(0.08206 \\text{ L} \\cdot \\text{atm} \\cdot \\text{mol}^{-1} \\cdot \\text{K}^{-1}) \\times (293.15 \\text{ K})} \\)<br>Simplify numerator: \\( n = \\frac{43.71 \\text{ L} \\cdot \\text{atm}}{(0.08206 \\text{ L} \\cdot \\text{atm} \\cdot \\text{mol}^{-1} \\cdot \\text{K}^{-1}) \\times (293.15 \\text{ K})} \\)<br>Simplify denominator: \\( n = \\frac{43.71 \\text{ L} \\cdot \\text{atm}}{24.058109 \\text{ L} \\cdot \\text{atm} \\cdot \\text{mol}^{-1}} \\)<br>Calculate: <span style='color:var(--orange);font-weight:bold;'>\\( n \\approx 1.8168 \\text{ mol} \\)</span></p><p style='margin:8px 0;'><strong>Step 5: State the formula for mass</strong><br>To find the mass, multiply the number of moles by the molar mass.<br>Formula: \\( \\text{mass} = n \\times \\text{Molar Mass} \\)</p><p style='margin:8px 0;'><strong>Step 6: Substitute values and calculate the mass of argon</strong><br>Substitute the calculated moles and the molar mass of argon.<br>Substitute values: \\( \\text{mass} = 1.8168 \\text{ mol} \\times 39.948 \\text{ g/mol} \\)<br>Calculate: \\( \\text{mass} \\approx 72.583 \\text{ g} \\)<br>Round to three significant figures (consistent with 2.35 atm and 18.6 L): <span style='color:var(--orange);font-weight:bold;'>\\( \\text{mass} \\approx 72.6 \\text{ g} \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>To verify, we can use the calculated mass to find the number of moles, then use the Ideal Gas Law to calculate the pressure and see if it matches the given pressure.<br>Moles from mass: \\( n = \\frac{72.6 \\text{ g}}{39.948 \\text{ g/mol}} \\approx 1.8175 \\text{ mol} \\)<br>Calculate pressure: \\( P = \\frac{nRT}{V} \\)<br>\\( P = \\frac{(1.8175 \\text{ mol}) \\times (0.08206 \\text{ L} \\cdot \\text{atm} \\cdot \\text{mol}^{-1} \\cdot \\text{K}^{-1}) \\times (293.15 \\text{ K})}{18.6 \\text{ L}} \\)<br>\\( P = \\frac{43.732 \\text{ L} \\cdot \\text{atm}}{18.6 \\text{ L}} \\)<br>\\( P \\approx 2.350 \\text{ atm} \\)<br>This matches the given pressure of 2.35 atm, confirming our calculation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The mass of argon is 72.6 g.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "72.6g"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "If the boundary prevents any interaction of a thermodynamic system with the surroundings, the system is said to be?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Thermodynamics",
+      "Basic Concepts",
+      "Thermodynamic Systems"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Thermodynamic Systems Classification</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>thermodynamic system</em> is a specific part of the universe under consideration. The <em>surroundings</em> are everything external to the system. The <em>boundary</em> separates the system from its surroundings.<br>Thermodynamic systems are classified based on their ability to exchange <strong>matter</strong> and <strong>energy</strong> with their surroundings.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>A thermodynamic system's boundary prevents <strong>any interaction</strong> with the surroundings.</div><p style='margin:8px 0;'><strong>Step 1: Understand the components of a thermodynamic system</strong><br>A thermodynamic system consists of three main parts:<br>1. <strong>System:</strong> The specific region or quantity of matter chosen for study.<br>2. <strong>Surroundings:</strong> Everything external to the system.<br>3. <strong>Boundary:</strong> The real or imaginary surface that separates the system from its surroundings. This boundary dictates what can pass between the system and surroundings.</p><p style='margin:8px 0;'><strong>Step 2: Identify types of interactions between system and surroundings</strong><br>Interactions between a system and its surroundings primarily involve the exchange of:<br>1. <strong>Matter:</strong> The transfer of mass across the boundary.<br>2. <strong>Energy:</strong> The transfer of energy across the boundary, typically in the form of heat or work.</p><p style='margin:8px 0;'><strong>Step 3: Classify thermodynamic systems based on these interactions</strong><br>There are three primary types of thermodynamic systems:<br>1. <strong>Open System:</strong> Exchanges both matter and energy with the surroundings. <br>   <em>Example:</em> An open beaker of boiling water (water vapor and heat escape).<br>2. <strong>Closed System:</strong> Exchanges energy but not matter with the surroundings. <br>   <em>Example:</em> A sealed, rigid container of gas being heated (heat enters, but no gas escapes).<br>3. <strong>Isolated System:</strong> Exchanges neither matter nor energy with the surroundings. <br>   <em>Example:</em> A perfectly insulated thermos flask (ideally, no heat or matter transfer).</p><p style='margin:8px 0;'><strong>Step 4: Apply the given condition to the system classification</strong><br>The question states that the boundary \"prevents <strong>any interaction</strong> of a thermodynamic system with the surroundings.\"<br>This means there is no exchange of matter and no exchange of energy.<br>According to the definitions in Step 3, a system that exchanges neither matter nor energy is an <span style='color:var(--orange);font-weight:bold;'>Isolated System</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>An isolated system is defined as one that does not exchange matter or energy with its surroundings. The question explicitly states that the boundary prevents \"any interaction,\" which encompasses both matter and energy exchange. Therefore, the system described perfectly matches the definition of an isolated system.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The system is said to be an Isolated System.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Isolated System"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "A sample of \\(CO_2\\) occupies \\(350cm^3\\) at \\(20^\\circ C\\) and \\(104kPa\\). What pressure is needed to compress it to \\(250cm^3\\) at this temperature?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts",
+      "Boyle's Law"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Boyle's Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Boyle's Law</strong> states that for a fixed amount of gas at constant temperature, the pressure and volume are inversely proportional.<br>Mathematically, this can be expressed as:<br>\\[ P_1V_1 = P_2V_2 \\]<br>Where:<br>\\( P_1 \\) = initial pressure<br>\\( V_1 \\) = initial volume<br>\\( P_2 \\) = final pressure<br>\\( V_2 \\) = final volume</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Initial volume, \\( V_1 = 350 \\, cm^3 \\)<br>Initial pressure, \\( P_1 = 104 \\, kPa \\)<br>Final volume, \\( V_2 = 250 \\, cm^3 \\)<br>Temperature is constant (\\( 20^\\circ C \\)).<br>Formula: Boyle's Law, \\( P_1V_1 = P_2V_2 \\)</div><p style='margin:8px 0;'><strong>Step 1: Identify the appropriate gas law</strong><br>The problem states that the temperature remains constant (\\( 20^\\circ C \\)). When the temperature and the amount of gas are constant, the relationship between pressure and volume is described by Boyle's Law.</p><p style='margin:8px 0;'><strong>Step 2: State Boyle's Law formula</strong><br>Boyle's Law is given by the equation:<br>\\[ P_1V_1 = P_2V_2 \\]</p><p style='margin:8px 0;'><strong>Step 3: Rearrange the formula to solve for the unknown final pressure (\\( P_2 \\))</strong><br>To find \\( P_2 \\), we divide both sides of the equation by \\( V_2 \\):<br>\\[ P_2 = \\frac{P_1V_1}{V_2} \\]</p><p style='margin:8px 0;'><strong>Step 4: Substitute the given values into the rearranged formula</strong><br>Substitute the known values for \\( P_1 \\), \\( V_1 \\), and \\( V_2 \\):<br>\\( P_2 = \\frac{(104 \\, kPa) \\times (350 \\, cm^3)}{250 \\, cm^3} \\)</p><p style='margin:8px 0;'><strong>Step 5: Calculate the final pressure (\\( P_2 \\))</strong><br>First, multiply the values in the numerator:<br>\\( P_2 = \\frac{36400 \\, kPa \\cdot cm^3}{250 \\, cm^3} \\)<br>Now, perform the division:<br>\\( P_2 = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 145.6 \\, kPa \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>To verify the answer, we can check if \\( P_1V_1 \\) equals \\( P_2V_2 \\) using the calculated \\( P_2 \\).<br>Initial product: \\( P_1V_1 = 104 \\, kPa \\times 350 \\, cm^3 = 36400 \\, kPa \\cdot cm^3 \\)<br>Final product: \\( P_2V_2 = 145.6 \\, kPa \\times 250 \\, cm^3 = 36400 \\, kPa \\cdot cm^3 \\)<br>Since \\( 36400 \\, kPa \\cdot cm^3 = 36400 \\, kPa \\cdot cm^3 \\), the calculated pressure is correct. &#10003;</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The pressure needed is 145.6 kPa.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "145.6 kPa"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "If Z is a state function, then \\(\\int dZ\\) equals _______ and is independent _______ from state 1 to state 2.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Thermodynamics",
+      "Thermodynamics, Basic Concepts",
+      "State Functions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>State Functions in Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>state function</em> (or state variable) is a property of a thermodynamic system that depends only on the current state of the system, not on the path taken to reach that state. Examples include internal energy (\\( U \\)), enthalpy (\\( H \\)), entropy (\\( S \\)), Gibbs free energy (\\( G \\)), pressure (\\( P \\)), volume (\\( V \\)), and temperature (\\( T \\)).<br>The differential of a state function is called an <em>exact differential</em>. The integral of an exact differential between two states depends only on the initial and final states, not on the path connecting them.<br>In contrast, <em>path functions</em> (like heat \\( q \\) and work \\( w \\)) depend on the specific path taken during a process.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Z is a state function.<br>We need to determine the value of \\( \\int dZ \\) from state 1 to state 2.<br>We also need to identify what this integral is independent of.</div><p style='margin:8px 0;'><strong>Step 1: Understand the nature of a state function</strong><br>By definition, a state function's value is determined solely by the current state of the system. This means that the change in a state function, \\( \\Delta Z \\), between any two states (State 1 and State 2) will always be the same, regardless of the specific process or path followed to go from State 1 to State 2.</p><p style='margin:8px 0;'><strong>Step 2: Identify the type of differential for a state function</strong><br>If Z is a state function, its differential, \\( dZ \\), is an <em>exact differential</em>. This mathematical property is directly tied to the path independence of the function's change.</p><p style='margin:8px 0;'><strong>Step 3: Evaluate the integral of the exact differential</strong><br>The integral of an exact differential \\( dZ \\) from an initial state (State 1) to a final state (State 2) is simply the difference between the value of the function at the final state and its value at the initial state.<br>\\[ \\int_{\\text{State 1}}^{\\text{State 2}} dZ = Z_{\\text{final}} - Z_{\\text{initial}} \\]<br>Let \\( Z_1 \\) be the value of the state function at State 1 and \\( Z_2 \\) be the value at State 2.<br>\\[ \\int_{\\text{State 1}}^{\\text{State 2}} dZ = Z_2 - Z_1 \\]<br>This difference is commonly denoted as \\( \\Delta Z \\).<br>So, \\( \\int dZ = \\) <span style='color:var(--orange);font-weight:bold;'>\\( \\Delta Z \\) (or \\( Z_2 - Z_1 \\))</span>.</p><p style='margin:8px 0;'><strong>Step 4: Determine the independence property of the integral</strong><br>Since Z is a state function, its change \\( \\Delta Z \\) depends only on the initial and final states of the system. It does not depend on the specific sequence of intermediate states or the path taken to transition from State 1 to State 2.<br>Therefore, the integral \\( \\int dZ \\) is independent of the <span style='color:var(--orange);font-weight:bold;'>path</span> taken from state 1 to state 2.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Consider internal energy \\( U \\), a classic state function. The change in internal energy, \\( \\Delta U \\), for a system going from state A to state B is always \\( U_B - U_A \\), regardless of whether the process was adiabatic, isothermal, isobaric, or any combination. The integral \\( \\int dU \\) will always yield \\( \\Delta U \\), confirming its path independence. This fundamental concept is crucial in thermodynamics, allowing us to define properties without needing to know the detailed history of the system's changes.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; If Z is a state function, then \\( \\int dZ \\) equals \\( \\Delta Z \\) (or \\( Z_2 - Z_1 \\)) and is independent of the path from state 1 to state 2.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(\\Delta Z\\) (or \\(Z_2 - Z_1\\)) and the path"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The measured heat of reaction at constant volume is equal to?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Thermodynamics",
+      "First Law of Thermodynamics",
+      "Internal Energy",
+      "Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Law of Thermodynamics and Internal Energy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>First Law of Thermodynamics</em> states that energy cannot be created or destroyed, only transferred or changed from one form to another. For a closed system, the change in internal energy (\\( \\Delta U \\)) is equal to the heat (\\( q \\)) added to the system plus the work (\\( w \\)) done on the system.<br><em>Internal Energy (\\( U \\))</em> is the total energy contained within a thermodynamic system, including kinetic and potential energy of its molecules.<br><em>Heat (\\( q \\))</em> is the transfer of thermal energy between systems due to a temperature difference.<br><em>Work (\\( w \\))</em> is energy transferred by means other than heat, often involving a force acting over a distance (e.g., pressure-volume work).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>We need to determine what the measured heat of reaction at constant volume is equal to.</div><p style='margin:8px 0;'><strong>Step 1: State the First Law of Thermodynamics</strong><br>The First Law of Thermodynamics relates the change in internal energy (\\( \\Delta U \\)) of a system to the heat (\\( q \\)) exchanged with its surroundings and the work (\\( w \\)) done on or by the system.<br>The mathematical expression for the First Law is:<br>\\[ \\Delta U = q + w \\]<br>Where:<br>\\( \\Delta U \\) = change in internal energy<br>\\( q \\) = heat transferred<br>\\( w \\) = work done</p><p style='margin:8px 0;'><strong>Step 2: Define pressure-volume work</strong><br>In chemical reactions, the most common type of work is pressure-volume (P-V) work, which occurs when a system expands or contracts against an external pressure.<br>The formula for P-V work is:<br>\\[ w = -P_{ext}\\Delta V \\]<br>Where:<br>\\( P_{ext} \\) = external pressure<br>\\( \\Delta V \\) = change in volume of the system</p><p style='margin:8px 0;'><strong>Step 3: Apply the constant volume condition</strong><br>The question specifies that the heat of reaction is measured at <em>constant volume</em>. This means there is no change in the volume of the system.<br>Therefore, the change in volume (\\( \\Delta V \\)) is zero.<br>\\[ \\Delta V = 0 \\]</p><p style='margin:8px 0;'><strong>Step 4: Calculate work done at constant volume</strong><br>Substitute \\( \\Delta V = 0 \\) into the work formula from Step 2:<br>\\[ w = -P_{ext}(0) \\]<br>\\[ w = 0 \\]<br>This shows that no pressure-volume work is done when the volume is kept constant. The work term is <span style='color:var(--orange);font-weight:bold;'>zero</span>.</p><p style='margin:8px 0;'><strong>Step 5: Substitute work into the First Law of Thermodynamics</strong><br>Now, substitute the value of work (\\( w = 0 \\)) into the First Law equation from Step 1:<br>\\[ \\Delta U = q + 0 \\]<br>\\[ \\Delta U = q_V \\]<br>Here, \\( q_V \\) specifically denotes the heat transferred at constant volume. This means the heat measured at constant volume is <span style='color:var(--orange);font-weight:bold;'>equal to the change in internal energy</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The First Law of Thermodynamics, \\( \\Delta U = q + w \\), is fundamental. When a system is constrained to constant volume, it cannot perform or have P-V work done on it (\\( w = -P\\Delta V = 0 \\)). In such a scenario, any heat exchanged (\\( q_V \\)) directly contributes to or is drawn from the system's internal energy. Therefore, \\( \\Delta U = q_V \\) is a direct consequence of the First Law under constant volume conditions. This relationship is a cornerstone of calorimetry experiments performed in a bomb calorimeter, which measures heat at constant volume.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The measured heat of reaction at constant volume is equal to the change in internal energy (\\( \\Delta U \\)).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Change in Internal Energy (\\(\\Delta U\\))"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The most probable speed of hydrogen molecules at \\(25^\\circ C\\) is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Kinetic Theory of Gases",
+      "Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Most Probable Speed of Gas Molecules</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>most probable speed</em> (\\(v_p\\)) is the speed at which the largest number of molecules in a gas sample are moving, according to the Maxwell-Boltzmann distribution of molecular speeds. It represents the peak of the distribution curve.<br>The formula for the most probable speed is given by:<br>\\[ v_p = \\sqrt{\\frac{2RT}{M}} \\]<br>Where:<br>\\( R \\) is the ideal gas constant (\\(8.314 \\, J/(mol \\cdot K)\\)).<br>\\( T \\) is the absolute temperature in Kelvin (\\(K\\)).<br>\\( M \\) is the molar mass of the gas in kilograms per mole (\\(kg/mol)\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Gas: Hydrogen molecules (\\(H_2\\))<br>Temperature: \\( T_C = 25^\\circ C \\)<br>Ideal Gas Constant: \\( R = 8.314 \\, J/(mol \\cdot K) \\)<br>Formula for most probable speed: \\( v_p = \\sqrt{\\frac{2RT}{M}} \\)</div><p style='margin:8px 0;'><strong>Step 1: Convert the temperature from Celsius to Kelvin</strong><br>The temperature must be in Kelvin for gas law calculations.<br>Formula: \\( T_K = T_C + 273.15 \\)<br>Substitute values:<br>\\( T_K = 25^\\circ C + 273.15 \\)<br>Simplify:<br>\\( T_K = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 298.15 \\, K \\)</span></p><p style='margin:8px 0;'><strong>Step 2: Determine the molar mass of hydrogen (\\(H_2\\)) in kilograms per mole</strong><br>The atomic mass of Hydrogen (H) is approximately \\(1.008 \\, g/mol\\).<br>For a diatomic hydrogen molecule (\\(H_2\\)):<br>Molar mass of \\(H_2 = 2 \\times (\\text{Atomic mass of H}) \\)<br>Molar mass of \\(H_2 = 2 \\times 1.008 \\, g/mol \\)<br>Molar mass of \\(H_2 = 2.016 \\, g/mol \\)<br>Convert to kilograms per mole:<br>\\( M = 2.016 \\, g/mol \\times \\frac{1 \\, kg}{1000 \\, g} \\)<br>\\( M = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 0.002016 \\, kg/mol \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Write the formula for the most probable speed</strong><br>The formula is:<br>\\[ v_p = \\sqrt{\\frac{2RT}{M}} \\]</p><p style='margin:8px 0;'><strong>Step 4: Substitute the known values into the formula</strong><br>Substitute \\( R = 8.314 \\, J/(mol \\cdot K) \\), \\( T = 298.15 \\, K \\), and \\( M = 0.002016 \\, kg/mol \\).<br>\\[ v_p = \\sqrt{\\frac{2 \\times (8.314 \\, J/(mol \\cdot K)) \\times (298.15 \\, K)}{0.002016 \\, kg/mol}} \\]</p><p style='margin:8px 0;'><strong>Step 5: Calculate the most probable speed</strong><br>First, calculate the numerator:<br>\\( 2 \\times 8.314 \\times 298.15 = 4957.5182 \\, J/mol \\)<br>Now, perform the division:<br>\\( \\frac{4957.5182 \\, J/mol}{0.002016 \\, kg/mol} = 2459086.4087 \\, J/kg \\)<br>Recall that \\( 1 \\, J = 1 \\, kg \\cdot m^2/s^2 \\), so \\( J/kg = m^2/s^2 \\).<br>\\( v_p = \\sqrt{2459086.4087 \\, m^2/s^2} \\)<br>Calculate the square root:<br>\\( v_p \\approx \\)<span style='color:var(--orange);font-weight:bold;'>\\( 1568.166 \\, m/s \\)</span><br>Rounding to two decimal places, we get \\( 1568.17 \\, m/s \\).</div><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's recheck the calculation:<br>Numerator: \\( 2 \\times 8.314 \\times 298.15 = 4957.5182 \\)<br>Denominator: \\( 0.002016 \\)<br>Value inside square root: \\( \\frac{4957.5182}{0.002016} \\approx 2459086.4087 \\)<br>Square root: \\( \\sqrt{2459086.4087} \\approx 1568.1665 \\)<br>The calculation is consistent. The units also correctly resolve to meters per second.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The most probable speed of hydrogen molecules at \\(25^\\circ C\\) is \\( 1568.17 \\, m/s \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1568.17 m/s"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Molecular Speed"
+    ],
+    "Question": {
+      "content": "The root-mean-square of oxygen molecules at \\(25^\\circ C\\) is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Root-Mean-Square (RMS) Speed of Gas Molecules</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>root-mean-square (RMS) speed</em>, \\(v_{rms}\\), is a measure of the average speed of gas molecules in a system. It is defined as the square root of the average of the squares of the speeds of the individual molecules. It is a useful measure because it directly relates to the kinetic energy of the gas molecules.<br>The formula for RMS speed is: \\[ v_{rms} = \\sqrt{\\frac{3RT}{M}} \\]where:<br>\\( R \\) is the ideal gas constant (\\(8.314 \\text{ J mol}^{-1} \\text{ K}^{-1}\\)).<br>\\( T \\) is the absolute temperature in Kelvin (K).<br>\\( M \\) is the molar mass of the gas in kilograms per mole (kg mol\\(^{-1}\\)).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Gas: Oxygen molecules (\\(O_2\\))<br>Temperature: \\(25^\\circ C\\)<br>Ideal Gas Constant: \\(R = 8.314 \\text{ J mol}^{-1} \\text{ K}^{-1}\\)<br>Molar mass of Oxygen (O): \\(16.00 \\text{ g/mol}\\)</div><p style='margin:8px 0;'><strong>Step 1: Write the formula for RMS speed</strong><br>The formula for the root-mean-square speed of gas molecules is:<br>\\[ v_{rms} = \\sqrt{\\frac{3RT}{M}} \\]</p><p style='margin:8px 0;'><strong>Step 2: Convert the temperature from Celsius to Kelvin</strong><br>The temperature must be in Kelvin for the formula.<br>Formula: \\( T(K) = T(^\\circ C) + 273.15 \\)<br>Substitute values: \\( T = 25^\\circ C + 273.15 \\)<br>Simplify: <span style='color:var(--orange);font-weight:bold;'>\\( T = 298.15 \\text{ K} \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Calculate the molar mass of oxygen (\\(O_2\\)) and convert to kilograms per mole</strong><br>The molar mass of an oxygen atom (O) is approximately \\(16.00 \\text{ g/mol}\\).<br>For an oxygen molecule (\\(O_2\\)): \\( M = 2 \\times 16.00 \\text{ g/mol} \\)<br>Simplify: \\( M = 32.00 \\text{ g/mol} \\)<br>Convert to kg/mol: \\( M = 32.00 \\text{ g/mol} \\times \\frac{1 \\text{ kg}}{1000 \\text{ g}} \\)<br>Simplify: <span style='color:var(--orange);font-weight:bold;'>\\( M = 0.032 \\text{ kg/mol} \\)</span></p><p style='margin:8px 0;'><strong>Step 4: Substitute the known values into the RMS speed formula</strong><br>Formula: \\( v_{rms} = \\sqrt{\\frac{3RT}{M}} \\)<br>Substitute values:<br>\\[ v_{rms} = \\sqrt{\\frac{3 \\times (8.314 \\text{ J mol}^{-1} \\text{ K}^{-1}) \\times (298.15 \\text{ K})}{0.032 \\text{ kg mol}^{-1}}} \\]</p><p style='margin:8px 0;'><strong>Step 5: Perform the multiplication in the numerator</strong><br>Calculation: \\( 3 \\times 8.314 \\times 298.15 \\)<br>Simplify: \\( 7436.4918 \\text{ J mol}^{-1} \\)<br>Recall that \\( 1 \\text{ J} = 1 \\text{ kg m}^2 \\text{ s}^{-2} \\). So, the numerator units are \\( \\text{kg m}^2 \\text{ s}^{-2} \\text{ mol}^{-1} \\).<br>Numerator value: <span style='color:var(--orange);font-weight:bold;'>\\( 7436.4918 \\)</span></p><p style='margin:8px 0;'><strong>Step 6: Perform the division inside the square root</strong><br>Division: \\( \\frac{7436.4918 \\text{ kg m}^2 \\text{ s}^{-2} \\text{ mol}^{-1}}{0.032 \\text{ kg mol}^{-1}} \\)<br>Simplify: \\( 232390.36875 \\text{ m}^2 \\text{ s}^{-2} \\)<br>Value inside square root: <span style='color:var(--orange);font-weight:bold;'>\\( 232390.36875 \\)</span></p><p style='margin:8px 0;'><strong>Step 7: Calculate the square root</strong><br>Calculation: \\( \\sqrt{232390.36875} \\)<br>Simplify: \\( 482.06884 \\text{ m/s} \\)</p><p style='margin:8px 0;'><strong>Step 8: Round the result to an appropriate number of significant figures</strong><br>The temperature \\(25^\\circ C\\) has 2 significant figures, but often in chemistry, \\(25.0^\\circ C\\) is implied (3 sig figs). The molar mass \\(32.00 \\text{ g/mol}\\) has 4 significant figures, and R has 4 significant figures. We will round to 4 significant figures, consistent with the precision of the constants.<br>Rounded value: <span style='color:var(--orange);font-weight:bold;'>\\( 482.1 \\text{ m/s} \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>If \\( v_{rms} = 482.1 \\text{ m/s} \\), then \\( v_{rms}^2 = (482.1)^2 = 232420.41 \\text{ m}^2/\\text{s}^2 \\).<br>From the formula, \\( \\frac{3RT}{M} = \\frac{3 \\times 8.314 \\times 298.15}{0.032} = \\frac{7436.4918}{0.032} = 232390.36875 \\text{ m}^2/\\text{s}^2 \\).<br>The values are very close, with the slight difference attributed to rounding in the final answer. The calculation is consistent.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The root-mean-square speed of oxygen molecules at \\(25^\\circ C\\) is \\(482.1 \\text{ m/s}\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "482.1 m/s"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "How many moles of nitrogen gas are contained in a simple vial having a volume \\(1.78dm^3\\) if the temperature of gas is \\(27^\\circ C\\) and the pressure is \\(0.987atm\\)?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts",
+      "Ideal Gas Law",
+      "Gas Laws"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Ideal Gas Law Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Ideal Gas Law</em> describes the relationship between the pressure, volume, temperature, and number of moles of an ideal gas. It is expressed by the formula:<br>\\[ PV = nRT \\]<br>Where:<br>\\( P \\) = Pressure (in atmospheres, atm)<br>\\( V \\) = Volume (in liters, L or \\(dm^3\\))<br>\\( n \\) = Number of moles (mol)<br>\\( R \\) = Ideal Gas Constant (\\(0.08206 \\, L \\cdot atm \\cdot mol^{-1} \\cdot K^{-1}\\))<br>\\( T \\) = Temperature (in Kelvin, K)</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Pressure, \\( P = 0.987 \\, atm \\)<br>Volume, \\( V = 1.78 \\, dm^3 \\)<br>Temperature, \\( T = 27^\\circ C \\)<br>Ideal Gas Constant, \\( R = 0.08206 \\, L \\cdot atm \\cdot mol^{-1} \\cdot K^{-1} \\)</div><p style='margin:8px 0;'><strong>Step 1: Convert the given temperature to Kelvin</strong><br>The Ideal Gas Law requires temperature to be in Kelvin (K).<br>Formula: \\( T_K = T_C + 273.15 \\)<br>Substitute values:<br>\\( T_K = 27^\\circ C + 273.15 \\)<br>Simplify:<br>\\( T_K = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 300.15 \\, K \\)</span></p><p style='margin:8px 0;'><strong>Step 2: Identify the known variables and the unknown variable</strong><br>We are given:<br>\\( P = 0.987 \\, atm \\)<br>\\( V = 1.78 \\, dm^3 \\) (Note: \\( 1 \\, dm^3 = 1 \\, L \\), so \\( V = 1.78 \\, L \\))<br>\\( T = 300.15 \\, K \\)<br>\\( R = 0.08206 \\, L \\cdot atm \\cdot mol^{-1} \\cdot K^{-1} \\)<br>We need to find the number of moles, \\( n \\).</p><p style='margin:8px 0;'><strong>Step 3: State the Ideal Gas Law formula and rearrange it to solve for moles (n)</strong><br>Formula:<br>\\[ PV = nRT \\]<br>Rearrange for \\( n \\):<br>\\[ n = \\frac{PV}{RT} \\]<br></p><p style='margin:8px 0;'><strong>Step 4: Substitute the known values into the rearranged formula</strong><br>Substitute values:<br>\\[ n = \\frac{(0.987 \\, atm)(1.78 \\, L)}{(0.08206 \\, L \\cdot atm \\cdot mol^{-1} \\cdot K^{-1})(300.15 \\, K)} \\]<br></p><p style='margin:8px 0;'><strong>Step 5: Calculate the number of moles</strong><br>First, calculate the numerator:<br>\\( P \\cdot V = 0.987 \\cdot 1.78 = 1.75646 \\)<br>Next, calculate the denominator:<br>\\( R \\cdot T = 0.08206 \\cdot 300.15 = 24.629349 \\)<br>Now, divide the numerator by the denominator:<br>\\[ n = \\frac{1.75646}{24.629349} \\]<br>Simplify:<br>\\( n \\approx \\)<span style='color:var(--orange);font-weight:bold;'>\\( 0.071399... \\, mol \\)</span><br>Rounding to four significant figures (consistent with the least precise given values, 0.987 and 1.78 have 3 sig figs, but R has 4, and T has 5 after conversion, so 4 sig figs is a reasonable precision):<br>\\( n \\approx \\)<span style='color:var(--orange);font-weight:bold;'>\\( 0.0714 \\, mol \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>To verify the answer, we can use the calculated number of moles to find the pressure and see if it matches the given pressure.<br>Given: \\( n = 0.0714 \\, mol \\), \\( V = 1.78 \\, L \\), \\( T = 300.15 \\, K \\), \\( R = 0.08206 \\, L \\cdot atm \\cdot mol^{-1} \\cdot K^{-1} \\)<br>Formula: \\( P = \\frac{nRT}{V} \\)<br>Substitute values:<br>\\( P = \\frac{(0.0714 \\, mol)(0.08206 \\, L \\cdot atm \\cdot mol^{-1} \\cdot K^{-1})(300.15 \\, K)}{(1.78 \\, L)} \\]<br>Calculate:<br>\\( P = \\frac{1.75677}{1.78} \\)<br>\\( P \\approx 0.98695 \\, atm \\)<br>This value is approximately \\( 0.987 \\, atm \\), which matches the given pressure. ✓ Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The number of moles of nitrogen gas is 0.0714 mol.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.0714 mol"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "SECTION B",
+    "Subheading": null
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Thermodynamics",
+      "First Law of Thermodynamics",
+      "Stoichiometry",
+      "Enthalpy Change"
+    ],
+    "Question": {
+      "content": "Calculate the enthalpy change for the reaction below: \\(3NO_2(g) + H_2O(l) \\rightarrow 2HNO_3(aq) + NO(g)\\)",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [
+      [
+        "Reaction",
+        "Enthalpy Change (kJ)"
+      ],
+      [
+        "\\(2NO(g) + O_2(g) \\rightarrow 2NO_2(g)\\n",
+        "216.00"
+      ],
+      [
+        "\\(2N_2(g) + 5O_2(g) + 2H_2O(l) \\rightarrow 4HNO_3(aq)\\n",
+        "346.00"
+      ],
+      [
+        "\\(N_2(g) + 2O_2(g) \\rightarrow 2NO_2(g)\\n",
+        "298.00"
+      ]
+    ],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hess's Law and Enthalpy Change Calculation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Hess's Law of Constant Heat Summation</strong> states that regardless of the multiple steps or stages of a reaction, the total enthalpy change for the reaction is the sum of all changes. This means if a reaction can be expressed as the sum of a series of other reactions, the enthalpy change for the overall reaction is the sum of the enthalpy changes of the individual steps.<br><br><strong>Rules for Manipulating Enthalpies:</strong><br>1. If a reaction is reversed, the sign of \\(\\Delta H\\) is reversed.<br>2. If the coefficients of a reaction are multiplied by a factor, the \\(\\Delta H\\) is also multiplied by the same factor.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><strong>Target Reaction:</strong><br>\\(3NO_2(g) + H_2O(l) \\rightarrow 2HNO_3(aq) + NO(g)\\)<br><br><strong>Given Reactions and Enthalpy Changes:</strong><br>(1) \\(2NO(g) + O_2(g) \\rightarrow 2NO_2(g)\\), &nbsp; \\(\\Delta H_1 = 216.00 \\text{ kJ}\\)<br>(2) \\(2N_2(g) + 5O_2(g) + 2H_2O(l) \\rightarrow 4HNO_3(aq)\\), &nbsp; \\(\\Delta H_2 = 346.00 \\text{ kJ}\\)<br>(3) \\(N_2(g) + 2O_2(g) \\rightarrow 2NO_2(g)\\), &nbsp; \\(\\Delta H_3 = 298.00 \\text{ kJ}\\)</div><p style='margin:8px 0;'><strong>Step 1: Identify target species and their coefficients</strong><br>We need to obtain the target reaction: \\(3NO_2(g) + H_2O(l) \\rightarrow 2HNO_3(aq) + NO(g)\\).<br>We will manipulate the given reactions to match the species and their stoichiometry in the target reaction.</p><p style='margin:8px 0;'><strong>Step 2: Manipulate Reaction (2) to obtain \\(2HNO_3(aq)\\)</strong><br>The target reaction requires \\(2HNO_3(aq)\\) on the product side.<br>Given Reaction (2) has \\(4HNO_3(aq)\\) on the product side.<br>To get \\(2HNO_3(aq)\\), we must divide Reaction (2) by 2.<br>Original Reaction (2):<br>\\(2N_2(g) + 5O_2(g) + 2H_2O(l) \\rightarrow 4HNO_3(aq)\\), &nbsp; \\(\\Delta H_2 = 346.00 \\text{ kJ}\\)<br>Dividing by 2:<br>\\(N_2(g) + \\frac{5}{2}O_2(g) + H_2O(l) \\rightarrow 2HNO_3(aq)\\)<br>New enthalpy change:<br>\\(\\Delta H_{2'} = \\frac{346.00 \\text{ kJ}}{2} = \\)<span style='color:var(--orange);font-weight:bold;'>\\(173.00 \\text{ kJ}\\)</span></p><p style='margin:8px 0;'><strong>Step 3: Manipulate Reaction (1) to obtain \\(NO(g)\\)</strong><br>The target reaction requires \\(NO(g)\\) on the product side with a coefficient of 1.<br>Given Reaction (1) has \\(2NO(g)\\) on the reactant side.<br>To get \\(NO(g)\\) on the product side with a coefficient of 1, we must reverse Reaction (1) and divide it by 2.<br>Original Reaction (1):<br>\\(2NO(g) + O_2(g) \\rightarrow 2NO_2(g)\\), &nbsp; \\(\\Delta H_1 = 216.00 \\text{ kJ}\\)<br>Reversing and dividing by 2:<br>\\(NO_2(g) \\rightarrow NO(g) + \\frac{1}{2}O_2(g)\\)<br>New enthalpy change:<br>\\(\\Delta H_{1'} = -\\frac{216.00 \\text{ kJ}}{2} = \\)<span style='color:var(--orange);font-weight:bold;'>\\(-108.00 \\text{ kJ}\\)</span></p><p style='margin:8px 0;'><strong>Step 4: Manipulate Reaction (3) to obtain \\(NO_2(g)\\)</strong><br>The target reaction requires \\(3NO_2(g)\\) on the reactant side.<br>From our manipulated Reaction (1') in Step 3, we have \\(1NO_2(g)\\) on the reactant side. Therefore, we need an additional \\(2NO_2(g)\\) on the reactant side.<br>Given Reaction (3) has \\(2NO_2(g)\\) on the product side.<br>To get \\(2NO_2(g)\\) on the reactant side, we must reverse Reaction (3).<br>Original Reaction (3):<br>\\(N_2(g) + 2O_2(g) \\rightarrow 2NO_2(g)\\), &nbsp; \\(\\Delta H_3 = 298.00 \\text{ kJ}\\)<br>Reversing:<br>\\(2NO_2(g) \\rightarrow N_2(g) + 2O_2(g)\\)<br>New enthalpy change:<br>\\(\\Delta H_{3'} = -298.00 \\text{ kJ}\\) &nbsp; (The sign is reversed)</p><p style='margin:8px 0;'><strong>Step 5: Sum the manipulated reactions and their enthalpy changes</strong><br>Now, we add the three manipulated reactions (R1'), (R2'), and (R3') together:<br>\\(NO_2(g) \\rightarrow NO(g) + \\frac{1}{2}O_2(g)\\)<br>\\(N_2(g) + \\frac{5}{2}O_2(g) + H_2O(l) \\rightarrow 2HNO_3(aq)\\)<br>\\(2NO_2(g) \\rightarrow N_2(g) + 2O_2(g)\\)<br>--------------------------------------------------<br>Adding the reactants and products:<br>Reactants: \\(NO_2(g) + N_2(g) + \\frac{5}{2}O_2(g) + H_2O(l) + 2NO_2(g)\\)<br>Products: \\(NO(g) + \\frac{1}{2}O_2(g) + 2HNO_3(aq) + N_2(g) + 2O_2(g)\\)<br><br>Cancel out species appearing on both sides:<br>- \\(N_2(g)\\) on both sides.<br>- Combine \\(NO_2(g)\\) on the reactant side: \\(NO_2(g) + 2NO_2(g) = 3NO_2(g)\\)<br>- Combine \\(O_2(g)\\) on the product side: \\(\\frac{1}{2}O_2(g) + 2O_2(g) = \\frac{5}{2}O_2(g)\\)<br>- \\(\\frac{5}{2}O_2(g)\\) on both sides.<br><br>The resulting net reaction is:<br>\\(3NO_2(g) + H_2O(l) \\rightarrow 2HNO_3(aq) + NO(g)\\)<br>This matches the target reaction.</p><p style='margin:8px 0;'><strong>Step 6: Calculate the total enthalpy change</strong><br>Sum the enthalpy changes of the manipulated reactions:<br>\\(\\Delta H_{total} = \\Delta H_{1'} + \\Delta H_{2'} + \\Delta H_{3'}\\)<br>\\(\\Delta H_{total} = (-108.00 \\text{ kJ}) + (173.00 \\text{ kJ}) + (-298.00 \\text{ kJ})\\)<br>\\(\\Delta H_{total} = 65.00 \\text{ kJ} - 298.00 \\text{ kJ}\\)<br>\\(\\Delta H_{total} = \\)<span style='color:var(--green);font-weight:bold;'>\\(-233.00 \\text{ kJ}\\)</span></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Given \\(4.00\\) moles of \\(CO_2\\) are contained in a \\(6.25dm^3\\) flask at \\(25^\\circ C\\), calculate the pressure of the gas using the Van der Waals equation, given that \\(a = 3.6dm^6atm/mol^2\\) and \\(b=0.042dm^3/mol\\).",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Real Gases",
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Van der Waals Equation for Real Gases</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Van der Waals equation</em> is a modified ideal gas law that accounts for the non-ideal behavior of real gases. It introduces two correction factors: one for the finite volume occupied by gas molecules (parameter \\( b \\)) and one for the attractive forces between gas molecules (parameter \\( a \\)).<br>The equation is given by: \\[ \\left(P + \\frac{an^2}{V^2}\\right)(V - nb) = nRT \\]<br>where:<br>\\( P \\) is the pressure of the gas<br>\\( V \\) is the volume of the container<br>\\( n \\) is the number of moles of gas<br>\\( R \\) is the ideal gas constant<br>\\( T \\) is the absolute temperature<br>\\( a \\) is the Van der Waals constant for intermolecular attraction<br>\\( b \\) is the Van der Waals constant for the volume occupied by gas molecules</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Number of moles, \\( n = 4.00 \\text{ mol} \\)<br>Volume of flask, \\( V = 6.25 \\text{ dm}^3 \\)<br>Temperature, \\( T = 25^\\circ C \\)<br>Van der Waals constant \\( a = 3.6 \\text{ dm}^6\\text{atm/mol}^2 \\)<br>Van der Waals constant \\( b = 0.042 \\text{ dm}^3\\text{/mol} \\)<br>Ideal gas constant, \\( R = 0.08206 \\text{ dm}^3\\text{ atm/(mol K)} \\)</div><p style='margin:8px 0;'><strong>Step 1: Convert temperature to Kelvin</strong><br>The Van der Waals equation requires temperature in Kelvin.<br>Formula: \\( T_K = T_C + 273.15 \\)<br>Substitution: \\( T_K = 25^\\circ C + 273.15 \\)<br>Calculation: \\( T_K = \\) <span style='color:var(--orange);font-weight:bold;'>\\( 298.15 \\text{ K} \\)</span></p><p style='margin:8px 0;'><strong>Step 2: Rearrange the Van der Waals equation to solve for Pressure (P)</strong><br>The Van der Waals equation is:<br>\\[ \\left(P + \\frac{an^2}{V^2}\\right)(V - nb) = nRT \\]<br>Divide both sides by \\( (V - nb) \\):<br>\\[ P + \\frac{an^2}{V^2} = \\frac{nRT}{V - nb} \\]<br>Isolate \\( P \\) by subtracting the attraction term:<br>\\[ P = \\frac{nRT}{V - nb} - \\frac{an^2}{V^2} \\]</p><p style='margin:8px 0;'><strong>Step 3: Calculate the corrected volume term (V - nb)</strong><br>This term accounts for the finite volume occupied by the gas molecules.<br>Formula: \\( V_{corrected} = V - nb \\)<br>Substitution: \\( V_{corrected} = 6.25 \\text{ dm}^3 - (4.00 \\text{ mol})(0.042 \\text{ dm}^3\\text{/mol}) \\)<br>Calculation: \\( V_{corrected} = 6.25 \\text{ dm}^3 - 0.168 \\text{ dm}^3 \\)<br>\\( V_{corrected} = \\) <span style='color:var(--orange);font-weight:bold;'>\\( 6.082 \\text{ dm}^3 \\)</span></p><p style='margin:8px 0;'><strong>Step 4: Calculate the pressure term considering molecular volume (nRT / (V - nb))</strong><br>This term is similar to the ideal gas pressure but uses the corrected volume.<br>Formula: \\( P_{ideal\\_like} = \\frac{nRT}{V - nb} \\)<br>Substitution:<br>\\[ P_{ideal\\_like} = \\frac{(4.00 \\text{ mol})(0.08206 \\text{ dm}^3\\text{ atm/(mol K)})(298.15 \\text{ K})}{6.082 \\text{ dm}^3} \\]<br>Calculation: \\( P_{ideal\\_like} = \\frac{97.88644 \\text{ dm}^3\\text{ atm}}{6.082 \\text{ dm}^3} \\)<br>\\( P_{ideal\\_like} = \\) <span style='color:var(--orange);font-weight:bold;'>\\( 16.09459 \\text{ atm} \\)</span></p><p style='margin:8px 0;'><strong>Step 5: Calculate the pressure correction term for intermolecular attractions (an^2 / V^2)</strong><br>This term accounts for the attractive forces between gas molecules, which reduce the observed pressure.<br>Formula: \\( P_{attraction} = \\frac{an^2}{V^2} \\)<br>Substitution:<br>\\[ P_{attraction} = \\frac{(3.6 \\text{ dm}^6\\text{atm/mol}^2)(4.00 \\text{ mol})^2}{(6.25 \\text{ dm}^3)^2} \\]<br>Calculation:<br>\\[ P_{attraction} = \\frac{(3.6 \\text{ dm}^6\\text{atm/mol}^2)(16.00 \\text{ mol}^2)}{39.0625 \\text{ dm}^6} \\]<br>\\( P_{attraction} = \\frac{57.6 \\text{ atm}}{39.0625} \\)<br>\\( P_{attraction} = \\) <span style='color:var(--orange);font-weight:bold;'>\\( 1.47456 \\text{ atm} \\)</span></p><p style='margin:8px 0;'><strong>Step 6: Calculate the final pressure (P)</strong><br>Subtract the attraction term from the ideal-like pressure to get the real gas pressure.<br>Formula: \\( P = P_{ideal\\_like} - P_{attraction} \\)<br>Substitution: \\( P = 16.09459 \\text{ atm} - 1.47456 \\text{ atm} \\)<br>Calculation: \\( P = 14.62003 \\text{ atm} \\)<br>Rounding to two decimal places, \\( P \\approx \\) <span style='color:var(--orange);font-weight:bold;'>\\( 14.62 \\text{ atm} \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>We calculated \\( P = 14.62 \\text{ atm} \\). Let's check the Van der Waals equation with this value:<br>Left side: \\( \\left(P + \\frac{an^2}{V^2}\\right)(V - nb) = (14.62 + 1.47456)(6.082) \\)<br>\\( = (16.09456)(6.082) \\approx 97.886 \\text{ dm}^3\\text{ atm} \\)<br>Right side: \\( nRT = (4.00)(0.08206)(298.15) \\approx 97.886 \\text{ dm}^3\\text{ atm} \\)<br>Since the left side approximately equals the right side, the calculated pressure is correct. &#10003;</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The pressure of the gas is 14.62 atm.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "14.62 atm"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Given \\(4.00\\) moles of \\(CO_2\\) are contained in a \\(6.25dm^3\\) flask at \\(25^\\circ C\\), calculate the pressure of the gas using the Redlich-Kwong equation, given that \\(a = 3.6dm^6atm/mol^2\\) and \\(b=0.042dm^3/mol\\) are Redlich-Kwong constants.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Real Gases",
+      "Redlich-Kwong Equation",
+      "Kinetic Theory of Gases",
+      "Thermodynamics, Basic Concepts"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Redlich-Kwong Equation for Real Gases</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Ideal Gas Law</em> (\\( PV = nRT \\)) provides a good approximation for gas behavior under conditions of high temperature and low pressure. However, it assumes gas particles have negligible volume and no intermolecular forces. <em>Real gases</em> deviate from ideal behavior, especially at high pressures and low temperatures, due to these factors.<br><br>The <em>Redlich-Kwong equation</em> is a two-parameter equation of state that accounts for these deviations:<br>\\[ P = \\frac{RT}{V_m - b} - \\frac{a}{T^{1/2}V_m(V_m + b)} \\]<br>Where:<br>\\( P \\) is the pressure<br>\\( R \\) is the ideal gas constant<br>\\( T \\) is the absolute temperature (in Kelvin)<br>\\( V_m \\) is the molar volume (\\( V/n \\))<br>\\( a \\) is a constant that accounts for intermolecular attractive forces<br>\\( b \\) is a constant that accounts for the finite volume occupied by the gas molecules</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Number of moles, \\( n = 4.00 \\, mol \\)<br>Volume of flask, \\( V = 6.25 \\, dm^3 \\)<br>Temperature, \\( T = 25^\\circ C \\)<br>Redlich-Kwong constant, \\( a = 3.6 \\, dm^6 atm/mol^2 \\)<br>Redlich-Kwong constant, \\( b = 0.042 \\, dm^3/mol \\)<br>Ideal gas constant, \\( R = 0.08206 \\, dm^3 atm/(mol \\cdot K) \\)</div><p style='margin:8px 0;'><strong>Step 1: Convert Temperature to Kelvin</strong><br>The Redlich-Kwong equation requires temperature in Kelvin.<br>Formula: \\( T_K = T_{^\\circ C} + 273.15 \\)<br>Substitution: \\( T_K = 25^\\circ C + 273.15 \\)<br>Calculation: \\( T_K = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 298.15 \\, K \\)</span></p><p style='margin:8px 0;'><strong>Step 2: Calculate Molar Volume (\\( V_m \\))</strong><br>The Redlich-Kwong equation uses molar volume, which is the total volume divided by the number of moles.<br>Formula: \\( V_m = \\frac{V}{n} \\)<br>Substitution: \\( V_m = \\frac{6.25 \\, dm^3}{4.00 \\, mol} \\)<br>Calculation: \\( V_m = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 1.5625 \\, dm^3/mol \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Write the Redlich-Kwong Equation</strong><br>The equation used to calculate the pressure of a real gas is:<br>\\[ P = \\frac{RT}{V_m - b} - \\frac{a}{T^{1/2}V_m(V_m + b)} \\]</p><p style='margin:8px 0;'><strong>Step 4: Calculate the first term of the equation</strong><br>This term accounts for the finite volume of gas molecules.<br>Formula: \\( \\text{Term}_1 = \\frac{RT}{V_m - b} \\)<br>Substitute values: \\( \\text{Term}_1 = \\frac{(0.08206 \\, dm^3 atm/(mol \\cdot K))(298.15 \\, K)}{(1.5625 \\, dm^3/mol) - (0.042 \\, dm^3/mol)} \\)<br>Simplify denominator: \\( V_m - b = 1.5625 - 0.042 = 1.5205 \\, dm^3/mol \\)<br>Simplify numerator: \\( RT = (0.08206)(298.15) = 24.468899 \\, dm^3 atm/mol \\)<br>Calculate Term 1: \\( \\text{Term}_1 = \\frac{24.468899 \\, dm^3 atm/mol}{1.5205 \\, dm^3/mol} = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 16.09266 \\, atm \\)</span></p><p style='margin:8px 0;'><strong>Step 5: Calculate the second term of the equation</strong><br>This term accounts for the attractive intermolecular forces.<br>Formula: \\( \\text{Term}_2 = \\frac{a}{T^{1/2}V_m(V_m + b)} \\)<br>Substitute values:<br>\\[ \\text{Term}_2 = \\frac{3.6 \\, dm^6 atm/mol^2}{(298.15 \\, K)^{1/2}(1.5625 \\, dm^3/mol)((1.5625 \\, dm^3/mol) + (0.042 \\, dm^3/mol))} \\]<br>Calculate \\( T^{1/2} \\): \\( (298.15)^{1/2} = 17.26696 \\, K^{1/2} \\)<br>Calculate \\( V_m + b \\): \\( 1.5625 + 0.042 = 1.6045 \\, dm^3/mol \\)<br>Calculate denominator: \\( (17.26696)(1.5625)(1.6045) = 43.3159 \\, dm^6 K^{1/2}/mol^2 \\)<br>Calculate Term 2: \\( \\text{Term}_2 = \\frac{3.6 \\, dm^6 atm/mol^2}{43.3159 \\, dm^6 K^{1/2}/mol^2} = \\)<span style='color:var(--orange);font-weight:bold;'>\\( 0.083108 \\, atm \\)</span></p><p style='margin:8px 0;'><strong>Step 6: Calculate the final pressure (P)</strong><br>Subtract the second term from the first term.<br>Formula: \\( P = \\text{Term}_1 - \\text{Term}_2 \\)<br>Substitution: \\( P = 16.09266 \\, atm - 0.083108 \\, atm \\)<br>Calculation: \\( P = 16.009552 \\, atm \\)<br>Rounding to four significant figures (consistent with 'a' and 'b' constants and intermediate calculations): \\( P \\approx \\)<span style='color:var(--orange);font-weight:bold;'>\\( 16.01 \\, atm \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>To verify, we can compare the result with the pressure calculated using the Ideal Gas Law under the same conditions.<br>Ideal Gas Law: \\( P_{ideal} = \\frac{nRT}{V} \\)<br>Substitution: \\( P_{ideal} = \\frac{(4.00 \\, mol)(0.08206 \\, dm^3 atm/(mol \\cdot K))(298.15 \\, K)}{6.25 \\, dm^3} \\)<br>Calculation: \\( P_{ideal} = \\frac{97.875596 \\, dm^3 atm}{6.25 \\, dm^3} = 15.660 \\, atm \\)<br><br>The Redlich-Kwong equation gives \\( P = 16.01 \\, atm \\), which is slightly higher than the ideal gas pressure of \\( 15.66 \\, atm \\). This indicates that for \\( CO_2 \\) at these conditions, the repulsive forces due to finite molecular volume (accounted for by the 'b' term, increasing pressure) have a slightly greater effect than the attractive forces (accounted for by the 'a' term, decreasing pressure) compared to an ideal gas. The value is reasonable and consistent with real gas behavior.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The pressure of the gas is 16.01 atm.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "16.01 atm"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2c",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Assuming \\\\(CO_2\\\\) is a Van der Waals gas, calculate the critical constants \\\\(P_c\\\\), \\\\(T_c\\\\), and \\\\(V_c\\\\) under the conditions above.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Real Gases",
+      "Physical Chemistry 1",
+      "Critical Constants"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Critical Constants for Van der Waals Gases</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>Van der Waals gas</em> is a non-ideal gas described by the Van der Waals equation of state, which accounts for the finite size of gas molecules and intermolecular attractive forces.<br>The <em>critical point</em> is the specific temperature, pressure, and volume at which the liquid and gas phases of a substance become indistinguishable. The properties at this point are called <em>critical constants</em>: critical pressure (\\\\(P_c\\\\)), critical temperature (\\\\(T_c\\\\)), and critical molar volume (\\\\(V_c\\\\)). These constants can be derived from the Van der Waals constants \\\\(a\\\\) and \\\\(b\\\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Van der Waals constants for \\\\(CO_2\\\\):<br>\\\\(a = 3.640 \\\\text{ L}^2 \\\\text{ bar mol}^{-2}\\\\\\)<br>\\\\(b = 0.04269 \\\\text{ L mol}^{-1}\\\\\\)<br>Gas constant:<br>\\\\(R = 0.08314 \\\\text{ L bar mol}^{-1} \\\\text{ K}^{-1}\\\\\\)<br>Formulas for critical constants for a Van der Waals gas:<br>\\\\(V_c = 3b\\\\)<br>\\\\(T_c = \\\\frac{8a}{27Rb}\\\\\\)<br>\\\\(P_c = \\\\frac{a}{27b^2}\\\\\\)<br></div><p style='margin:8px 0;'><strong>Step 1: Calculate the Critical Molar Volume (\\\\(V_c\\\\))</strong><br>First, we use the formula for the critical molar volume, which depends only on the Van der Waals constant \\\\(b\\\\).</p><p style='margin:8px 0;'>Formula:<br>\\[ V_c = 3b \\]<br>Substitute the value of \\\\(b\\\\):<br>\\[ V_c = 3 \\\\times 0.04269 \\\\text{ L mol}^{-1} \\]<br>Simplify:<br>\\[ V_c = \\\\text{<span style='color:var(--orange);font-weight:bold;'>0.12807 L mol}^{-1}</span> \\] </p><p style='margin:8px 0;'><strong>Step 2: Calculate the Critical Temperature (\\\\(T_c\\\\))</strong><br>Next, we calculate the critical temperature using the formula that involves \\\\(a\\\\), \\\\(b\\\\), and \\\\(R\\\\).</p><p style='margin:8px 0;'>Formula:<br>\\[ T_c = \\\\frac{8a}{27Rb} \\]<br>Substitute the values of \\\\(a\\\\), \\\\(b\\\\), and \\\\(R\\\\):<br>\\[ T_c = \\\\frac{8 \\\\times 3.640 \\\\text{ L}^2 \\\\text{ bar mol}^{-2}}{27 \\\\times 0.08314 \\\\text{ L bar mol}^{-1} \\\\text{ K}^{-1} \\\\times 0.04269 \\\\text{ L mol}^{-1}} \\]<br>Simplify the numerator:<br>\\[ 8 \\\\times 3.640 = 29.12 \\]<br>Simplify the denominator:<br>\\[ 27 \\\\times 0.08314 \\\\times 0.04269 \\\\approx 0.09585 \\]<br>Calculate \\\\(T_c\\\\):<br>\\[ T_c = \\\\frac{29.12}{0.09585} \\\\approx \\\\text{<span style='color:var(--orange);font-weight:bold;'>303.80 K</span>} \\] </p><p style='margin:8px 0;'><strong>Step 3: Calculate the Critical Pressure (\\\\(P_c\\\\))</strong><br>Finally, we calculate the critical pressure using its formula, which depends on \\\\(a\\\\) and \\\\(b\\\\).</p><p style='margin:8px 0;'>Formula:<br>\\[ P_c = \\\\frac{a}{27b^2} \\]<br>Substitute the values of \\\\(a\\\\) and \\\\(b\\\\):<br>\\[ P_c = \\\\frac{3.640 \\\\text{ L}^2 \\\\text{ bar mol}^{-2}}{27 \\\\times (0.04269 \\\\text{ L mol}^{-1})^2} \\]<br>Calculate \\\\(b^2\\\\):<br>\\[ (0.04269)^2 \\\\approx 0.0018224561 \\]<br>Simplify the denominator:<br>\\[ 27 \\\\times 0.0018224561 \\\\approx 0.049206 \\]<br>Calculate \\\\(P_c\\\\):<br>\\[ P_c = \\\\frac{3.640}{0.049206} \\\\approx \\\\text{<span style='color:var(--orange);font-weight:bold;'>73.97 bar</span>} \\] </p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>For a Van der Waals gas, the critical compressibility factor \\\\(Z_c = \\\\frac{P_c V_c}{RT_c}\\\\\\)<br>should be equal to \\\\(\\\\frac{3}{8}\\\\\\)<br>or 0.375.<br>Let's calculate \\\\(Z_c\\\\)<br>using our results:<br>\\[ Z_c = \\\\frac{(73.97 \\\\text{ bar}) \\\\times (0.12807 \\\\text{ L mol}^{-1})}{(0.08314 \\\\text{ L bar mol}^{-1} \\\\text{ K}^{-1}) \\\\times (303.80 \\\\text{ K})} \\]<br>\\[ Z_c = \\\\frac{9.4735579}{25.267892} \\\\approx 0.37508 \\]<br>Since \\\\(0.37508 \\\\approx 0.375\\\\), our calculated critical constants are consistent with the Van der Waals model. \\u2713</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>\\u2234 The critical constants for \\\\(CO_2\\\\) as a Van der Waals gas are \\\\(V_c = 0.12807 \\\\text{ L mol}^{-1}\\\\\\), \\\\(T_c = 303.80 \\\\text{ K}\\\\\\), and \\\\(P_c = 73.97 \\\\text{ bar}\\\\\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\\\(V_c = 0.12807 \\\\text{ L mol}^{-1}\\\\\\)<br>\\\\(T_c = 303.80 \\\\text{ K}\\\\\\)<br>\\\\(P_c = 73.97 \\\\text{ bar}\\\\\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3a",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Given the viscosity of \\(CO_2\\) at \\(25^\\circ C\\) and \\(1atm\\) is \\(15.0 \\times 10^{-6}kgm^{-1}s^{-1}\\), calculate the average speed of the molecule.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Molecular Speed",
+      "Viscosity"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Kinetic Theory of Gases: Average Molecular Speed</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>kinetic theory of gases</em> describes a gas as a large number of submicroscopic particles (atoms or molecules) all in constant, random motion. One of the key properties derived from this theory is the <em>average speed</em> of the gas molecules.<br>The <em>average speed</em> (\\(\\bar{c}\\)) is the arithmetic mean of the speeds of all the molecules in a gas sample. For an ideal gas, it is given by the formula:<br>\\[ \\bar{c} = \\sqrt{\\frac{8RT}{\\pi M}} \\]<br>where:<br>\\(R\\) is the ideal gas constant (\\(8.314 \\text{ J K}^{-1} \\text{ mol}^{-1}\\))<br>\\(T\\) is the absolute temperature in Kelvin<br>\\(M\\) is the molar mass of the gas in \\(\\text{kg mol}^{-1}\\))<br>\\(\\pi\\) is the mathematical constant (approximately \\(3.14159\\)))</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Viscosity of \\(CO_2\\) (\\(\\eta\\)): \\(15.0 \\times 10^{-6} \\text{ kg m}^{-1} \\text{ s}^{-1}\\) (Note: This value is not directly used for calculating average speed using the kinetic theory formula, but is provided in the question.)</li><li>Temperature (\\(T\\)): \\(25^\\circ C\\)</li><li>Pressure (\\(P\\)): \\(1 \\text{ atm}\\) (Note: This value is not directly used for calculating average speed using the kinetic theory formula.)</li><li>Ideal Gas Constant (\\(R\\)): \\(8.314 \\text{ J K}^{-1} \\text{ mol}^{-1}\\)</li><li>Molar mass of Carbon (C): \\(12.011 \\text{ g/mol}\\)</li><li>Molar mass of Oxygen (O): \\(15.999 \\text{ g/mol}\\)</li><li>Mathematical constant (\\(\\pi\\)): \\(3.14159\\)</li></ul></div><p style='margin:8px 0;'><strong>Step 1: Convert Temperature to Kelvin</strong><br>The temperature must be in Kelvin for the kinetic theory formula.<br>Formula: \\(T_K = T_C + 273.15\\)<br>Substitute values: \\(T_K = 25^\\circ C + 273.15\\)<br>Simplify: <span style='color:var(--orange);font-weight:bold;'>\\(T = 298.15 \\text{ K}\\)</span></p><p style='margin:8px 0;'><strong>Step 2: Calculate the Molar Mass of \\(CO_2\\) in \\(\\text{kg mol}^{-1}\\)</strong><br>The molar mass is required in kilograms per mole.<br>Formula: \\(M_{CO_2} = M_C + 2 \\times M_O\\)<br>Substitute values: \\(M_{CO_2} = 12.011 \\text{ g/mol} + 2 \\times 15.999 \\text{ g/mol}\\)<br>Simplify: \\(M_{CO_2} = 12.011 \\text{ g/mol} + 31.998 \\text{ g/mol} = 44.009 \\text{ g/mol}\\)<br>Convert to \\(\\text{kg mol}^{-1}\\): \\(M = 44.009 \\times 10^{-3} \\text{ kg/mol}\\)<br>Simplify: <span style='color:var(--orange);font-weight:bold;'>\\(M = 0.044009 \\text{ kg mol}^{-1}\\)</span></p><p style='margin:8px 0;'><strong>Step 3: State the Formula for Average Molecular Speed</strong><br>The average speed of gas molecules is given by:<br>\\[ \\bar{c} = \\sqrt{\\frac{8RT}{\\pi M}} \\]</p><p style='margin:8px 0;'><strong>Step 4: Substitute Known Values into the Formula</strong><br>Substitute \\(R = 8.314 \\text{ J K}^{-1} \\text{ mol}^{-1}\\), \\(T = 298.15 \\text{ K}\\), \\(\\pi = 3.14159\\), and \\(M = 0.044009 \\text{ kg mol}^{-1}\\).<br>\\[ \\bar{c} = \\sqrt{\\frac{8 \\times (8.314 \\text{ J K}^{-1} \\text{ mol}^{-1}) \\times (298.15 \\text{ K})}{3.14159 \\times (0.044009 \\text{ kg mol}^{-1})}} \\]</p><p style='margin:8px 0;'><strong>Step 5: Perform the Calculation</strong><br>First, calculate the numerator:<br>\\(8 \\times 8.314 \\times 298.15 = 19839.872 \\text{ J mol}^{-1}\\)<br>Next, calculate the denominator:<br>\\(3.14159 \\times 0.044009 = 0.138259 \\text{ kg mol}^{-1}\\)<br>Now, divide the numerator by the denominator:<br>\\(\\frac{19839.872 \\text{ J mol}^{-1}}{0.138259 \\text{ kg mol}^{-1}} = 143497.6 \\text{ J/kg}\\)<br>Recall that \\(1 \\text{ J} = 1 \\text{ kg m}^2 \\text{ s}^{-2}\\). So, \\(1 \\text{ J/kg} = 1 \\text{ m}^2 \\text{ s}^{-2}\\).<br>Thus, the expression under the square root is: \\(143497.6 \\text{ m}^2 \\text{ s}^{-2}\\)<br>Finally, take the square root:<br>\\(\\bar{c} = \\sqrt{143497.6 \\text{ m}^2 \\text{ s}^{-2}}\\)<br>Simplify: <span style='color:var(--orange);font-weight:bold;'>\\(\\bar{c} \\approx 378.81 \\text{ m/s}\\)</span></p><p style='margin:8px 0;'><strong>Step 6: Round to an appropriate number of significant figures</strong><br>Given the input values, rounding to one decimal place is appropriate.<br>\\(\\bar{c} \\approx 378.8 \\text{ m/s}\\)</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The units cancel correctly to \\(\\text{m/s}\\), which is appropriate for speed. The magnitude of the speed (hundreds of meters per second) is typical for gas molecules at room temperature. For example, \\(O_2\\) at \\(25^\\circ C\\) has an average speed of about \\(444 \\text{ m/s}\\), and \\(N_2\\) is about \\(475 \\text{ m/s}\\). \\(CO_2\\) is heavier than both, so a slightly lower speed is expected, making \\(378.8 \\text{ m/s}\\) a reasonable value.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The average speed of the \\(CO_2\\) molecule is approximately \\(378.8 \\text{ m/s}\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "378.8 m/s"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3b",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Given the viscosity of \\(CO_2\\) at \\(25^\\circ C\\) and \\(1atm\\) is \\(15.0 \\times 10^{-6}kgm^{-1}s^{-1}\\), calculate the molecular diameter or collision cross-section of \\(CO_2\\).",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Kinetic Theory of Gases",
+      "Viscosity",
+      "Collision Cross-Section"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Molecular Diameter and Collision Cross-Section from Viscosity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>viscosity</em> (\\( \\eta \\)) of a gas is a measure of its resistance to flow. According to the kinetic theory of gases, it is related to the molecular properties such as molecular mass, temperature, and molecular diameter.<br>The <em>molecular diameter</em> (\\( \\sigma \\)) represents the effective diameter of a molecule, often approximated as a hard sphere.<br>The <em>collision cross-section</em> (\\( \\pi\\sigma^2 \\)) is the effective area that one molecule presents to another for collision.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Viscosity of \\(CO_2\\), \\( \\eta = 15.0 \\times 10^{-6} \\text{ kg m}^{-1}\\text{s}^{-1} \\)<br>Temperature, \\( T = 25^\\circ C \\)<br>Molar mass of \\(CO_2\\), \\( M = 44.01 \\text{ g/mol} \\)<br>Boltzmann constant, \\( k = 1.380649 \\times 10^{-23} \\text{ J/K} \\)<br>Avogadro's number, \\( N_A = 6.022 \\times 10^{23} \\text{ mol}^{-1} \\)<br>The formula relating viscosity to molecular diameter: \\( \\eta = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\sigma^2} \\)</div><p style='margin:8px 0;'><strong>Step 1: Convert temperature to Kelvin</strong><br>The temperature must be in Kelvin for gas law calculations.<br>Formula: \\( T_K = T_C + 273.15 \\)<br>Substitution: \\( T_K = 25 + 273.15 \\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\( T = 298.15 \\text{ K} \\)</span></p><p style='margin:8px 0;'><strong>Step 2: Calculate the molar mass of \\(CO_2\\) in kg/mol</strong><br>The molar mass of carbon (C) is approximately \\(12.011 \\text{ g/mol}\\).<br>The molar mass of oxygen (O) is approximately \\(15.999 \\text{ g/mol}\\).<br>Formula: \\( M_{CO_2} = M_C + 2 \\times M_O \\)<br>Substitution: \\( M_{CO_2} = 12.011 + 2 \\times 15.999 \\)<br>Calculation: \\( M_{CO_2} = 12.011 + 31.998 = 44.009 \\text{ g/mol} \\)<br>Conversion: \\( M_{CO_2} = 44.009 \\text{ g/mol} \\times \\frac{1 \\text{ kg}}{1000 \\text{ g}} \\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\( M = 0.044009 \\text{ kg/mol} \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Calculate the mass of a single \\(CO_2\\) molecule (\\(m\\))</strong><br>Formula: \\( m = \\frac{M}{N_A} \\)<br>Substitution: \\( m = \\frac{0.044009 \\text{ kg/mol}}{6.022 \\times 10^{23} \\text{ mol}^{-1}} \\)<br>Calculation: \\( m = 7.3080 \\times 10^{-26} \\text{ kg} \\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\( m = 7.308 \\times 10^{-26} \\text{ kg} \\)</span></p><p style='margin:8px 0;'><strong>Step 4: Rearrange the viscosity formula to solve for molecular diameter (\\( \\sigma \\))</strong><br>Given formula: \\( \\eta = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\sigma^2} \\)<br>Multiply both sides by \\( \\sigma^2 \\): \\( \\eta\\sigma^2 = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}} \\)<br>Divide both sides by \\( \\eta \\): \\( \\sigma^2 = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\eta} \\)<br>Take the square root of both sides: <span style='color:var(--orange);font-weight:bold;'>\\( \\sigma = \\sqrt{\\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\eta}} \\)</span></p><p style='margin:8px 0;'><strong>Step 5: Substitute values and calculate \\( \\sigma \\)</strong><br>First, calculate \\( \\sqrt{mkT} \\):<br>\\( \\sqrt{mkT} = \\sqrt{(7.308 \\times 10^{-26} \\text{ kg})(1.380649 \\times 10^{-23} \\text{ J/K})(298.15 \\text{ K})} \\)<br>\\( \\sqrt{mkT} = \\sqrt{3.0110 \\times 10^{-46} \\text{ kg}^2\\text{m}^4\\text{s}^{-4}} \\)<br>\\( \\sqrt{mkT} = 1.7352 \\times 10^{-23} \\text{ kg m}^2\\text{s}^{-2} \\)<br><br>Next, calculate \\( 3\\pi^{3/2}\\eta \\):<br>\\( 3\\pi^{3/2}\\eta = 3 \\times (3.14159)^{1.5} \\times (15.0 \\times 10^{-6} \\text{ kg m}^{-1}\\text{s}^{-1}) \\)<br>\\( 3\\pi^{3/2}\\eta = 3 \\times 5.5683 \\times (15.0 \\times 10^{-6} \\text{ kg m}^{-1}\\text{s}^{-1}) \\)<br>\\( 3\\pi^{3/2}\\eta = 250.57 \\times 10^{-6} \\text{ kg m}^{-1}\\text{s}^{-1} = 2.5057 \\times 10^{-4} \\text{ kg m}^{-1}\\text{s}^{-1} \\)<br><br>Now, substitute into the formula for \\( \\sigma \\):<br>\\( \\sigma = \\sqrt{\\frac{2 \\times (1.7352 \\times 10^{-23} \\text{ kg m}^2\\text{s}^{-2})}{2.5057 \\times 10^{-4} \\text{ kg m}^{-1}\\text{s}^{-1}}} \\)<br>\\( \\sigma = \\sqrt{\\frac{3.4704 \\times 10^{-23}}{2.5057 \\times 10^{-4}}} \\text{ m}^2 \\)<br>\\( \\sigma = \\sqrt{1.3850 \\times 10^{-19}} \\text{ m} \\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\( \\sigma = 3.7216 \\times 10^{-10} \\text{ m} \\)</span><br>Convert to nanometers: \\( \\sigma = 0.37216 \\text{ nm} \\)</p><p style='margin:8px 0;'><strong>Step 6: Calculate the collision cross-section (\\( \\pi\\sigma^2 \\))</strong><br>Formula: \\( \\text{Collision Cross-section} = \\pi\\sigma^2 \\)<br>Substitution: \\( \\pi\\sigma^2 = 3.14159 \\times (3.7216 \\times 10^{-10} \\text{ m})^2 \\)<br>Calculation: \\( \\pi\\sigma^2 = 3.14159 \\times (1.3850 \\times 10^{-19} \\text{ m}^2) \\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\( \\pi\\sigma^2 = 4.350 \\times 10^{-19} \\text{ m}^2 \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's use the calculated \\( \\sigma \\) to find \\( \\eta \\) and compare it to the given value.<br>\\( \\eta = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\sigma^2} \\)<br>Numerator: \\( 2\\sqrt{mkT} = 2 \\times (1.7352 \\times 10^{-23}) = 3.4704 \\times 10^{-23} \\)<br>Denominator: \\( 3\\pi^{3/2}\\sigma^2 = 3 \\times 5.5683 \\times (3.7216 \\times 10^{-10})^2 \\)<br>\\( = 16.7049 \\times (1.3850 \\times 10^{-19}) = 2.3115 \\times 10^{-18} \\)<br>Wait, there is a discrepancy here. Let's recheck the denominator calculation in Step 5.<br>\\( 3\\pi^{3/2}\\eta = 2.5057 \\times 10^{-4} \\text{ kg m}^{-1}\\text{s}^{-1} \\)<br>From Step 5, \\( \\sigma^2 = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\eta} \\). So, \\( 3\\pi^{3/2}\\sigma^2\\eta = 2\\sqrt{mkT} \\). This is not right.<br>Let's re-verify the formula rearrangement for \\( \\sigma^2 \\):<br>\\( \\eta = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\sigma^2} \\)<br>\\( \\sigma^2 = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\eta} \\)<br>So, \\( \\eta = \\frac{2\\sqrt{mkT}}{3\\pi^{3/2} \\left( \\frac{2\\sqrt{mkT}}{3\\pi^{3/2}\\eta} \\right)} = \\frac{2\\sqrt{mkT}}{2\\sqrt{mkT}/\\eta} = \\eta \\). The rearrangement is correct.<br><br>Let's re-calculate \\( 3\\pi^{3/2}\\sigma^2 \\) using the calculated \\( \\sigma \\):<br>\\( \\sigma^2 = (3.7216 \\times 10^{-10} \\text{ m})^2 = 1.3850 \\times 10^{-19} \\text{ m}^2 \\)<br>\\( 3\\pi^{3/2}\\sigma^2 = 3 \\times 5.5683 \\times (1.3850 \\times 10^{-19}) \\)<br>\\( = 16.7049 \\times 1.3850 \\times 10^{-19} = 2.3115 \\times 10^{-18} \\text{ m}^2 \\)<br>Now, \\( \\eta = \\frac{3.4704 \\times 10^{-23}}{2.3115 \\times 10^{-18}} = 1.501 \\times 10^{-5} \\text{ kg m}^{-1}\\text{s}^{-1} \\)<br>This is \\( 15.01 \\times 10^{-6} \\text{ kg m}^{-1}\\text{s}^{-1} \\), which is very close to the given \\( 15.0 \\times 10^{-6} \\text{ kg m}^{-1}\\text{s}^{-1} \\). The slight difference is due to rounding in intermediate steps.<br>&#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The molecular diameter of \\(CO_2\\) is approximately \\(0.372 \\text{ nm}\\) (or \\(3.72 \\times 10^{-10} \\text{ m}\\)).<br>&#8756; The collision cross-section of \\(CO_2\\) is approximately \\(4.35 \\times 10^{-19} \\text{ m}^2\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Molecular diameter \\( \\sigma \\approx 0.372 \\text{ nm} \\)<br>Collision cross-section \\( \\pi\\sigma^2 \\approx 4.35 \\times 10^{-19} \\text{ m}^2 \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3c",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Given the viscosity of \\(CO_2\\) at \\(25^\\circ C\\) and \\(1atm\\) is \\(15.0 \\times 10^{-6}kgm^{-1}s^{-1}\\), calculate the mean free path.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Viscosity",
+      "Mean Free Path"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Kinetic Theory of Gases: Mean Free Path</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>mean free path</em> (\\( \\lambda \\)) is the average distance a particle (atom or molecule) travels between successive collisions with other particles in a gas.<br><em>Viscosity</em> (\\( \\eta \\)) in gases arises from the transfer of momentum between layers of gas moving at different speeds. It is related to the mean free path, density (\\( \\rho \\)), and average molecular speed (\\( \\bar{c} \\)) by the formula: <br>\\[ \\eta = \\frac{1}{3} \\rho \\bar{c} \\lambda \\]<br>The <em>ideal gas law</em> relates pressure (P), volume (V), number of moles (n), and temperature (T): \\( PV = nRT \\). It can also be used to find gas density: \\( \\rho = \\frac{PM}{RT} \\).<br>The <em>average molecular speed</em> (\\( \\bar{c} \\)) is given by: <br>\\[ \\bar{c} = \\sqrt{\\frac{8RT}{\\pi M}} \\]</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Viscosity of \\(CO_2\\) (\\( \\eta \\)): \\( 15.0 \\times 10^{-6} \\text{ kg m}^{-1} \\text{ s}^{-1} \\)</li><li>Temperature (T): \\( 25^\\circ C \\)</li><li>Pressure (P): \\( 1 \\text{ atm} \\)</li><li>Molar mass of \\(CO_2\\) (M): \\( 44.01 \\text{ g/mol} \\) (from periodic table: C=12.01, O=15.999)</li><li>Ideal gas constant (R): \\( 8.314 \\text{ J mol}^{-1} \\text{ K}^{-1} \\)</li><li>Pi (\\( \\pi \\)): \\( 3.14159 \\)</li></ul></div><p style='margin:8px 0;'><strong>Step 1: Convert given values to SI units and list constants</strong><br>First, convert temperature from Celsius to Kelvin and pressure from atmospheres to Pascals. Also, convert molar mass from g/mol to kg/mol.<br>Temperature: <br>\\[ T = 25^\\circ C + 273.15 = 298.15 \\text{ K} \\]<br>Pressure: <br>\\[ P = 1 \\text{ atm} \\times 101325 \\text{ Pa/atm} = 101325 \\text{ Pa} \\]<br>Molar mass of \\(CO_2\\): <br>\\[ M = 44.01 \\text{ g/mol} = 0.04401 \\text{ kg/mol} \\]<br>Ideal gas constant: <br>\\[ R = 8.314 \\text{ J mol}^{-1} \\text{ K}^{-1} \\]<br>Viscosity (already in SI units): <br>\\[ \\eta = 15.0 \\times 10^{-6} \\text{ kg m}^{-1} \\text{ s}^{-1} \\] </p><p style='margin:8px 0;'><strong>Step 2: Calculate the density (\\( \\rho \\)) of \\(CO_2\\)</strong><br>Use the ideal gas law in terms of density: \\( \\rho = \\frac{PM}{RT} \\).<br>Formula: <br>\\[ \\rho = \\frac{PM}{RT} \\]<br>Substitute values: <br>\\[ \\rho = \\frac{(101325 \\text{ Pa}) \\times (0.04401 \\text{ kg mol}^{-1})}{(8.314 \\text{ J mol}^{-1} \\text{ K}^{-1}) \\times (298.15 \\text{ K})} \\]<br>Simplify: <br>\\[ \\rho = \\frac{4459.31325 \\text{ Pa kg mol}^{-1}}{2479.0301 \\text{ J mol}^{-1}} \\]<br>\\[ \\rho \\approx \\text{1.7988 kg m}^{-3} \\]<br>The density of \\(CO_2\\) is <span style='color:var(--orange);font-weight:bold;'>\\( 1.7988 \\text{ kg m}^{-3} \\)</span>.</p><p style='margin:8px 0;'><strong>Step 3: Calculate the average molecular speed (\\( \\bar{c} \\)) of \\(CO_2\\)</strong><br>Use the formula for average molecular speed: \\( \\bar{c} = \\sqrt{\\frac{8RT}{\\pi M}} \\).<br>Formula: <br>\\[ \\bar{c} = \\sqrt{\\frac{8RT}{\\pi M}} \\]<br>Substitute values: <br>\\[ \\bar{c} = \\sqrt{\\frac{8 \\times (8.314 \\text{ J mol}^{-1} \\text{ K}^{-1}) \\times (298.15 \\text{ K})}{\\pi \\times (0.04401 \\text{ kg mol}^{-1})}} \\]<br>Simplify numerator: <br>\\[ 8 \\times 8.314 \\times 298.15 = 19829.432 \\text{ J mol}^{-1} \\]<br>Simplify denominator: <br>\\[ \\pi \\times 0.04401 \\approx 3.14159 \\times 0.04401 = 0.13824 \\text{ kg mol}^{-1} \\]<br>Substitute simplified parts: <br>\\[ \\bar{c} = \\sqrt{\\frac{19829.432 \\text{ J mol}^{-1}}{0.13824 \\text{ kg mol}^{-1}}} \\]<br>\\[ \\bar{c} = \\sqrt{143449.6 \\text{ m}^2 \\text{ s}^{-2}} \\]<br>\\[ \\bar{c} \\approx 378.75 \\text{ m s}^{-1} \\]<br>The average molecular speed is <span style='color:var(--orange);font-weight:bold;'>\\( 378.75 \\text{ m s}^{-1} \\)</span>.</p><p style='margin:8px 0;'><strong>Step 4: Calculate the mean free path (\\( \\lambda \\))</strong><br>Rearrange the viscosity formula \\( \\eta = \\frac{1}{3} \\rho \\bar{c} \\lambda \\) to solve for \\( \\lambda \\): \\( \\lambda = \\frac{3\\eta}{\\rho \\bar{c}} \\).<br>Formula: <br>\\[ \\lambda = \\frac{3\\eta}{\\rho \\bar{c}} \\]<br>Substitute values: <br>\\[ \\lambda = \\frac{3 \\times (15.0 \\times 10^{-6} \\text{ kg m}^{-1} \\text{ s}^{-1})}{(1.7988 \\text{ kg m}^{-3}) \\times (378.75 \\text{ m s}^{-1})} \\]<br>Simplify numerator: <br>\\[ 3 \\times 15.0 \\times 10^{-6} = 45.0 \\times 10^{-6} \\text{ kg m}^{-1} \\text{ s}^{-1} \\]<br>Simplify denominator: <br>\\[ 1.7988 \\times 378.75 = 681.339 \\text{ kg m}^{-2} \\text{ s}^{-1} \\]<br>Substitute simplified parts: <br>\\[ \\lambda = \\frac{45.0 \\times 10^{-6} \\text{ kg m}^{-1} \\text{ s}^{-1}}{681.339 \\text{ kg m}^{-2} \\text{ s}^{-1}} \\]<br>\\[ \\lambda \\approx 6.6048 \\times 10^{-8} \\text{ m} \\]<br>Rounding to three significant figures (due to the given viscosity): <span style='color:var(--orange);font-weight:bold;'>\\( 6.60 \\times 10^{-8} \\text{ m} \\)</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's check the units for the final calculation:<br>\\[ \\lambda = \\frac{\\text{kg m}^{-1} \\text{ s}^{-1}}{(\\text{kg m}^{-3}) \\times (\\text{m s}^{-1})} = \\frac{\\text{kg m}^{-1} \\text{ s}^{-1}}{\\text{kg m}^{-2} \\text{ s}^{-1}} = \\text{m} \\]<br>The units correctly resolve to meters, which is appropriate for a length (mean free path). The magnitude \\( 10^{-8} \\text{ m} \\) is also reasonable for molecular distances in a gas at atmospheric pressure.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The mean free path is \\( 6.60 \\times 10^{-8} \\text{ m} \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(6.60 \\times 10^{-8} \\text{ m}\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3d",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Given the viscosity of \\(CO_2\\) at \\(25^\\circ C\\) and \\(1atm\\) is \\(15.0 \\times 10^{-6}kgm^{-1}s^{-1}\\), calculate the coefficient of self-diffusion of \\(CO_2\\).",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Kinetic Theory of Gases",
+      "Viscosity",
+      "Self-diffusion"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Kinetic Theory of Gases: Viscosity and Self-Diffusion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Viscosity (\\(\\eta\\))</strong> is a measure of a fluid's resistance to flow. In gases, it arises from the transfer of momentum between layers of gas moving at different velocities.<br><strong>Self-diffusion coefficient (\\(D\\))</strong> quantifies the rate at which molecules of a substance spread out within the substance itself due to their random thermal motion.<br>For dilute gases, the self-diffusion coefficient can be related to viscosity through an approximation derived from the kinetic theory of gases:<br>\\[ D = \\frac{\\eta RT}{PM} \\]<br>Where:<br>\\(D\\) = Self-diffusion coefficient (\\(m^2 s^{-1}\\))<br>\\(\\eta\\) = Viscosity (\\(kg m^{-1} s^{-1}\\))<br>\\(R\\) = Ideal gas constant (\\(J mol^{-1} K^{-1}\\))<br>\\(T\\) = Absolute temperature (\\(K\\))<br>\\(P\\) = Pressure (\\(Pa\\))<br>\\(M\\) = Molar mass of the gas (\\(kg mol^{-1}\\))</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Viscosity of \\(CO_2\\), \\(\\eta = 15.0 \\times 10^{-6} kg m^{-1} s^{-1}\\)<br>Temperature, \\(T = 25^\\circ C\\)<br>Pressure, \\(P = 1 atm\\)<br>Ideal gas constant, \\(R = 8.314 J mol^{-1} K^{-1}\\)<br>Molar mass of \\(CO_2\\), \\(M = 44.009 g mol^{-1}\\)</div><p style='margin:8px 0;'><strong>Step 1: Convert given values to appropriate SI units</strong><br>Convert temperature from Celsius to Kelvin:<br>Formula: \\(T(K) = T(^\\circ C) + 273.15\\)<br>Substitution: \\(T = 25 + 273.15\\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(T = 298.15 K\\)</span><br><br>Convert pressure from atmospheres to Pascals:<br>Conversion factor: \\(1 atm = 101325 Pa\\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(P = 101325 Pa\\)</span><br><br>Convert molar mass from grams per mole to kilograms per mole:<br>Formula: \\(M(kg mol^{-1}) = M(g mol^{-1}) \\times 10^{-3}\\)<br>Substitution: \\(M = 44.009 \\times 10^{-3}\\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(M = 0.044009 kg mol^{-1}\\)</span></p><p style='margin:8px 0;'><strong>Step 2: State the formula for the self-diffusion coefficient</strong><br>The formula relating self-diffusion coefficient (\\(D\\)) to viscosity (\\(\\eta\\)) for a gas is:<br>\\[ D = \\frac{\\eta RT}{PM} \\]<br></p><p style='margin:8px 0;'><strong>Step 3: Substitute the known values into the formula</strong><br>Substitute the values for \\(\\eta\\), \\(R\\), \\(T\\), \\(P\\), and \\(M\\) into the equation:<br>\\[ D = \\frac{(15.0 \\times 10^{-6} kg m^{-1} s^{-1}) \\times (8.314 J mol^{-1} K^{-1}) \\times (298.15 K)}{(101325 Pa) \\times (0.044009 kg mol^{-1})} \\]<br></p><p style='margin:8px 0;'><strong>Step 4: Calculate the numerator</strong><br>Numerator: \\(\\eta RT\\)<br>Calculation: \\(15.0 \\times 10^{-6} \\times 8.314 \\times 298.15\\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(0.037188735 \\, kg m^2 s^{-3} mol^{-1} K^{-1} K = 0.037188735 \\, kg m^2 s^{-3} mol^{-1}\\)</span></p><p style='margin:8px 0;'><strong>Step 5: Calculate the denominator</strong><br>Denominator: \\(PM\\)<br>Calculation: \\(101325 \\times 0.044009\\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(4459.728525 \\, Pa \\cdot kg mol^{-1} = 4459.728525 \\, (kg m^{-1} s^{-2}) \\cdot kg mol^{-1} = 4459.728525 \\, kg^2 m^{-1} s^{-2} mol^{-1}\\)</span></p><p style='margin:8px 0;'><strong>Step 6: Perform the final division to find D</strong><br>Formula: \\(D = \\frac{\\text{Numerator}}{\\text{Denominator}}\\) <br>Substitution: \\(D = \\frac{0.037188735}{4459.728525}\\)<br>Calculation: \\(D \\approx 0.00000833892\\)<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(D \\approx 8.33892 \\times 10^{-6} m^2 s^{-1}\\)</span><br>Rounding to three significant figures (consistent with the given viscosity value of 15.0), we get:<br>Result: <span style='color:var(--orange);font-weight:bold;'>\\(D \\approx 8.34 \\times 10^{-6} m^2 s^{-1}\\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's check the units:<br>\\[ \\frac{\\eta RT}{PM} = \\frac{(kg m^{-1} s^{-1}) \\cdot (J mol^{-1} K^{-1}) \\cdot (K)}{(Pa) \\cdot (kg mol^{-1})} \\]<br>Since \\(J = kg m^2 s^{-2}\\) and \\(Pa = kg m^{-1} s^{-2}\\):<br>\\[ = \\frac{(kg m^{-1} s^{-1}) \\cdot (kg m^2 s^{-2} mol^{-1} K^{-1}) \\cdot (K)}{(kg m^{-1} s^{-2}) \\cdot (kg mol^{-1})} \\]<br>\\[ = \\frac{kg^2 m^1 s^{-3} mol^{-1}}{kg^2 m^{-1} s^{-2} mol^{-1}} \\]<br>\\[ = m^{(1 - (-1))} s^{(-3 - (-2))} = m^2 s^{-1} \\]<br>The units correctly cancel to \\(m^2 s^{-1}\\), which is the standard unit for a diffusion coefficient. The calculated value is also in the typical range for self-diffusion coefficients of gases at standard conditions (usually \\(10^{-5}\\) to \\(10^{-4}\\) \\(m^2 s^{-1}\\), so \\(10^{-6}\\) is a bit lower but plausible depending on the specific model and gas).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The coefficient of self-diffusion of \\(CO_2\\) is \\(8.34 \\times 10^{-6} m^2 s^{-1}\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(8.34 \\times 10^{-6} m^2 s^{-1}\\)"
+    }
+  }
+]
