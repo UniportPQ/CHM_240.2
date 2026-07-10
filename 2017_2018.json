@@ -1,0 +1,417 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Physical Chemistry 1",
+    "code": "CHM 240.2",
+    "session": "2017/2018",
+    "kind": "mixed",
+    "topics": [
+      "Chemical Thermodynamics",
+      "Chemical Kinetics",
+      "Quantum Mechanics Fundamentals",
+      "Statistical Mechanics Introduction",
+      "Chemical Equilibrium",
+      "Gases and Kinetic Theory",
+      "Solutions and Colligative Properties",
+      "Phase Equilibria",
+      "Electrochemistry",
+      "Molecular Spectroscopy Basics",
+      "Physical Chemistry 1",
+      "Hess' Law",
+      "Internal Energy",
+      "Work",
+      "Adiabatic Processes",
+      "Entropy",
+      "First Law of Thermodynamics",
+      "Extensive Properties",
+      "Third Law of Thermodynamics",
+      "Second Law of Thermodynamics",
+      "Heat of Formation",
+      "Enthalpy",
+      "Temperature-Volume Relationship"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer all questions in the space provided"
+    ]
+  },
+  {
+    "type": "heading",
+    "heading": "SECTION A",
+    "Subheading": null
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Hess' Law"
+    ],
+    "Question": {
+      "content": "Hess' law states that if a reaction is carried out in several steps, the overall enthalpy for the reaction is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hess's Law of Constant Heat Summation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Hess's Law of Constant Heat Summation</strong> states that the total enthalpy change for a chemical reaction is the same, regardless of the pathway or the number of steps taken to achieve the reaction. This is because enthalpy (\\\\( \\\\Delta H \\\\)) is a <strong>state function</strong>, meaning its value depends only on the initial and final states of the system, not on the path taken between them.<br><strong>Enthalpy (\\\\( \\\\Delta H \\\\))</strong>: A measure of the total heat content of a system. The change in enthalpy (\\\\( \\\\Delta H \\\\)) represents the heat absorbed or released during a chemical reaction at constant pressure.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks about the overall enthalpy change for a reaction carried out in several steps, according to Hess's Law.</div><p style='margin:8px 0;'><strong>Step 1: State Hess's Law formally</strong><br>Hess's Law asserts that if a chemical reaction can be expressed as the sum of a series of individual steps, then the overall enthalpy change for the reaction is equal to the sum of the enthalpy changes for each of these individual steps.</p><p style='margin:8px 0;'><strong>Step 2: Explain the implication for multi-step reactions</strong><br>When a reaction proceeds through multiple intermediate steps, the enthalpy change for each step contributes to the total enthalpy change. Because enthalpy is a state function, the initial reactants and final products determine the overall enthalpy change, irrespective of the specific intermediate compounds formed or the path followed.</p><p style='margin:8px 0;'><strong>Step 3: Illustrate with a conceptual example</strong><br>Consider a hypothetical reaction where reactant A transforms into product C. This can occur directly or through an intermediate B:<br>Path 1 (Direct): \\\\( \\\\text{A} \\\\rightarrow \\\\text{C} \\\\quad \\\\Delta H_1 \\\\)<br>Path 2 (Two steps):<br>&nbsp;&nbsp;Step i: \\\\( \\\\text{A} \\\\rightarrow \\\\text{B} \\\\quad \\\\Delta H_2 \\\\)<br>&nbsp;&nbsp;Step ii: \\\\( \\\\text{B} \\\\rightarrow \\\\text{C} \\\\quad \\\\Delta H_3 \\\\)<br>According to Hess's Law, the overall enthalpy change for Path 1 must be equal to the sum of the enthalpy changes for the steps in Path 2:<br>\\[ \\\\Delta H_1 = \\\\Delta H_2 + \\\\Delta H_3 \\]<br>This principle allows us to calculate the enthalpy change for a reaction that is difficult to measure directly by using known enthalpy changes of other reactions that sum up to the target reaction.</p><p style='margin:8px 0;'><strong>Step 4: Connect to enthalpy as a state function</strong><br>The fundamental reason behind Hess's Law is that enthalpy (\\\\( \\\\Delta H \\\\)) is a state function. A state function's value depends only on the current state of the system (temperature, pressure, composition) and not on how that state was reached. Therefore, for any reaction, the change in enthalpy from reactants to products is fixed, regardless of the reaction mechanism or intermediate steps.</p><p style='margin:8px 0;'><strong>Step 5: Conclude the overall enthalpy</strong><br>Based on Hess's Law, if a reaction is carried out in several steps, the overall enthalpy for the reaction is the algebraic sum of the enthalpy changes for each individual step.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Hess's Law is a direct consequence of the first law of thermodynamics and the fact that enthalpy is a state function. If the overall enthalpy change depended on the pathway, it would be possible to create or destroy energy by simply changing the reaction route, which contradicts the law of conservation of energy. Therefore, the sum of enthalpy changes for individual steps must equal the overall enthalpy change for the net reaction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The overall enthalpy for the reaction is the sum of the enthalpy changes for the individual steps.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "the sum of the enthalpy changes for the individual steps"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Chemical Thermodynamics",
+      "Physical Chemistry 1",
+      "Internal Energy"
+    ],
+    "Question": {
+      "content": "The heat supplied or released at constant volume is equal to?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Law of Thermodynamics at Constant Volume</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>First Law of Thermodynamics</em> states that the change in internal energy (\\\\( \\\\Delta U \\\\)) of a closed system is equal to the heat (\\\\( Q \\\\)) supplied to the system plus the work (\\\\( W \\\\)) done on the system.<br>Mathematically: \\\\[ \\\\Delta U = Q + W \\\\]where:<br>\\\\( \\\\Delta U \\\\) = Change in internal energy<br>\\\\( Q \\\\) = Heat supplied to or released from the system<br>\\\\( W \\\\) = Work done on or by the system<br><br>For a process involving expansion or compression (P-V work), the work done is typically given by: \\\\[ W = -P_{ext} \\\\Delta V \\\\]where:<br>\\\\( P_{ext} \\\\) = External pressure<br>\\\\( \\\\Delta V \\\\) = Change in volume (\\\\( V_{final} - V_{initial} \\\\))<br><br>A <em>constant volume process</em> (isochoric process) is one where the volume of the system does not change, meaning \\\\( \\\\Delta V = 0 \\\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>The question asks about the heat supplied or released at <b>constant volume</b>.<br>We know the First Law of Thermodynamics: \\\\( \\\\Delta U = Q + W \\\\).<br>We know the formula for P-V work: \\\\( W = -P_{ext} \\\\Delta V \\\\).</div><p style='margin:8px 0;'><strong>Step 1: State the First Law of Thermodynamics</strong><br>The First Law of Thermodynamics relates the change in internal energy, heat, and work:<br>\\\\[ \\\\Delta U = Q + W \\\\]<br>Here, \\\\( \\\\Delta U \\\\) is the change in internal energy, \\\\( Q \\\\) is the heat, and \\\\( W \\\\) is the work.</p><p style='margin:8px 0;'><strong>Step 2: Define work done in a thermodynamic system</strong><br>For processes involving changes in volume against an external pressure, the work done is given by:<br>\\\\[ W = -P_{ext} \\\\Delta V \\\\]<br>where \\\\( P_{ext} \\\\) is the external pressure and \\\\( \\\\Delta V \\\\) is the change in volume.</p><p style='margin:8px 0;'><strong>Step 3: Apply the constant volume condition</strong><br>The problem specifies a process at constant volume. This means there is no change in volume.<br>Therefore:<br>\\\\[ \\\\Delta V = 0 \\\\]<br>Substitute this into the work equation from Step 2:<br>\\\\[ W = -P_{ext} (0) \\\\]<br>Simplifying, the work done at constant volume is:<br><span style='color:var(--orange);font-weight:bold;'>\\\\( W = 0 \\\\)</span></p><p style='margin:8px 0;'><strong>Step 4: Substitute the work into the First Law equation</strong><br>Now, substitute the value of work (\\\\( W = 0 \\\\)) into the First Law of Thermodynamics from Step 1. We denote heat at constant volume as \\\\( Q_v \\\\).<br>\\\\[ \\\\Delta U = Q_v + W \\\\]<br>Substitute \\\\( W = 0 \\\\):<br>\\\\[ \\\\Delta U = Q_v + 0 \\\\]<br>Simplifying the equation:<br>\\\\[ \\\\Delta U = Q_v \\\\]</p><p style='margin:8px 0;'><strong>Step 5: Conclude the relationship</strong><br>From the derivation, we find that the heat supplied or released at constant volume (\\\\( Q_v \\\\)) is directly equal to the change in the internal energy (\\\\( \\\\Delta U \\\\)) of the system.<br>This is a fundamental relationship used in calorimetry, particularly with bomb calorimeters, where reactions occur at constant volume.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The First Law of Thermodynamics is a statement of energy conservation. When a system is held at constant volume, no work can be done by or on the system due to expansion or compression (P-V work). Therefore, any energy transfer into or out of the system must be in the form of heat, and this heat directly contributes to or subtracts from the system's internal energy. This confirms that at constant volume, the heat exchanged is precisely the change in internal energy.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The heat supplied or released at constant volume is equal to the change in internal energy (\\\\( \\\\Delta U \\\\)).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The change in internal energy (\\\\( \\\\Delta U \\\\))"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "A system expands from an initial volume of \\(2.5\\text{m}^3\\) to \\(6.7\\text{m}^3\\) against a pressure of \\(10^{-3}\\text{Pa}\\). Determine the work done by the system.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Work"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Work Done by a System During Expansion</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><em>Work done by a system</em> in thermodynamics refers to the energy transferred when a force causes displacement. For a system expanding or compressing against a constant external pressure, the work done (\\(w\\)) is given by the formula:<br>\\[ w = -P_{\\text{ext}}\\Delta V \\]<br>Where:<br>\\( P_{\\text{ext}} \\) is the constant external pressure.<br>\\( \\Delta V \\) is the change in volume, calculated as \\( V_{\\text{final}} - V_{\\text{initial}} \\).<br>The negative sign indicates that when the system expands (\\( \\Delta V > 0 \\)), work is done <em>by</em> the system, and \\( w \\) is negative (energy leaves the system). When the system compresses (\\( \\Delta V < 0 \\)), work is done <em>on</em> the system, and \\( w \\) is positive (energy enters the system).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Initial volume, \\( V_{\\text{initial}} = 2.5\\text{m}^3 \\)<br>Final volume, \\( V_{\\text{final}} = 6.7\\text{m}^3 \\)<br>External pressure, \\( P_{\\text{ext}} = 10^{-3}\\text{Pa} \\)</div><p style='margin:8px 0;'><strong>Step 1: State the formula for work done during expansion</strong><br>The work done by a system expanding against a constant external pressure is given by:<br>\\[ w = -P_{\\text{ext}}\\Delta V \\]<br>Where \\( w \\) is work done, \\( P_{\\text{ext}} \\) is external pressure, and \\( \\Delta V \\) is the change in volume.</p><p style='margin:8px 0;'><strong>Step 2: Calculate the change in volume (\\(\\Delta V\\))</strong><br>The change in volume is the final volume minus the initial volume.<br>Formula: \\( \\Delta V = V_{\\text{final}} - V_{\\text{initial}} \\)<br>Substitute values: \\( \\Delta V = 6.7\\text{m}^3 - 2.5\\text{m}^3 \\)<br>Simplify: \\( \\Delta V = \\) <span style='color:var(--orange);font-weight:bold;'>\\( 4.2\\text{m}^3 \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Substitute the known values into the work done formula</strong><br>Now, substitute the external pressure and the calculated change in volume into the formula for work done.<br>Formula: \\( w = -P_{\\text{ext}}\\Delta V \\)<br>Substitute values: \\( w = -(10^{-3}\\text{Pa})(4.2\\text{m}^3) \\)</p><p style='margin:8px 0;'><strong>Step 4: Calculate the work done by the system</strong><br>Perform the multiplication to find the work done.<br>Calculation: \\( w = -4.2 \\times 10^{-3}\\text{ Pa}\\cdot\\text{m}^3 \\)<br>Units conversion: Note that \\( 1\\text{ Pa}\\cdot\\text{m}^3 = 1\\text{ (N/m}^2)\\cdot\\text{m}^3 = 1\\text{ N}\\cdot\\text{m} = 1\\text{ J} \\).<br>Result: \\( w = \\) <span style='color:var(--orange);font-weight:bold;'>\\( -4.2 \\times 10^{-3}\\text{ J} \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question asks for the work done <em>by</em> the system during expansion. When a system expands, it does work on its surroundings, meaning energy leaves the system. Therefore, the work done by the system should be negative, which matches our calculated value of \\( -4.2 \\times 10^{-3}\\text{ J} \\).<br>The units are also consistent: \\( \\text{Pressure} \\times \\text{Volume} = \\text{Pa} \\times \\text{m}^3 = (\\text{N/m}^2) \\times \\text{m}^3 = \\text{N}\\cdot\\text{m} = \\text{J} \\). The units are correct for energy (work).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The work done by the system is \\( -4.2 \\times 10^{-3}\\text{ J} \\)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "-4.2 \\times 10^{-3} \\text{ J}"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The process pathway of an ideal gas undergoing a reversible adiabatic transformation from state 1 (\\(T_1P_1\\)) to state 2 (\\(T_2P_2\\)) is described by the relationship ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Chemical Thermodynamics",
+      "Gases and Kinetic Theory",
+      "Internal Energy",
+      "Work",
+      "Adiabatic Processes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reversible Adiabatic Transformation of an Ideal Gas</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>ideal gas</em> is a theoretical gas composed of many randomly moving point particles that are not subject to interparticle attractive forces, and whose behavior is described by the ideal gas law.<br>An <em>adiabatic process</em> is a thermodynamic process that occurs without the transfer of heat or mass between the thermodynamic system and its surroundings. Mathematically, for an adiabatic process, the heat exchanged \\( \\delta Q = 0 \\).<br>A <em>reversible process</em> is an idealized thermodynamic process that can be reversed by infinitesimal changes in conditions, restoring both the system and its surroundings to their initial states without any net change.<br>The <em>adiabatic index</em> (or heat capacity ratio), denoted by \\( \\gamma \\), is the ratio of the specific heat at constant pressure (\\( C_p \\)) to the specific heat at constant volume (\\( C_v \\)) for a gas: \\( \\gamma = C_p/C_v \\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>An ideal gas undergoes a reversible adiabatic transformation.</li><li>The process goes from state 1 (with temperature \\( T_1 \\) and pressure \\( P_1 \\)) to state 2 (with temperature \\( T_2 \\) and pressure \\( P_2 \\)).</li><li>We need to determine the relationship between temperature and pressure that describes this process pathway.</li></ul></div><p style='margin:8px 0;'><strong>Step 1: State the First Law of Thermodynamics and internal energy for an ideal gas</strong><br>The First Law of Thermodynamics for a closed system states:<br>\\[ dU = \\delta Q + \\delta W \\]<br>where \\( dU \\) is the change in internal energy, \\( \\delta Q \\) is the heat added to the system, and \\( \\delta W \\) is the work done on the system.<br>For an ideal gas, the change in internal energy is solely dependent on the change in temperature:<br>\\[ dU = nC_v dT \\]<br>where \\( n \\) is the number of moles, \\( C_v \\) is the molar specific heat at constant volume, and \\( dT \\) is the change in temperature.</p><p style='margin:8px 0;'><strong>Step 2: Apply the conditions for a reversible adiabatic process</strong><br>For an adiabatic process, there is no heat exchange:<br>\\[ \\delta Q = 0 \\]<br>For a reversible process, the work done on the system is given by:<br>\\[ \\delta W = -P dV \\]<br>Substituting these into the First Law of Thermodynamics and the expression for \\( dU \\):<br>\\[ nC_v dT = -P dV \\]</p><p style='margin:8px 0;'><strong>Step 3: Use the Ideal Gas Law to eliminate pressure</strong><br>The Ideal Gas Law is given by:<br>\\[ PV = nRT \\]<br>From this, we can express pressure \\( P \\) as:<br>\\[ P = \\frac{nRT}{V} \\]<br>Substitute this expression for \\( P \\) into the equation from Step 2:<br>\\[ nC_v dT = -\\left(\\frac{nRT}{V}\\right) dV \\]<br>Divide both sides by \\( n \\):<br>\\[ C_v dT = -\\frac{RT}{V} dV \\]<br>Rearrange the terms to separate variables \\( T \\) and \\( V \\):<br>\\[ C_v \\frac{dT}{T} = -R \\frac{dV}{V} \\]</p><p style='margin:8px 0;'><strong>Step 4: Relate \\( R \\) to \\( C_p \\) and \\( C_v \\) using Mayer's relation</strong><br>For an ideal gas, Mayer's relation establishes a relationship between \\( C_p \\), \\( C_v \\), and the ideal gas constant \\( R \\):<br>\\[ C_p - C_v = R \\]<br>Substitute this expression for \\( R \\) into the equation from Step 3:<br>\\[ C_v \\frac{dT}{T} = -(C_p - C_v) \\frac{dV}{V} \\]<br>Divide the entire equation by \\( C_v \\):<br>\\[ \\frac{dT}{T} = -\\left(\\frac{C_p}{C_v} - 1\\right) \\frac{dV}{V} \\]<br>Now, introduce the adiabatic index \\( \\gamma = C_p/C_v \\):<br>\\[ \\frac{dT}{T} = -(\\gamma - 1) \\frac{dV}{V} \\]</p><p style='margin:8px 0;'><strong>Step 5: Integrate the expression to find the T-V relationship</strong><br>Integrate both sides of the equation from state 1 to state 2:<br>\\[ \\int_{T_1}^{T_2} \\frac{dT}{T} = -(\\gamma - 1) \\int_{V_1}^{V_2} \\frac{dV}{V} \\]<br>Performing the integration:<br>\\[ \\ln\\left(\\frac{T_2}{T_1}\\right) = -(\\gamma - 1) \\ln\\left(\\frac{V_2}{V_1}\\right) \\]<br>Using the logarithm property \\( a \\ln(x) = \\ln(x^a) \\):<br>\\[ \\ln\\left(\\frac{T_2}{T_1}\\right) = \\ln\\left(\\left(\\frac{V_2}{V_1}\\right)^{-(\\gamma - 1)}\\right) \\]<br>\\[ \\ln\\left(\\frac{T_2}{T_1}\\right) = \\ln\\left(\\left(\\frac{V_1}{V_2}\\right)^{\\gamma - 1}\\right) \\]<br>Exponentiating both sides to remove the logarithm:<br>\\[ \\frac{T_2}{T_1} = \\left(\\frac{V_1}{V_2}\\right)^{\\gamma - 1} \\]<br>Rearranging the terms, we get the relationship between T and V for a reversible adiabatic process:<br>\\[ T_2 V_2^{\\gamma - 1} = T_1 V_1^{\\gamma - 1} \\]<br>This implies that <span style='color:var(--orange);font-weight:bold;'>\\( TV^{\\gamma - 1} = \\text{constant} \\)</span>.</p><p style='margin:8px 0;'><strong>Step 6: Convert the T-V relationship to a T-P relationship</strong><br>We have the relationship \\( TV^{\\gamma - 1} = \\text{constant} \\). We need to replace \\( V \\) using the Ideal Gas Law to get a relationship between \\( T \\) and \\( P \\).<br>From the Ideal Gas Law \\( PV = nRT \\), we can express \\( V \\) as:<br>\\[ V = \\frac{nRT}{P} \\]<br>Substitute this expression for \\( V \\) into the T-V relationship:<br>\\[ T \\left(\\frac{nRT}{P}\\right)^{\\gamma - 1} = \\text{constant} \\]<br>Distribute the exponent \\( (\\gamma - 1) \\):<br>\\[ T \\cdot (nR)^{\\gamma - 1} \\cdot T^{\\gamma - 1} \\cdot P^{-(\\gamma - 1)} = \\text{constant} \\]<br>Combine the terms involving \\( T \\) (recall \\( T^a \\cdot T^b = T^{a+b} \\)):<br>\\[ T^{1 + (\\gamma - 1)} \\cdot P^{-(\\gamma - 1)} \\cdot (nR)^{\\gamma - 1} = \\text{constant} \\]<br>\\[ T^{\\gamma} \\cdot P^{1 - \\gamma} \\cdot (nR)^{\\gamma - 1} = \\text{constant} \\]<br>Since \\( n \\), \\( R \\), and \\( \\gamma \\) are constants, the term \\( (nR)^{\\gamma - 1} \\) is also a constant. We can absorb this constant into the overall constant on the right side:<br>\\[ T^{\\gamma} P^{1 - \\gamma} = \\text{another constant} \\]<br>Therefore, for state 1 and state 2, the relationship is:<br>\\[ T_1^{\\gamma} P_1^{1 - \\gamma} = T_2^{\\gamma} P_2^{1 - \\gamma} \\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The derivation systematically uses fundamental thermodynamic principles: the First Law of Thermodynamics, the definition of an adiabatic process (\\( \\delta Q = 0 \\)), the work done in a reversible process (\\( \\delta W = -P dV \\)), the ideal gas law (\\( PV = nRT \\)), and Mayer's relation (\\( C_p - C_v = R \\)). Each step is a standard manipulation in the derivation of adiabatic process equations for ideal gases. The resulting relationship, \\( T^{\\gamma} P^{1 - \\gamma} = \\text{constant} \\), is one of the three equivalent forms describing a reversible adiabatic process for an ideal gas (the others being \\( PV^{\\gamma} = \\text{constant} \\) and \\( TV^{\\gamma - 1} = \\text{constant} \\)). This consistency with established thermodynamic theory confirms the accuracy of the derived relationship.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The relationship describing the process pathway is \\( T_1^{\\gamma} P_1^{1 - \\gamma} = T_2^{\\gamma} P_2^{1 - \\gamma} \\)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(T_1^\\gamma P_1^{1-\\gamma} = T_2^\\gamma P_2^{1-\\gamma}\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Phase Equilibria"
+    ],
+    "Question": {
+      "content": "For most elementary solids which exist in more than one crystalline form, the molar enthalpy of modification which is stable at \\(25^\\circ\\text{C}\\) and \\(1\\text{atm}\\) is assigned a value of ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Standard Enthalpy of Formation Convention</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>standard state</em> for a substance is a reference set of conditions for thermodynamic properties. For pure solids and liquids, it is the substance at \\(1\\text{atm}\\) pressure and a specified temperature (commonly \\(25^\\circ\\text{C}\\) or \\(298.15\\text{ K}\\)).<br>The <em>standard molar enthalpy of formation</em> (\\( \\Delta H_f^\\circ \\)) is the enthalpy change when one mole of a compound is formed from its constituent elements in their standard states.<br>By convention, the \\( \\Delta H_f^\\circ \\) for any elementary substance in its <strong>most stable physical state</strong> at standard conditions is defined as zero.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Elementary solids existing in more than one crystalline form.</li><li>Conditions: \\(25^\\circ\\text{C}\\) and \\(1\\text{atm}\\).</li><li>Focus: Molar enthalpy of modification which is <em>stable</em> at these conditions.</li></ul></div><p style='margin:8px 0;'><strong>Step 1: Understand the concept of standard state for elements</strong><br>The standard state for an element refers to its most stable physical form at a specified temperature (usually \\(25^\\circ\\text{C}\\)) and \\(1\\text{atm}\\) pressure.<br>For elements that can exist in multiple forms (allotropes), like carbon (graphite, diamond) or sulfur (rhombic, monoclinic), only one form is considered the standard reference.</p><p style='margin:8px 0;'><strong>Step 2: Define standard molar enthalpy of formation (\\( \\Delta H_f^\\circ \\))</strong><br>The standard molar enthalpy of formation (\\( \\Delta H_f^\\circ \\)) is the enthalpy change associated with the formation of one mole of a substance from its constituent elements in their standard states.<br>This value is fundamental for calculating enthalpy changes of chemical reactions using Hess's Law or standard enthalpy of formation tables.</p><p style='margin:8px 0;'><strong>Step 3: Apply the thermodynamic convention for elementary substances</strong><br>To establish a consistent and universal reference point for all thermodynamic calculations, a crucial convention is adopted:<br>The standard molar enthalpy of formation (\\( \\Delta H_f^\\circ \\)) for any elementary substance in its <strong>most stable physical state</strong> at the standard temperature (\\(25^\\circ\\text{C}\\)) and pressure (\\(1\\text{atm}\\)) is defined as <span style='color:var(--orange);font-weight:bold;'>zero</span>.<br>For example, \\( \\Delta H_f^\\circ \\) for \\(O_2(g)\\), \\(N_2(g)\\), \\(Fe(s)\\), and \\(C(\\text{graphite}, s)\\) are all zero at \\(25^\\circ\\text{C}\\) and \\(1\\text{atm}\\).</p><p style='margin:8px 0;'><strong>Step 4: Consider elementary solids with multiple crystalline forms (allotropes)</strong><br>The question specifically refers to elementary solids that exist in more than one crystalline form.<br>For such elements, the convention dictates that only the <em>most stable</em> allotrope at the specified standard conditions (\\(25^\\circ\\text{C}\\) and \\(1\\text{atm}\\)) is assigned a \\( \\Delta H_f^\\circ \\) of zero.<br>For instance, carbon exists as graphite and diamond. At \\(25^^\\circ\\text{C}\\) and \\(1\\text{atm}\\), graphite is the more stable form. Therefore, \\( \\Delta H_f^\\circ(C, \\text{graphite}) = 0 \\text{ kJ/mol} \\). Diamond is less stable, so \\( \\Delta H_f^\\circ(C, \\text{diamond}) \\) has a positive value (approximately \\(1.897 \\text{ kJ/mol}\\)).</p><p style='margin:8px 0;'><strong>Step 5: Conclude the assigned value</strong><br>Following the established thermodynamic convention, the molar enthalpy of modification (which is equivalent to its standard enthalpy of formation in this context) for the most stable crystalline form of an elementary solid at \\(25^\\circ\\text{C}\\) and \\(1\\text{atm}\\) is assigned a value of <span style='color:var(--orange);font-weight:bold;'>zero</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>This convention is universally adopted in thermochemistry. It provides a consistent baseline for calculating the relative energies of compounds and the enthalpy changes of chemical reactions. Without this convention, all tabulated enthalpy of formation values would be arbitrary, and comparisons would be difficult. By setting the most stable elemental forms to zero, all other values are relative to this fundamental state, simplifying calculations and ensuring consistency across different thermodynamic datasets.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The value assigned is zero.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "zero"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "For a reversible process, the sum of the entropy change of the system and its surroundings is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Chemical Thermodynamics",
+      "Physical Chemistry 1",
+      "Entropy"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Entropy Change in Reversible Processes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Entropy (\\\\( S \\\\))</strong> is a thermodynamic property that is a measure of the disorder or randomness of a system. The change in entropy (\\\\( \\\\Delta S \\\\)) quantifies the change in this disorder.<br>A <strong>Reversible Process</strong> is an idealized process that proceeds in infinitesimally small steps, always maintaining equilibrium between the system and its surroundings. It can be reversed without leaving any net change in the system or surroundings.<br>The <strong>Second Law of Thermodynamics</strong> states that for any spontaneous (irreversible) process, the total entropy of the universe increases, while for a reversible process, the total entropy of the universe remains constant.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>We need to find the sum of the entropy change of the system and its surroundings for a reversible process.</div><p style='margin:8px 0;'><strong>Step 1: Understand Entropy Change of the Universe</strong><br>The total entropy change of the universe (\\\\( \\\\Delta S_{universe} \\\\)) is the sum of the entropy change of the system (\\\\( \\\\Delta S_{system} \\\\)) and the entropy change of its surroundings (\\\\( \\\\Delta S_{surroundings} \\\\)).<br>\\\\[ \\\\Delta S_{universe} = \\\\Delta S_{system} + \\\\Delta S_{surroundings} \\\\\\]<br></p><p style='margin:8px 0;'><strong>Step 2: Apply the Second Law of Thermodynamics to Reversible Processes</strong><br>According to the Second Law of Thermodynamics, for a reversible process, there is no net increase or decrease in the total entropy of the universe. This means the entropy change of the universe for a reversible process is zero.<br>\\\\[ \\\\Delta S_{universe, reversible} = 0 \\\\\\]<br></p><p style='margin:8px 0;'><strong>Step 3: Combine the Definitions</strong><br>Substitute the condition for a reversible process from Step 2 into the general equation from Step 1.<br>We have: <br>\\\\( \\\\Delta S_{universe} = \\\\Delta S_{system} + \\\\Delta S_{surroundings} \\\\)<br>And for a reversible process: <br>\\\\( \\\\Delta S_{universe} = 0 \\\\)<br>Therefore, for a reversible process, the sum of the entropy change of the system and its surroundings is:<br>\\\\[ \\\\Delta S_{system} + \\\\Delta S_{surroundings} = \\\\Delta S_{universe, reversible} = <span style='color:var(--orange);font-weight:bold;'>0</span> \\\\\\]<br></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>A reversible process is an idealization where the system is always infinitesimally close to equilibrium. This implies that any change can be reversed by an infinitesimal alteration of conditions, leaving no net change in the universe. If there were any net entropy generation (\\\\( \\\\Delta S_{universe} > 0 \\\\)), the process would be irreversible. If there were a decrease (\\\\( \\\\Delta S_{universe} < 0 \\\\)), it would violate the Second Law. Thus, for a truly reversible process, the total entropy change of the universe must be exactly zero.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The sum of the entropy change of the system and its surroundings for a reversible process is zero.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zero"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The mathematical expression of first law of thermodynamics is given by ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "First Law of Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>First Law of Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>First Law of Thermodynamics</em>, also known as the Law of Conservation of Energy, states that energy cannot be created or destroyed in an isolated system. It can only be transferred or changed from one form to another. For a thermodynamic system, this means that the change in its internal energy is equal to the heat added to the system plus the work done <em>on</em> the system.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for the mathematical expression of the First Law of Thermodynamics.</div><p style='margin:8px 0;'><strong>Step 1: Understand the core principle</strong><br>The First Law of Thermodynamics is a fundamental statement of the conservation of energy. It states that the total energy of an isolated system remains constant. For a closed system, its internal energy can change through the transfer of heat and/or work with its surroundings.</p><p style='margin:8px 0;'><strong>Step 2: Define the thermodynamic terms</strong><br>The key terms in the First Law are:<br><strong>Internal Energy (\\( U \\)):</strong> This is the total energy contained within a thermodynamic system. It is a state function, meaning its change depends only on the initial and final states, not the path taken. The change is denoted by \\( \\Delta U \\) for a finite change or \\( dU \\) for an infinitesimal change.<br><strong>Heat (\\( Q \\)):</strong> This is the transfer of thermal energy between a system and its surroundings due to a temperature difference. Heat absorbed <em>by</em> the system is positive (\\( +Q \\)), and heat released <em>by</em> the system is negative (\\( -Q \\)). For an infinitesimal transfer, it is denoted by \\( \\delta Q \\).<br><strong>Work (\\( W \\)):</strong> This is energy transferred when a force causes displacement. In thermodynamics, work can be done <em>by</em> the system or <em>on</em> the system. According to the IUPAC convention (and common in physics), work done <em>on</em> the system is positive (\\( +W \\)), and work done <em>by</em> the system is negative (\\( -W \\)). For an infinitesimal transfer, it is denoted by \\( \\delta W \\).</p><p style='margin:8px 0;'><strong>Step 3: Formulate the mathematical expression for finite changes</strong><br>The First Law can be expressed for a finite change in a closed system as:<br>\\[ \\Delta U = Q + W \\]<br>Where \\( \\Delta U \\) is the change in internal energy, \\( Q \\) is the heat absorbed by the system, and \\( W \\) is the work done <em>on</em> the system. This convention considers energy entering the system (heat absorbed, work done on system) as positive.</p><p style='margin:8px 0;'><strong>Step 4: Write the mathematical expression for infinitesimal changes</strong><br>For infinitesimal changes, which are often used in differential equations to describe processes, the First Law is expressed as:<br>\\[ dU = \\delta Q + \\delta W \\]<br>Here, \\( dU \\) is an exact differential, indicating that internal energy is a state function. \\( \\delta Q \\) and \\( \\delta W \\) are inexact differentials, signifying that heat and work are path-dependent processes, not state functions. The use of \\( \\delta \\) emphasizes their path-dependent nature.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The equation \\( dU = \\delta Q + \\delta W \\) is the universally accepted differential form of the First Law of Thermodynamics, provided \\( \\delta W \\) is defined as work done <em>on</em> the system. This formulation correctly reflects the conservation of energy principle, where the change in a system's internal energy is accounted for by the energy transferred as heat and work.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; \\( dU = \\delta Q + \\delta W \\)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( dU = \\delta Q + \\delta W \\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Volume and heat capacity are examples of?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Extensive Properties"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Extensive and Intensive Properties</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>In thermodynamics, properties of a system can be classified into two main types:<br><ul><li><strong>Extensive Properties:</strong> These properties <em>depend on the amount of matter</em> present in the system. They are additive; if you combine two identical systems, the extensive property of the combined system is the sum of the properties of the individual systems.</li><li><strong>Intensive Properties:</strong> These properties <em>do NOT depend on the amount of matter</em> present in the system. They are characteristic of the substance itself, regardless of its quantity.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>We need to classify 'Volume' and 'Heat capacity'.</div><p style='margin:8px 0;'><strong>Step 1: Analyze Volume</strong><br>Volume is the amount of space occupied by a substance. If you have a small amount of a substance, it occupies a small volume. If you double the amount of that substance (at constant temperature and pressure), its volume will also approximately double.<br>Since volume changes with the amount of substance, it is an <span style='color:var(--orange);font-weight:bold;'>extensive property</span>.</p><p style='margin:8px 0;'><strong>Step 2: Analyze Heat Capacity</strong><br>Heat capacity (\\( C \\)) is the amount of heat energy required to raise the temperature of a given quantity of a substance by one degree Celsius (or Kelvin). The formula is typically \\( C = \\frac{q}{\\Delta T} \\).<br>If you have more of a substance, you will need more heat energy to raise its temperature by the same amount. For example, it takes more heat to warm up a large pot of water than a small cup of water by the same temperature difference.<br>Since heat capacity depends on the amount of substance, it is an <span style='color:var(--orange);font-weight:bold;'>extensive property</span>.<br><em>Note: Specific heat capacity (heat capacity per unit mass) and molar heat capacity (heat capacity per mole) are intensive properties, but 'heat capacity' itself refers to the total heat capacity of a sample.</em></p><p style='margin:8px 0;'><strong>Step 3: Conclude the classification</strong><br>Both volume and heat capacity are properties that are directly proportional to the amount of matter in the system.<br>Therefore, they both fall under the definition of extensive properties.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Consider a system divided into two identical halves. The volume of the total system is the sum of the volumes of the two halves. The heat capacity of the total system is the sum of the heat capacities of the two halves. This additive nature is a defining characteristic of extensive properties. For example, if you have 1 liter of water, its volume is 1 L and it has a certain heat capacity. If you combine it with another 1 liter of water, you get 2 liters of water, and the total heat capacity is doubled. This confirms that both are extensive properties.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Volume and heat capacity are examples of extensive properties.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Extensive properties"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The entropy of a pure, perfectly crystalline substance is zero at the absolute zero temperature, this is a statement of?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Entropy",
+      "Third Law of Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Third Law of Thermodynamics</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Entropy (\\( S \\))</strong>: A thermodynamic property that quantifies the degree of disorder or randomness in a system. Higher disorder corresponds to higher entropy.<br><strong>Absolute Zero (0 Kelvin or \\( -273.15^\\circ\\text{C} \\))</strong>: The theoretical lowest possible temperature where all atomic motion ceases, and a system has its minimum possible energy.<br><strong>Third Law of Thermodynamics</strong>: States that the entropy of a pure, perfectly crystalline substance is zero at absolute zero temperature.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The statement: \"The entropy of a pure, perfectly crystalline substance is zero at the absolute zero temperature.\"</div><p style='margin:8px 0;'><strong>Step 1: Define Entropy</strong><br>Entropy, denoted by \\( S \\), is a thermodynamic property that measures the degree of randomness or disorder within a system. A system with greater disorder has higher entropy, while a system with perfect order has lower entropy.</p><p style='margin:8px 0;'><strong>Step 2: Define Absolute Zero</strong><br>Absolute zero is the lowest theoretical temperature, \\( 0 \\text{ K} \\), at which particles of matter exhibit minimal vibrational motion and kinetic energy. At this temperature, a system is considered to be in its most ordered state possible.</p><p style='margin:8px 0;'><strong>Step 3: Recall the Laws of Thermodynamics</strong><br>Thermodynamics is governed by several fundamental laws that describe energy, heat, and entropy.<br><ul><li>The <strong>Zeroth Law</strong> deals with thermal equilibrium.</li><li>The <strong>First Law</strong> deals with the conservation of energy.</li><li>The <strong>Second Law</strong> deals with the direction of spontaneous processes and states that the total entropy of an isolated system tends to increase over time.</li><li>The <strong>Third Law</strong> provides a reference point for entropy, specifically at absolute zero.</li></ul></p><p style='margin:8px 0;'><strong>Step 4: State the Third Law of Thermodynamics</strong><br>The statement provided in the question directly corresponds to the <strong>Third Law of Thermodynamics</strong>. This law postulates that: <br>\\[ \\lim_{T \\to 0 \\text{ K}} S = 0 \\] <br>for a pure, perfectly crystalline substance. This means that as the temperature \\( T \\) of such a substance approaches absolute zero, its entropy \\( S \\) approaches <span style='color:var(--orange);font-weight:bold;'>zero</span>.</p><p style='margin:8px 0;'><strong>Step 5: Explain the Significance of \"Pure, Perfectly Crystalline\"</strong><br>The conditions \"pure\" and \"perfectly crystalline\" are essential for the Third Law to hold true. <br>A <strong>pure</strong> substance ensures there is no entropy contribution from mixing different components. <br>A <strong>perfectly crystalline</strong> substance implies a flawless, repeating atomic or molecular structure with no defects or positional disorder. <br>At absolute zero, with no thermal energy, such a system has only one possible microstate (a state of perfect order), and therefore, its entropy is zero. This law is crucial for calculating absolute entropy values for substances.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question describes the scenario where \"The entropy of a pure, perfectly crystalline substance is zero at the absolute zero temperature.\" This precise definition is the fundamental principle established by the Third Law of Thermodynamics, which provides a baseline for entropy measurements. Therefore, the statement is a direct articulation of this law.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The statement describes the Third Law of Thermodynamics.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Third Law of Thermodynamics"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "According to the second law of thermodynamics, in an isolated system, spontaneous processes occur in the direction of increasing ______.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Entropy",
+      "Second Law of Thermodynamics"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Second Law of Thermodynamics and Entropy</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Second Law of Thermodynamics</em> states that the total entropy of an isolated system can only increase over time, or remain constant for reversible processes.<br>An <em>isolated system</em> is one that cannot exchange either matter or energy with its surroundings.<br>A <em>spontaneous process</em> is a process that occurs naturally without continuous external input of energy.<br><em>Entropy</em> (\\( S \\)) is a thermodynamic property that quantifies the degree of disorder, randomness, or multiplicity of a system.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The statement to complete: \"According to the second law of thermodynamics, in an isolated system, spontaneous processes occur in the direction of increasing ______.\"</div><p style='margin:8px 0;'><strong>Step 1: Understand the Second Law of Thermodynamics</strong><br>The Second Law of Thermodynamics is a fundamental principle that describes the direction of natural processes. It essentially states that the universe, or any isolated system, tends towards a state of greater disorder or randomness over time.</p><p style='margin:8px 0;'><strong>Step 2: Define an Isolated System</strong><br>An isolated system is a theoretical construct where there is no exchange of matter or energy with the surroundings. This means that any changes within the system are internal, and its total energy and mass remain constant. The universe itself is often considered an isolated system.</p><p style='margin:8px 0;'><strong>Step 3: Define a Spontaneous Process</strong><br>A spontaneous process is one that occurs naturally under specified conditions without the need for continuous external energy input. These processes tend to move a system from a non-equilibrium state towards an equilibrium state. Examples include heat flowing from a hot object to a cold one, or a gas expanding to fill an empty container.</p><p style='margin:8px 0;'><strong>Step 4: Introduce and Define Entropy</strong><br>Entropy (\\( S \\)) is a thermodynamic state function that measures the degree of disorder or randomness in a system. A system with higher entropy has more possible microscopic arrangements (microstates) that correspond to its macroscopic state. For instance, a gas spread out in a large volume has higher entropy than the same gas confined to a small volume. The change in entropy for a reversible process is given by \\( \\Delta S = \\frac{q_{rev}}{T} \\).</p><p style='margin:8px 0;'><strong>Step 5: Connect the concepts to complete the statement</strong><br>The Second Law of Thermodynamics specifically states that for any spontaneous process occurring within an isolated system, the total entropy of that system must increase. This means that isolated systems naturally evolve towards states of greater disorder or randomness. Therefore, spontaneous processes in an isolated system always proceed in the direction of increasing <span style='color:var(--orange);font-weight:bold;'>entropy</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The core tenet of the Second Law of Thermodynamics is the increase of entropy in isolated systems for spontaneous processes. This principle explains the natural direction of many physical and chemical changes observed in the universe. Thus, \"entropy\" is the correct term that completes the statement.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The blank should be filled with \"entropy\".</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entropy"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "SECTION B",
+    "Subheading": null
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Hess' Law",
+      "Heat of Formation"
+    ],
+    "Question": {
+      "content": "Determine the heat of formation of propane according to the reaction \\\\(3C_{(s)} + 4H_{2(g)} \\\\rightarrow C_3H_{8(g)}\\\\), given the following data.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [
+      [
+        "Reaction",
+        "\\\\(\\\\Delta H^\\\\circ\\\\)"
+      ],
+      [
+        "\\\\(C_{(s)} + O_{2(g)} \\\\rightarrow CO_{2(g)}\\\\)",
+        "\\\\(-394\\\\text{kJ/mol}\\\\)"
+      ],
+      [
+        "\\\\(C_3H_{8(g)} + 5O_{2(g)} \\\\rightarrow 3CO_{2(g)} + 4H_2O_{(l)}\\\\)",
+        "\\\\(-2220\\\\text{kJ/mol}\\\\)"
+      ],
+      [
+        "\\\\(H_{2(g)} + \\\\frac{1}{2}O_{2(g)} \\\\rightarrow H_2O_{(l)}\\\\)",
+        "\\\\(-286\\\\text{kJ/mol}\\\\)"
+      ]
+    ],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Heat of Formation using Hess' Law</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>standard heat of formation</em> (\\\\( \\\\Delta H_f^\\\\circ \\\\)) is the enthalpy change when one mole of a compound is formed from its constituent elements in their standard states under standard conditions (1 atm, 298 K).<br><em>Hess's Law</em> states that the total enthalpy change for a chemical reaction is independent of the pathway taken, meaning if a reaction can be expressed as the sum of a series of steps, then the enthalpy change for the overall reaction is the sum of the enthalpy changes for each step.<br>Rules for manipulating reactions and their \\\\( \\\\Delta H \\\\) values:<br>1. If a reaction is reversed, the sign of \\\\( \\\\Delta H \\\\) is reversed.<br>2. If the coefficients of a reaction are multiplied by a factor, the \\\\( \\\\Delta H \\\\) is also multiplied by the same factor.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Target reaction: \\\\( 3C_{(s)} + 4H_{2(g)} \\\\rightarrow C_3H_{8(g)} \\\\)<br>Given reactions and their standard enthalpy changes:<br>1. \\\\( C_{(s)} + O_{2(g)} \\\\rightarrow CO_{2(g)} \\\\), \\\\( \\\\Delta H_1^\\\\circ = -394 \\\\text{ kJ/mol} \\\\)<br>2. \\\\( C_3H_{8(g)} + 5O_{2(g)} \\\\rightarrow 3CO_{2(g)} + 4H_2O_{(l)} \\\\), \\\\( \\\\Delta H_2^\\\\circ = -2220 \\\\text{ kJ/mol} \\\\)<br>3. \\\\( H_{2(g)} + \\\\frac{1}{2}O_{2(g)} \\\\rightarrow H_2O_{(l)} \\\\), \\\\( \\\\Delta H_3^\\\\circ = -286 \\\\text{ kJ/mol} \\\\)</div><p style='margin:8px 0;'><strong>Step 1: Identify the target reaction</strong><br>The reaction for which we need to determine the enthalpy change (which is the standard heat of formation of propane, \\\\( \\\\Delta H_f^\\\\circ \\\\)) is:<br>\\[ 3C_{(s)} + 4H_{2(g)} \\\\rightarrow C_3H_{8(g)} \\]</p><p style='margin:8px 0;'><strong>Step 2: Manipulate the given reactions to match the target reaction</strong><br>We will adjust the given reactions by multiplying their coefficients and/or reversing them, such that when summed, they yield the target reaction. We look for reactants and products from the target reaction in the given reactions.<br><br><strong>a. Incorporate \\\\( C_{(s)} \\\\):</strong><br>The target reaction requires \\\\( 3C_{(s)} \\\\) as a reactant.<br>Reaction 1: \\\\( C_{(s)} + O_{2(g)} \\\\rightarrow CO_{2(g)} \\\\) has \\\\( C_{(s)} \\\\) as a reactant.<br>To get \\\\( 3C_{(s)} \\\\), we must multiply Reaction 1 by 3.<br>Modified Reaction 1: \\\\( 3 \\\\times (C_{(s)} + O_{2(g)} \\\\rightarrow CO_{2(g)}) \\\\)<br>\\[ 3C_{(s)} + 3O_{2(g)} \\\\rightarrow 3CO_{2(g)} \\]<br>The enthalpy change for this modified reaction will be:<br>\\[ \\\\Delta H_1'^\\\\circ = 3 \\\\times \\\\Delta H_1^\\\\circ \\]<br>\\[ \\\\Delta H_1'^\\\\circ = 3 \\\\times (-394 \\\\text{ kJ/mol}) = \\\\text{<span style='color:var(--orange);font-weight:bold;'>-1182 kJ/mol</span>} \\]<br><br><strong>b. Incorporate \\\\( H_{2(g)} \\\\):</strong><br>The target reaction requires \\\\( 4H_{2(g)} \\\\) as a reactant.<br>Reaction 3: \\\\( H_{2(g)} + \\\\frac{1}{2}O_{2(g)} \\\\rightarrow H_2O_{(l)} \\\\) has \\\\( H_{2(g)} \\\\) as a reactant.<br>To get \\\\( 4H_{2(g)} \\\\), we must multiply Reaction 3 by 4.<br>Modified Reaction 3: \\\\( 4 \\\\times (H_{2(g)} + \\\\frac{1}{2}O_{2(g)} \\\\rightarrow H_2O_{(l)}) \\\\)<br>\\[ 4H_{2(g)} + 2O_{2(g)} \\\\rightarrow 4H_2O_{(l)} \\]<br>The enthalpy change for this modified reaction will be:<br>\\[ \\\\Delta H_3'^\\\\circ = 4 \\\\times \\\\Delta H_3^\\\\circ \\]<br>\\[ \\\\Delta H_3'^\\\\circ = 4 \\\\times (-286 \\\\text{ kJ/mol}) = \\\\text{<span style='color:var(--orange);font-weight:bold;'>-1144 kJ/mol</span>} \\]<br><br><strong>c. Incorporate \\\\( C_3H_{8(g)} \\\\):</strong><br>The target reaction requires \\\\( C_3H_{8(g)} \\\\) as a product.<br>Reaction 2: \\\\( C_3H_{8(g)} + 5O_{2(g)} \\\\rightarrow 3CO_{2(g)} + 4H_2O_{(l)} \\\\) has \\\\( C_3H_{8(g)} \\\\) as a reactant.<br>To get \\\\( C_3H_{8(g)} \\\\) as a product, we must reverse Reaction 2.<br>Modified Reaction 2: Reverse \\\\( C_3H_{8(g)} + 5O_{2(g)} \\\\rightarrow 3CO_{2(g)} + 4H_2O_{(l)} \\\\)<br>\\[ 3CO_{2(g)} + 4H_2O_{(l)} \\\\rightarrow C_3H_{8(g)} + 5O_{2(g)} \\]<br>The enthalpy change for this modified reaction will be:<br>\\[ \\\\Delta H_2'^\\\\circ = -(\\\\Delta H_2^\\\\circ) \\]<br>\\[ \\\\Delta H_2'^\\\\circ = -(-2220 \\\\text{ kJ/mol}) = \\\\text{<span style='color:var(--orange);font-weight:bold;'>+2220 kJ/mol</span>} \\]</p><p style='margin:8px 0;'><strong>Step 3: List the modified reactions and their enthalpy changes</strong><br>1. \\\\( 3C_{(s)} + 3O_{2(g)} \\\\rightarrow 3CO_{2(g)} \\\\)<br>   \\\\( \\\\Delta H_1'^\\\\circ = \\\\text{<span style='color:var(--orange);font-weight:bold;'>-1182 kJ/mol</span>} \\\\)<br><br>2. \\\\( 3CO_{2(g)} + 4H_2O_{(l)} \\\\rightarrow C_3H_{8(g)} + 5O_{2(g)} \\\\)<br>   \\\\( \\\\Delta H_2'^\\\\circ = \\\\text{<span style='color:var(--orange);font-weight:bold;'>+2220 kJ/mol</span>} \\\\)<br><br>3. \\\\( 4H_{2(g)} + 2O_{2(g)} \\\\rightarrow 4H_2O_{(l)} \\\\)<br>   \\\\( \\\\Delta H_3'^\\\\circ = \\\\text{<span style='color:var(--orange);font-weight:bold;'>-1144 kJ/mol</span>} \\\\)</p><p style='margin:8px 0;'><strong>Step 4: Sum the modified reactions and their enthalpy changes</strong><br>Add the three modified reactions together and cancel out species that appear on both the reactant and product sides of the overall sum.<br>\\[ \\\\begin{array}{lr}<br>3C_{(s)} + 3O_{2(g)} \\\\rightarrow 3CO_{2(g)} & \\\\Delta H_1'^\\\\circ = -1182 \\\\text{ kJ/mol} \\\\\\\\<br>3CO_{2(g)} + 4H_2O_{(l)} \\\\rightarrow C_3H_{8(g)} + 5O_{2(g)} & \\\\Delta H_2'^\\\\circ = +2220 \\\\text{ kJ/mol} \\\\\\\\<br>4H_{2(g)} + 2O_{2(g)} \\\\rightarrow 4H_2O_{(l)} & \\\\Delta H_3'^\\\\circ = -1144 \\\\text{ kJ/mol} \\\\\\\\<br>\\\\hline<br>\\\\end{array} \\]<br>Summing the reactions:<br>Reactants: \\\\( 3C_{(s)} + 3O_{2(g)} + 3CO_{2(g)} + 4H_2O_{(l)} + 4H_{2(g)} + 2O_{2(g)} \\\\)<br>Products: \\\\( 3CO_{2(g)} + C_3H_{8(g)} + 5O_{2(g)} + 4H_2O_{(l)} \\\\)<br><br>Cancel common species:<br>- \\\\( 3CO_{2(g)} \\\\) on both sides.<br>- \\\\( 4H_2O_{(l)} \\\\) on both sides.<br>- Combine \\\\( 3O_{2(g)} \\\\) (from modified Reaction 1) and \\\\( 2O_{2(g)} \\\\) (from modified Reaction 3) on the reactant side to get \\\\( 5O_{2(g)} \\\\). This cancels out with the \\\\( 5O_{2(g)} \\\\) on the product side (from modified Reaction 2).<br><br>The net reaction is:<br>\\[ 3C_{(s)} + 4H_{2(g)} \\\\rightarrow C_3H_{8(g)} \\]<br>This matches the target reaction.\n</p><p style='margin:8px 0;'><strong>Step 5: Calculate the overall enthalpy change</strong><br>According to Hess's Law, the enthalpy change for the target reaction is the sum of the enthalpy changes of the modified reactions.<br>\\[ \\\\Delta H_{reaction}^\\\\circ = \\\\Delta H_1'^\\\\circ + \\\\Delta H_2'^\\\\circ + \\\\Delta H_3'^\\\\circ \\]<br>Substitute the calculated values:<br>\\[ \\\\Delta H_{reaction}^\\\\circ = (-1182 \\\\text{ kJ/mol}) + (+2220 \\\\text{ kJ/mol}) + (-1144 \\\\text{ kJ/mol}) \\]<br>\\[ \\\\Delta H_{reaction}^\\\\circ = -1182 + 2220 - 1144 \\]<br>\\[ \\\\Delta H_{reaction}^\\\\circ = 1038 - 1144 \\]<br>\\[ \\\\Delta H_{reaction}^\\\\circ = \\\\text{<span style='color:var(--orange);font-weight:bold;'>-106 kJ/mol</span>} \\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>We successfully manipulated the given reactions to sum up to the target reaction, \\\\( 3C_{(s)} + 4H_{2(g)} \\\\rightarrow C_3H_{8(g)} \\\\).<br>The calculation of the sum of the modified enthalpies is:<br>\\\\( -1182 + 2220 - 1144 = 1038 - 1144 = -106 \\\\text{ kJ/mol} \\\\).<br>The result is consistent.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>\\\\&#8756; The heat of formation of propane is -106 kJ/mol.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "-106 kJ/mol"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a)",
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Gases and Kinetic Theory",
+      "First Law of Thermodynamics",
+      "Enthalpy"
+    ],
+    "Question": {
+      "content": "A \\(50\\text{g}\\) of an ideal gas whose molecular weight is \\(44\\text{g/mol}\\) is heated from a temperature of \\(275\\text{K}\\) to \\(323\\text{K}\\) at constant pressure of \\(1.20\\text{atm}\\). If \\(\\text{C_p}\\) is \\(20.85\\text{J/mol K}\\), calculate the change in enthalpy resulting from the process.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Change in Enthalpy for an Ideal Gas at Constant Pressure</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><em>Enthalpy (H)</em> is a thermodynamic property that represents the total heat content of a system. The <em>change in enthalpy (\\(\\Delta H\\))</em> measures the heat absorbed or released by a system at constant pressure.<br>For an ideal gas undergoing a process at constant pressure, the change in enthalpy is directly related to the number of moles (\\(n\\)), the molar heat capacity at constant pressure (\\(C_p\\)), and the change in temperature (\\(\\Delta T\\)). The formula is: \\[ \\Delta H = n C_p \\Delta T \\]</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Mass of ideal gas, \\(m = 50\\text{ g}\\)</li><li>Molecular weight of gas, \\(M = 44\\text{ g/mol}\\)</li><li>Initial temperature, \\(T_1 = 275\\text{ K}\\)</li><li>Final temperature, \\(T_2 = 323\\text{ K}\\)</li><li>Constant pressure, \\(P = 1.20\\text{ atm}\\) (not directly used in \\(\\Delta H\\) calculation with \\(C_p\\))</li><li>Molar heat capacity at constant pressure, \\(C_p = 20.85\\text{ J/mol K}\\)</li><li>Formula for enthalpy change: \\(\\Delta H = n C_p \\Delta T\\)</li></ul></div><p style='margin:8px 0;'><strong>Step 1: State the formula for change in enthalpy</strong><br>The change in enthalpy for an ideal gas at constant pressure is given by:<br>\\[ \\Delta H = n C_p \\Delta T \\] <br>Where:<br>\\(n\\) = number of moles<br>\\(C_p\\) = molar heat capacity at constant pressure<br>\\(\\Delta T\\) = change in temperature</p><p style='margin:8px 0;'><strong>Step 2: Calculate the number of moles (\\(n\\)) of the gas</strong><br>The number of moles is calculated by dividing the mass of the gas by its molecular weight.<br>Formula:<br>\\[ n = \\frac{m}{M} \\]<br>Substitute values:<br>\\[ n = \\frac{50\\text{ g}}{44\\text{ g/mol}} \\]<br>Calculate \\(n\\):<br>\\[ n = \\frac{25}{22}\\text{ mol} \\approx \\span style='color:var(--orange);font-weight:bold;'>1.13636\\text{ mol}</span> \\]</p><p style='margin:8px 0;'><strong>Step 3: Calculate the change in temperature (\\(\\Delta T\\))</strong><br>The change in temperature is the final temperature minus the initial temperature.<br>Formula:<br>\\[ \\Delta T = T_2 - T_1 \\]<br>Substitute values:<br>\\[ \\Delta T = 323\\text{ K} - 275\\text{ K} \\]<br>Calculate \\(\\Delta T\\):<br>\\[ \\Delta T = \\span style='color:var(--orange);font-weight:bold;'>48\\text{ K}</span> \\]</p><p style='margin:8px 0;'><strong>Step 4: Substitute the calculated values into the enthalpy change formula</strong><br>Now, substitute the values of \\(n\\), \\(C_p\\), and \\(\\Delta T\\) into the formula from Step 1.<br>Formula:<br>\\[ \\Delta H = n C_p \\Delta T \\]<br>Substitute values:<br>\\[ \\Delta H = \\left(\\frac{25}{22}\\text{ mol}\\right) \\times \\left(20.85\\text{ J/mol K}\\right) \\times \\left(48\\text{ K}\\right) \\]</p><p style='margin:8px 0;'><strong>Step 5: Calculate the final change in enthalpy (\\(\\Delta H\\))</strong><br>Perform the multiplication to find the change in enthalpy.<br>Calculation:<br>\\[ \\Delta H = \\frac{25 \\times 20.85 \\times 48}{22}\\text{ J} \\]<br>\\[ \\Delta H = \\frac{25020}{22}\\text{ J} \\]<br>\\[ \\Delta H = \\frac{12510}{11}\\text{ J} \\]<br>Simplify and round to two decimal places:<br>\\[ \\Delta H \\approx \\span style='color:var(--orange);font-weight:bold;'>1137.27\\text{ J}</span> \\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's check the units: \\(n \\times C_p \\times \\Delta T = \\text{mol} \\times \\frac{\\text{J}}{\\text{mol K}} \\times \\text{K} = \\text{J}\\). The units are consistent with energy.<br>To verify the numerical calculation, if \\(\\Delta H = 1137.27\\text{ J}\\), then \\(n = \\frac{\\Delta H}{C_p \\Delta T} = \\frac{1137.27\\text{ J}}{(20.85\\text{ J/mol K})(48\\text{ K})} = \\frac{1137.27}{1000.8} \\approx 1.13637\\text{ mol}\\). This is very close to our calculated \\(n = \\frac{50}{44} \\approx 1.13636\\text{ mol}\\), confirming the result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The change in enthalpy resulting from the process is \\(1137.27\\text{ J}\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1137.27 J"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2b)",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The boiling point of n-hexane is \\(58.6^\\circ\\text{C}\\) and the heat of vaporization is \\(29,750\\text{J/mol}\\) at this temperature. If the liquid is vaporized into the saturated vapor at this temperature, the process is reversible. Calculate the entropy change per mole of n-hexane.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Entropy",
+      "Phase Equilibria"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Entropy Change During Phase Transition (Vaporization)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><em>Entropy (\\(S\\))</em> is a thermodynamic property that is a measure of the disorder or randomness of a system.<br>The <em>change in entropy (\\(\\Delta S\\))</em> for a reversible process is defined as the heat transferred reversibly (\\(q_{rev}\\)) divided by the absolute temperature (\\(T\\)) at which the transfer occurs.<br>For a reversible phase transition, such as vaporization at the boiling point, the heat transferred reversibly is equal to the enthalpy of vaporization (\\(\\Delta H_{vap}\\)).<br>Therefore, the formula for entropy change during reversible vaporization is:<br>\\[ \\Delta S_{vap} = \\frac{\\Delta H_{vap}}{T_b} \\]<br>where \\(\\Delta H_{vap}\\) is the molar heat of vaporization and \\(T_b\\) is the boiling point in Kelvin.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Boiling point of n-hexane, \\(T_b = 58.6^\\circ\\text{C}\\)<br>Heat of vaporization, \\(\\Delta H_{vap} = 29,750\\text{ J/mol}\\)<br>The process is reversible.</div><p style='margin:8px 0;'><strong>Step 1: State the formula for entropy change during reversible vaporization</strong><br>For a reversible phase transition at constant temperature, the entropy change is given by:<br>\\[ \\Delta S_{vap} = \\frac{\\Delta H_{vap}}{T_b} \\]<br></p><p style='margin:8px 0;'><strong>Step 2: Convert the boiling point temperature from Celsius to Kelvin</strong><br>Thermodynamic calculations require temperature in Kelvin. The conversion formula is:<br>\\[ T(\\text{K}) = T(^\\circ\\text{C}) + 273.15 \\]<br>Substitute the given boiling point:<br>\\[ T_b = 58.6^\\circ\\text{C} + 273.15 \\]<br>\\[ T_b = 331.75\\text{ K} \\]<br>The boiling point in Kelvin is <span style='color:var(--orange);font-weight:bold;'>\\(331.75\\text{ K}\\)</span>.</p><p style='margin:8px 0;'><strong>Step 3: Substitute the given values into the entropy change formula</strong><br>Using the formula from Step 1 and the converted temperature from Step 2:<br>\\[ \\Delta S_{vap} = \\frac{\\Delta H_{vap}}{T_b} \\]<br>Substitute \\(\\Delta H_{vap} = 29,750\\text{ J/mol}\\) and \\(T_b = 331.75\\text{ K}\\):<br>\\[ \\Delta S_{vap} = \\frac{29,750\\text{ J/mol}}{331.75\\text{ K}} \\]<br></p><p style='margin:8px 0;'><strong>Step 4: Calculate the entropy change</strong><br>Perform the division to find the numerical value of \\(\\Delta S_{vap}\\):<br>\\[ \\Delta S_{vap} = 89.67288...\\text{ J/mol}\\cdot\\text{K} \\]<br>Rounding to two decimal places, we get:<br>\\[ \\Delta S_{vap} \\approx 89.67\\text{ J/mol}\\cdot\\text{K} \\]<br>The entropy change per mole of n-hexane is <span style='color:var(--orange);font-weight:bold;'>\\(89.67\\text{ J/mol}\\cdot\\text{K}\\)</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The units of the calculation are \\( \\frac{\\text{J/mol}}{\\text{K}} = \\text{J/mol}\\cdot\\text{K} \\), which are the correct units for molar entropy change.<br>Vaporization is a process where a liquid turns into a gas, which involves an increase in disorder. Therefore, the entropy change (\\(\\Delta S\\)) for vaporization should be positive, which our calculated value of \\(89.67\\text{ J/mol}\\cdot\\text{K}\\) is. This confirms the reasonableness of the result.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The entropy change per mole of n-hexane is \\(89.67\\text{ J/mol}\\cdot\\text{K}\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(89.67\\text{ J/mol}\\cdot\\text{K}\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Physical Chemistry 1",
+      "Chemical Thermodynamics",
+      "Adiabatic Processes",
+      "Gases and Kinetic Theory",
+      "First Law of Thermodynamics",
+      "Internal Energy",
+      "Work",
+      "Temperature-Volume Relationship"
+    ],
+    "Question": {
+      "content": "Under reversible adiabatic process, derive an expression for the relationship between temperature and volume for the finite transformation state 1 to state 2. Define all the variables used in the derivation.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Derivation of Temperature-Volume Relationship for a Reversible Adiabatic Process</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>adiabatic process</em> is a thermodynamic process that occurs without transfer of heat or mass between the thermodynamic system and its surroundings. For such a process, \\(dQ = 0\\).<br>A <em>reversible process</em> is a process that can be reversed by an infinitesimal change in conditions, returning the system and surroundings to their initial states.<br>The <em>First Law of Thermodynamics</em> states that the change in internal energy (\\(dU\\)) of a system is equal to the heat added to the system (\\(dQ\\)) minus the work done by the system (\\(dW\\)): \\(dU = dQ - dW\\). (Note: Some conventions use \\(dU = dQ + dW\\), where \\(dW\\) is work done <em>on</em> the system. Here we use \\(dW = -P dV\\) for work done <em>by</em> the system).<br>For an <em>ideal gas</em>, the internal energy depends only on temperature, and its change is given by \\(dU = nC_v dT\\). The <em>Ideal Gas Law</em> is \\(PV = nRT\\).<br>The <em>adiabatic index</em>, \\(\\gamma\\), is the ratio of the molar heat capacity at constant pressure (\\(C_p\\)) to the molar heat capacity at constant volume (\\(C_v\\)): \\( \\gamma = C_p / C_v \\). For ideal gases, \\(C_p - C_v = R\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>Process: Reversible adiabatic transformation of an ideal gas.</li><li>States: Initial state 1 (Temperature \\(T_1\\), Volume \\(V_1\\)) to final state 2 (Temperature \\(T_2\\), Volume \\(V_2\\)).</li><li>Goal: Derive the relationship between temperature and volume.</li></ul></div><p style='margin:8px 0;'><strong>Step 1: State the First Law of Thermodynamics for an adiabatic process.</strong><br>The First Law of Thermodynamics is given by:<br>\\[ dU = dQ + dW \\]For an adiabatic process, there is no heat exchange, so \\(dQ = 0\\).<br>Therefore, the First Law simplifies to:<br>\\[ dU = dW \\]Where \\(dW\\) is the work done <em>on</em> the system.</p><p style='margin:8px 0;'><strong>Step 2: Express the change in internal energy (\\(dU\\)) for an ideal gas.</strong><br>For an ideal gas, the change in internal energy is related to the change in temperature and the molar heat capacity at constant volume:<br>\\[ dU = nC_v dT \\]Where:<br>\\(n\\) = number of moles of the gas<br>\\(C_v\\) = molar heat capacity at constant volume<br>\\(dT\\) = infinitesimal change in temperature</p><p style='margin:8px 0;'><strong>Step 3: Express the work done (\\(dW\\)) for a reversible process.</strong><br>For a reversible process, the work done <em>by</em> the system is \\(P dV\\). Thus, the work done <em>on</em> the system is:<br>\\[ dW = -P dV \\]Where:<br>\\(P\\) = pressure of the gas<br>\\(dV\\) = infinitesimal change in volume</p><p style='margin:8px 0;'><strong>Step 4: Substitute \\(dU\\) and \\(dW\\) into the First Law equation.</strong><br>From Step 1, \\(dU = dW\\). Substituting the expressions from Step 2 and Step 3:<br>\\[ nC_v dT = -P dV \\]</p><p style='margin:8px 0;'><strong>Step 5: Apply the Ideal Gas Law to eliminate pressure (\\(P\\)).</strong><br>The Ideal Gas Law is:<br>\\[ PV = nRT \\]Rearranging to solve for \\(P\\):<br>\\[ P = \\frac{nRT}{V} \\]Substitute this expression for \\(P\\) into the equation from Step 4:<br>\\[ nC_v dT = -\\left(\\frac{nRT}{V}\\right) dV \\]Simplify by cancelling \\(n\\) on both sides:<br>\\[ C_v dT = -\\frac{RT}{V} dV \\]</p><p style='margin:8px 0;'><strong>Step 6: Separate variables and integrate.</strong><br>Rearrange the equation to group temperature terms with \\(dT\\) and volume terms with \\(dV\\):<br>\\[ \\frac{C_v}{T} dT = -\\frac{R}{V} dV \\]Now, integrate both sides from initial state 1 (\\(T_1, V_1\\)) to final state 2 (\\(T_2, V_2\\)):<br>\\[ \\int_{T_1}^{T_2} \\frac{C_v}{T} dT = \\int_{V_1}^{V_2} -\\frac{R}{V} dV \\]Assuming \\(C_v\\) and \\(R\\) are constant over the temperature range:<br>\\[ C_v \\int_{T_1}^{T_2} \\frac{1}{T} dT = -R \\int_{V_1}^{V_2} \\frac{1}{V} dV \\]Perform the integration:<br>\\[ C_v [\\ln T]_{T_1}^{T_2} = -R [\\ln V]_{V_1}^{V_2} \\]\\[ C_v (\\ln T_2 - \\ln T_1) = -R (\\ln V_2 - \\ln V_1) \\]Using logarithm properties (\\(\\ln a - \\ln b = \\ln(a/b)\\)):<br>\\[ C_v \\ln\\left(\\frac{T_2}{T_1}\\right) = -R \\ln\\left(\\frac{V_2}{V_1}\\right) \\]Apply the negative sign to the logarithm on the right side (\\(- \\ln x = \\ln(1/x)\\)):<br>\\[ C_v \\ln\\left(\\frac{T_2}{T_1}\\right) = R \\ln\\left(\\frac{V_1}{V_2}\\right) \\]</p><p style='margin:8px 0;'><strong>Step 7: Introduce the relationship between \\(R\\), \\(C_p\\), and \\(C_v\\).</strong><br>For an ideal gas, the relationship between molar heat capacities at constant pressure (\\(C_p\\)) and constant volume (\\(C_v\\)) is:<br>\\[ C_p - C_v = R \\]Substitute \\(R = C_p - C_v\\) into the equation from Step 6:<br>\\[ C_v \\ln\\left(\\frac{T_2}{T_1}\\right) = (C_p - C_v) \\ln\\left(\\frac{V_1}{V_2}\\right) \\]</p><p style='margin:8px 0;'><strong>Step 8: Define the adiabatic index (\\(\\gamma\\)).</strong><br>The adiabatic index (or heat capacity ratio) is defined as:<br>\\[ \\gamma = \\frac{C_p}{C_v} \\]Divide the equation \\(C_p - C_v = R\\) by \\(C_v\\):<br>\\[ \\frac{C_p}{C_v} - \\frac{C_v}{C_v} = \\frac{R}{C_v} \\]\\[ \\gamma - 1 = \\frac{R}{C_v} \\]This also implies \\(R = (\\gamma - 1)C_v\\).</p><p style='margin:8px 0;'><strong>Step 9: Substitute \\(\\gamma\\) into the integrated equation.</strong><br>From Step 7, we have:<br>\\[ C_v \\ln\\left(\\frac{T_2}{T_1}\\right) = (C_p - C_v) \\ln\\left(\\frac{V_1}{V_2}\\right) \\]Divide both sides by \\(C_v\\):<br>\\[ \\ln\\left(\\frac{T_2}{T_1}\\right) = \\left(\\frac{C_p - C_v}{C_v}\\right) \\ln\\left(\\frac{V_1}{V_2}\\right) \\]Simplify the term in the parenthesis using the definition of \\(\\gamma\\):<br>\\[ \\frac{C_p - C_v}{C_v} = \\frac{C_p}{C_v} - \\frac{C_v}{C_v} = \\gamma - 1 \\]So the equation becomes:<br>\\[ \\ln\\left(\\frac{T_2}{T_1}\\right) = (\\gamma - 1) \\ln\\left(\\frac{V_1}{V_2}\\right) \\]</p><p style='margin:8px 0;'><strong>Step 10: Convert the logarithmic form to a power form.</strong><br>Using the logarithm property \\(a \\ln x = \\ln(x^a)\\):<br>\\[ \\ln\\left(\\frac{T_2}{T_1}\\right) = \\ln\\left(\\left(\\frac{V_1}{V_2}\\right)^{\\gamma - 1}\\right) \\]Since the natural logarithms are equal, their arguments must be equal:<br>\\[ \\frac{T_2}{T_1} = \\left(\\frac{V_1}{V_2}\\right)^{\\gamma - 1} \\]Rearrange the terms to group state 1 and state 2 variables:<br>\\[ T_2 V_2^{\\gamma - 1} = T_1 V_1^{\\gamma - 1} \\]</p><p style='margin:8px 0;'><strong>Step 11: State the final relationship and define all variables.</strong><br>The derived relationship shows that for a reversible adiabatic process of an ideal gas, the product \\(TV^{\\gamma-1}\\) is constant.<br>\\[ \\span style='color:var(--orange);font-weight:bold;'>TV^{\\gamma - 1} = \\text{constant}</span> \\]For a finite transformation from state 1 to state 2, this means:<br>\\[ \\span style='color:var(--orange);font-weight:bold;'>T_1 V_1^{\\gamma - 1} = T_2 V_2^{\\gamma - 1}</span> \\]Where:<br><ul><li>\\(T_1\\), \\(V_1\\) = Absolute Temperature and Volume of the ideal gas at the initial state 1.</li><li>\\(T_2\\), \\(V_2\\) = Absolute Temperature and Volume of the ideal gas at the final state 2.</li><li>\\(n\\) = number of moles of the gas (constant during the process).</li><li>\\(R\\) = Universal Ideal Gas Constant (e.g., \\(8.314 \\, \\text{J mol}^{-1} \\text{K}^{-1}\\)).</li><li>\\(C_v\\) = Molar heat capacity at constant volume.</li><li>\\(C_p\\) = Molar heat capacity at constant pressure.</li><li>\\(\\gamma\\) = Adiabatic index or heat capacity ratio, defined as \\(\\gamma = C_p / C_v\\).</li></ul></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The derived relationship \\(TV^{\\gamma-1} = \\text{constant}\\) is a fundamental equation for reversible adiabatic processes of ideal gases. It correctly predicts the behavior of gases under such conditions. For instance, during an adiabatic expansion (\\(V\\) increases), the temperature (\\(T\\)) must decrease because the gas does work on its surroundings without any heat input. Conversely, during an adiabatic compression (\\(V\\) decreases), the temperature (\\(T\\)) must increase, as work is done on the gas, increasing its internal energy. This consistency with the First Law of Thermodynamics and physical observations confirms the validity of the derivation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The relationship between temperature and volume for a reversible adiabatic process of an ideal gas is \\(T_1 V_1^{\\gamma-1} = T_2 V_2^{\\gamma-1}\\) or \\(TV^{\\gamma-1} = \\text{constant}\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The relationship is \\(T_1 V_1^{\\gamma-1} = T_2 V_2^{\\gamma-1}\\) or \\(TV^{\\gamma-1} = \\text{constant}\\).<br>Where \\(T\\) is absolute temperature, \\(V\\) is volume, and \\(\\gamma\\) is the adiabatic index (\\(C_p/C_v\\))."
+    }
+  }
+]
